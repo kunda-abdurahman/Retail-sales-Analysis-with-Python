@@ -1,0 +1,2468 @@
+receipt,date,branch,product,category,qty,price,payment,customer,is_return,unusual_qty,new_customer
+R10001,2026-10-01,Kakuma Town,Water,drinks,2.0,50.0,M-Pesa,,False,False,True
+R10002,2026-10-01,Lodwar,Water,drinks,4.0,50.0,M-Pesa,,False,False,True
+R10003,2026-10-01,Kakuma Town,Salt,cooking,2.0,40.0,Cash,,False,False,True
+R10004,2026-10-01,Kitale,Milk,dairy,2.0,65.0,Cash,C0308,False,False,False
+R10005,2026-10-01,Kakuma Town,Detergent,household,3.0,270.0,Cash,,False,False,True
+R10006,2026-10-01,Lodwar,Water,drinks,2.0,50.0,Cash,,False,False,True
+R10007,2026-10-01,Lodwar,Cooking oil,cooking,4.0,320.0,M-Pesa,,False,False,True
+R10008,2026-10-01,Lodwar,Soda,drinks,2.0,70.0,M-Pesa,C0067,False,False,False
+R10009,2026-10-01,Lodwar,Wheat flour,grains,3.0,190.0,M-Pesa,C0122,False,False,False
+R10010,2026-10-01,Kakuma Town,Soap,household,4.0,85.0,Cash,C0181,False,False,False
+R10011,2026-10-01,Lodwar,Water,drinks,2.0,45.0,M-Pesa,,False,False,True
+R10012,2026-10-01,Lodwar,Soda,drinks,3.0,70.0,M-Pesa,,False,False,True
+R10013,2026-10-01,Lodwar,Butter,dairy,3.0,250.0,Cash,,False,False,True
+R10014,2026-10-01,Kakuma Town,Soap,household,1.0,85.0,M-Pesa,,False,False,True
+R10015,2026-10-01,Kakuma Town,Water,drinks,3.0,50.0,Cash,C0296,False,False,False
+R10016,2026-10-01,Kitale,Eggs,dairy,4.0,480.0,Cash,,False,False,True
+R10017,2026-10-01,Kakuma Town,Milk,dairy,6.0,65.0,M-Pesa,,False,False,True
+R10018,2026-10-01,Kakuma Town,Water,drinks,3.0,50.0,Card,C0177,False,False,False
+R10019,2026-10-01,Kakuma Town,Tea leaves,cooking,1.0,120.0,Card,C0016,False,False,False
+R10020,2026-10-01,Kitale,Water,drinks,1.0,50.0,Cash,C0187,False,False,False
+R10021,2026-10-01,Kakuma Town,Soda,drinks,2.0,70.0,Cash,C0175,False,False,False
+R10022,2026-10-01,Kitale,Wheat flour,grains,2.0,190.0,M-Pesa,,False,False,True
+R10023,2026-10-01,Kitale,Wheat flour,grains,2.0,190.0,Cash,,False,False,True
+R10024,2026-10-01,Kakuma Town,Matches,household,3.0,20.0,Cash,,False,False,True
+R10025,2026-10-01,Kakuma Town,Rice,grains,3.0,290.0,M-Pesa,,False,False,True
+R10026,2026-10-01,Kitale,Sugar,cooking,3.0,165.0,M-Pesa,,False,False,True
+R10027,2026-10-01,Kakuma Town,Wheat flour,grains,2.0,190.0,Cash,,False,False,True
+R10028,2026-10-01,Lodwar,Milk,dairy,1.0,65.0,Cash,,False,False,True
+R10029,2026-10-01,Lodwar,Rice,grains,3.0,290.0,Cash,C0308,False,False,False
+R10030,2026-10-01,Lodwar,Kale,produce,3.0,30.0,M-Pesa,,False,False,True
+R10031,2026-10-01,Kitale,Tea leaves,cooking,2.0,120.0,Cash,,False,False,True
+R10032,2026-10-01,Kakuma Town,Kale,produce,2.0,27.0,M-Pesa,C0267,False,False,False
+R10033,2026-10-01,Kitale,Kale,produce,1.0,30.0,Card,,False,False,True
+R10034,2026-10-01,Lodwar,Salt,cooking,6.0,40.0,M-Pesa,C0038,False,False,False
+R10035,2026-10-01,Lodwar,Maize flour,grains,3.0,180.0,Credit,,False,False,True
+R10036,2026-10-01,Kakuma Town,Soda,drinks,1.0,,Cash,C0135,False,False,False
+R10037,2026-10-01,Lodwar,Wheat flour,grains,7.0,190.0,Cash,,False,False,True
+R10038,2026-10-01,Kitale,Juice,drinks,2.0,130.0,M-Pesa,,False,False,True
+R10039,2026-10-01,Lodwar,Salt,cooking,1.0,40.0,Cash,C0242,False,False,False
+R10040,2026-10-01,Kitale,Tea leaves,cooking,2.0,120.0,M-Pesa,,False,False,True
+R10041,2026-10-01,Kitale,Matches,household,1.0,20.0,M-Pesa,C0041,False,False,False
+R10042,2026-10-01,Kitale,Detergent,household,3.0,270.0,Cash,,False,False,True
+R10043,2026-10-01,Kitale,Detergent,household,3.0,270.0,unknown,C0028,False,False,False
+R10044,2026-10-01,Lodwar,Milk,dairy,5.0,65.0,M-Pesa,,False,False,True
+R10045,2026-10-01,Kakuma Town,Cooking oil,cooking,1.0,320.0,Cash,,False,False,True
+R10046,2026-10-01,Kakuma Town,Milk,dairy,1.0,65.0,Cash,,False,False,True
+R10047,2026-10-01,Kakuma Town,Eggs,dairy,2.0,480.0,M-Pesa,,False,False,True
+R10048,2026-10-01,Kitale,Tomatoes,produce,1.0,90.0,unknown,C0103,False,False,False
+R10049,2026-10-01,Lodwar,Eggs,dairy,2.0,480.0,Cash,C0030,False,False,False
+R10050,2026-10-01,Lodwar,Maize flour,grains,3.0,180.0,Cash,C0082,False,False,False
+R10051,2026-10-01,Kakuma Town,Rice,grains,3.0,290.0,M-Pesa,,False,False,True
+R10052,2026-10-01,Kakuma Town,Detergent,household,3.0,270.0,Cash,C0297,False,False,False
+R10053,2026-10-01,Kitale,Water,drinks,3.0,50.0,Cash,,False,False,True
+R10054,2026-10-01,Kakuma Town,Water,drinks,2.0,50.0,M-Pesa,C0115,False,False,False
+R10055,2026-10-01,Kitale,Milk,dairy,3.0,65.0,Cash,C0183,False,False,False
+R10056,2026-10-01,Kitale,Tomatoes,produce,2.0,90.0,Card,C0101,False,False,False
+R10057,2026-10-01,Lodwar,Sugar,cooking,2.0,165.0,M-Pesa,,False,False,True
+R10058,2026-10-01,Lodwar,Sugar,cooking,1.0,165.0,Cash,,False,False,True
+R10059,2026-10-01,Kakuma Town,Kale,produce,1.0,30.0,M-Pesa,C0047,False,False,False
+R10060,2026-10-01,Kitale,Tomatoes,produce,2.0,90.0,unknown,,False,False,True
+R10061,2026-10-01,Lodwar,Eggs,dairy,2.0,480.0,M-Pesa,C0050,False,False,False
+R10062,2026-10-01,Kitale,Water,drinks,1.0,50.0,Cash,,False,False,True
+R10063,2026-10-01,Kakuma Town,Tomatoes,produce,3.0,90.0,Cash,,False,False,True
+R10064,2026-10-01,Lodwar,Onions,produce,1.0,100.0,M-Pesa,C0127,False,False,False
+R10065,2026-10-01,Kakuma Town,Butter,dairy,5.0,250.0,Cash,C0146,False,False,False
+R10066,2026-10-01,Lodwar,Tomatoes,produce,2.0,90.0,Cash,C0278,False,False,False
+R10067,2026-10-01,Lodwar,Detergent,household,4.0,270.0,Credit,,False,False,True
+R10068,2026-10-01,Lodwar,Butter,dairy,1.0,250.0,Card,,False,False,True
+R10069,2026-10-01,Kakuma Town,Salt,cooking,4.0,40.0,M-Pesa,,False,False,True
+R10070,2026-10-01,Lodwar,Kale,produce,2.0,30.0,unknown,,False,False,True
+R10071,2026-10-01,Lodwar,Soda,drinks,3.0,70.0,M-Pesa,C0095,False,False,False
+R10072,2026-10-01,Kitale,Matches,household,2.0,20.0,M-Pesa,,False,False,True
+R10073,2026-10-01,Kakuma Town,Soda,drinks,2.0,70.0,M-Pesa,C0111,False,False,False
+R10074,2026-10-01,Kitale,Juice,drinks,3.0,130.0,M-Pesa,,False,False,True
+R10075,2026-10-01,Kitale,Onions,produce,3.0,100.0,M-Pesa,C0314,False,False,False
+R10076,2026-10-01,Lodwar,Water,drinks,1.0,50.0,unknown,C0054,False,False,False
+R10077,2026-10-01,Kakuma Town,Rice,grains,3.0,290.0,M-Pesa,,False,False,True
+R10078,2026-10-01,Kakuma Town,Rice,grains,1.0,290.0,Cash,,False,False,True
+R10079,2026-10-01,Kakuma Town,Butter,dairy,3.0,250.0,M-Pesa,,False,False,True
+R10080,2026-10-01,Lodwar,Soda,drinks,3.0,70.0,M-Pesa,,False,False,True
+R10081,2026-10-01,Lodwar,Milk,dairy,3.0,65.0,M-Pesa,,False,False,True
+R10082,2026-10-01,Kitale,Juice,drinks,3.0,130.0,Cash,C0037,False,False,False
+R10083,2026-10-01,Kakuma Town,Soda,drinks,5.0,70.0,M-Pesa,C0187,False,False,False
+R10084,2026-10-01,Kakuma Town,Maize flour,grains,2.0,180.0,Cash,,False,False,True
+R10085,2026-10-01,Kitale,Detergent,household,-1.0,270.0,Card,,True,False,True
+R10086,2026-10-01,Kitale,Tomatoes,produce,3.0,90.0,Credit,C0200,False,False,False
+R10087,2026-10-01,Kakuma Town,Onions,produce,4.0,100.0,Cash,C0081,False,False,False
+R10088,2026-10-01,Kitale,Tea leaves,cooking,1.0,120.0,Cash,,False,False,True
+R10089,2026-10-01,Kitale,Soda,drinks,4.0,70.0,Card,C0149,False,False,False
+R10090,2026-10-01,Kitale,Milk,dairy,5.0,65.0,Cash,C0195,False,False,False
+R10091,2026-10-01,Kakuma Town,Milk,dairy,2.0,65.0,M-Pesa,,False,False,True
+R10092,2026-10-01,Kitale,Wheat flour,grains,2.0,190.0,Cash,,False,False,True
+R10093,2026-10-01,Kitale,Water,drinks,2.0,50.0,M-Pesa,,False,False,True
+R10094,2026-10-01,Kakuma Town,Soap,household,5.0,85.0,M-Pesa,,False,False,True
+R10095,2026-10-01,Kakuma Town,Rice,grains,2.0,290.0,Credit,C0051,False,False,False
+R10096,2026-10-01,Kakuma Town,Juice,drinks,1.0,130.0,M-Pesa,,False,False,True
+R10097,2026-10-01,Kakuma Town,Butter,dairy,3.0,250.0,Cash,C0259,False,False,False
+R10098,2026-10-01,Kakuma Town,Soap,household,7.0,85.0,M-Pesa,C0147,False,False,False
+R10099,2026-10-01,Kitale,Soda,drinks,-1.0,70.0,M-Pesa,,True,False,True
+R10100,2026-10-01,Kakuma Town,Kale,produce,5.0,30.0,M-Pesa,,False,False,True
+R10101,2026-10-01,Kitale,Eggs,dairy,1.0,480.0,M-Pesa,C0300,False,False,False
+R10102,2026-10-01,Kitale,Juice,drinks,3.0,130.0,M-Pesa,,False,False,True
+R10103,2026-10-01,Kitale,Tea leaves,cooking,1.0,120.0,unknown,,False,False,True
+R10104,2026-10-01,Kitale,Kale,produce,4.0,27.0,Cash,,False,False,True
+R10105,2026-10-01,Kakuma Town,Sugar,cooking,3.0,165.0,M-Pesa,C0071,False,False,False
+R10106,2026-10-01,Kakuma Town,Water,drinks,4.0,50.0,Cash,C0189,False,False,False
+R10107,2026-10-01,Lodwar,Matches,household,1.0,20.0,M-Pesa,,False,False,True
+R10108,2026-10-02,Kitale,Cooking oil,cooking,4.0,320.0,Cash,,False,False,True
+R10109,2026-10-02,Kakuma Town,Milk,dairy,2.0,65.0,M-Pesa,,False,False,True
+R10110,2026-10-02,Kakuma Town,Tea leaves,cooking,3.0,120.0,M-Pesa,C0207,False,False,False
+R10111,2026-10-02,Kakuma Town,Wheat flour,grains,4.0,190.0,M-Pesa,,False,False,True
+R10112,2026-10-02,Kitale,Soap,household,2.0,85.0,M-Pesa,,False,False,True
+R10113,2026-10-02,Lodwar,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R10114,2026-10-02,Kitale,Soda,drinks,4.0,70.0,M-Pesa,,False,False,True
+R10115,2026-10-02,Kitale,Water,drinks,3.0,50.0,Card,C0248,False,False,False
+R10116,2026-10-02,Kakuma Town,Salt,cooking,2.0,40.0,M-Pesa,C0195,False,False,False
+R10117,2026-10-02,Lodwar,Rice,grains,4.0,290.0,Card,,False,False,True
+R10118,2026-10-02,Kakuma Town,Water,drinks,1.0,50.0,M-Pesa,,False,False,True
+R10119,2026-10-02,Lodwar,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R10120,2026-10-02,Kakuma Town,Salt,cooking,4.0,36.0,Cash,C0141,False,False,False
+R10121,2026-10-02,Lodwar,Onions,produce,2.0,100.0,Cash,,False,False,True
+R10122,2026-10-02,Kakuma Town,Wheat flour,grains,3.0,190.0,M-Pesa,,False,False,True
+R10123,2026-10-02,Kitale,Maize flour,grains,4.0,180.0,Cash,C0200,False,False,False
+R10124,2026-10-02,Lodwar,Maize flour,grains,2.0,180.0,Cash,C0253,False,False,False
+R10125,2026-10-02,Kitale,Tomatoes,produce,3.0,90.0,M-Pesa,C0300,False,False,False
+R10126,2026-10-02,Kakuma Town,Water,drinks,4.0,50.0,M-Pesa,,False,False,True
+R10127,2026-10-02,Kakuma Town,Sugar,cooking,3.0,165.0,M-Pesa,,False,False,True
+R10128,2026-10-02,Kakuma Town,Kale,produce,1.0,30.0,Cash,,False,False,True
+R10129,2026-10-02,Kitale,Tea leaves,cooking,3.0,120.0,Cash,,False,False,True
+R10130,2026-10-02,Lodwar,Milk,dairy,2.0,65.0,Cash,C0300,False,False,False
+R10131,2026-10-02,Kitale,Maize flour,grains,3.0,180.0,Cash,,False,False,True
+R10132,2026-10-02,Lodwar,Detergent,household,1.0,270.0,M-Pesa,C0076,False,False,False
+R10133,2026-10-02,Kakuma Town,Soda,drinks,4.0,63.0,Card,,False,False,True
+R10134,2026-10-02,Kakuma Town,Salt,cooking,3.0,40.0,M-Pesa,,False,False,True
+R10135,2026-10-02,Kakuma Town,Milk,dairy,7.0,58.0,Cash,,False,False,True
+R10136,2026-10-02,Kakuma Town,Matches,household,1.0,20.0,Cash,C0297,False,False,False
+R10137,2026-10-02,Lodwar,Maize flour,grains,1.0,180.0,Credit,,False,False,True
+R10138,2026-10-02,Kitale,Maize flour,grains,1.0,180.0,Cash,C0200,False,False,False
+R10139,2026-10-02,Kitale,Onions,produce,2.0,100.0,Cash,C0053,False,False,False
+R10140,2026-10-02,Kitale,Wheat flour,grains,2.0,190.0,M-Pesa,C0102,False,False,False
+R10141,2026-10-02,Kitale,Water,drinks,2.0,50.0,Cash,,False,False,True
+R10142,2026-10-02,Lodwar,Eggs,dairy,3.0,480.0,Cash,,False,False,True
+R10143,2026-10-02,Kakuma Town,Water,drinks,1.0,50.0,Cash,C0280,False,False,False
+R10144,2026-10-02,Lodwar,Eggs,dairy,6.0,480.0,Credit,C0092,False,False,False
+R10145,2026-10-02,Kitale,Butter,dairy,2.0,250.0,M-Pesa,C0187,False,False,False
+R10146,2026-10-02,Lodwar,Water,drinks,2.0,50.0,M-Pesa,,False,False,True
+R10147,2026-10-02,Kakuma Town,Water,drinks,3.0,,M-Pesa,C0211,False,False,False
+R10148,2026-10-02,Kakuma Town,Cooking oil,cooking,1.0,288.0,Cash,,False,False,True
+R10149,2026-10-02,Kitale,Onions,produce,1.0,100.0,M-Pesa,,False,False,True
+R10150,2026-10-02,Kakuma Town,Tea leaves,cooking,2.0,120.0,M-Pesa,C0145,False,False,False
+R10151,2026-10-02,Kitale,Rice,grains,3.0,290.0,Cash,,False,False,True
+R10152,2026-10-02,Kakuma Town,Water,drinks,-1.0,50.0,Cash,,True,False,True
+R10153,2026-10-02,Kitale,Rice,grains,3.0,290.0,Cash,C0095,False,False,False
+R10154,2026-10-02,Lodwar,Water,drinks,2.0,45.0,M-Pesa,C0147,False,False,False
+R10155,2026-10-02,Kitale,Onions,produce,3.0,90.0,Cash,C0236,False,False,False
+R10156,2026-10-02,Kakuma Town,Sugar,cooking,4.0,165.0,unknown,,False,False,True
+R10157,2026-10-02,Kitale,Soap,household,1.0,85.0,Card,C0092,False,False,False
+R10158,2026-10-02,Kitale,Tea leaves,cooking,2.0,120.0,Cash,,False,False,True
+R10159,2026-10-02,Lodwar,Detergent,household,5.0,270.0,Cash,,False,False,True
+R10160,2026-10-02,Lodwar,Cooking oil,cooking,3.0,320.0,M-Pesa,C0287,False,False,False
+R10161,2026-10-02,Kitale,Kale,produce,2.0,30.0,Cash,C0168,False,False,False
+R10162,2026-10-02,Kitale,Milk,dairy,3.0,58.0,Cash,C0113,False,False,False
+R10163,2026-10-02,Kitale,Cooking oil,cooking,2.0,320.0,Card,,False,False,True
+R10164,2026-10-02,Kakuma Town,Tea leaves,cooking,4.0,120.0,Cash,C0293,False,False,False
+R10165,2026-10-02,Lodwar,Milk,dairy,2.0,65.0,Cash,,False,False,True
+R10166,2026-10-02,Kitale,Onions,produce,8.0,100.0,Cash,,False,False,True
+R10167,2026-10-02,Kitale,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R10168,2026-10-02,Kakuma Town,Onions,produce,3.0,100.0,Card,,False,False,True
+R10169,2026-10-02,Lodwar,Kale,produce,2.0,30.0,M-Pesa,,False,False,True
+R10170,2026-10-02,Kakuma Town,Cooking oil,cooking,3.0,288.0,Cash,C0222,False,False,False
+R10171,2026-10-02,Kakuma Town,Milk,dairy,3.0,65.0,Cash,C0029,False,False,False
+R10172,2026-10-02,Kitale,Sugar,cooking,2.0,165.0,M-Pesa,C0011,False,False,False
+R10173,2026-10-02,Kakuma Town,Soap,household,3.0,85.0,M-Pesa,,False,False,True
+R10174,2026-10-02,Lodwar,Wheat flour,grains,5.0,190.0,Cash,,False,False,True
+R10175,2026-10-02,Kakuma Town,Juice,drinks,-1.0,130.0,M-Pesa,,True,False,True
+R10176,2026-10-02,Lodwar,Milk,dairy,3.0,65.0,M-Pesa,C0122,False,False,False
+R10177,2026-10-02,Kitale,Maize flour,grains,3.0,180.0,M-Pesa,,False,False,True
+R10178,2026-10-02,Lodwar,Water,drinks,3.0,50.0,Cash,C0004,False,False,False
+R10180,2026-10-02,Kitale,Milk,dairy,3.0,58.0,M-Pesa,,False,False,True
+R10181,2026-10-02,Kakuma Town,Eggs,dairy,6.0,480.0,M-Pesa,C0090,False,False,False
+R10182,2026-10-02,Kakuma Town,Wheat flour,grains,-1.0,190.0,Cash,C0147,True,False,False
+R10183,2026-10-02,Kakuma Town,Tomatoes,produce,6.0,90.0,M-Pesa,,False,False,True
+R10184,2026-10-02,Kitale,Maize flour,grains,4.0,162.0,M-Pesa,C0035,False,False,False
+R10185,2026-10-02,Kakuma Town,Tea leaves,cooking,2.0,108.0,Cash,,False,False,True
+R10186,2026-10-02,Kitale,Soda,drinks,2.0,70.0,M-Pesa,,False,False,True
+R10187,2026-10-02,Kakuma Town,Detergent,household,2.0,270.0,Cash,,False,False,True
+R10189,2026-10-02,Kitale,Eggs,dairy,3.0,480.0,Cash,C0165,False,False,False
+R10190,2026-10-02,Lodwar,Cooking oil,cooking,4.0,288.0,M-Pesa,C0119,False,False,False
+R10191,2026-10-02,Kakuma Town,Maize flour,grains,1.0,180.0,M-Pesa,,False,False,True
+R10192,2026-10-02,Kitale,Cooking oil,cooking,2.0,288.0,Cash,C0150,False,False,False
+R10193,2026-10-02,Lodwar,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R10194,2026-10-02,Lodwar,Tomatoes,produce,2.0,90.0,Cash,C0018,False,False,False
+R10195,2026-10-02,Kakuma Town,Soda,drinks,1.0,70.0,Cash,C0004,False,False,False
+R10196,2026-10-02,Kakuma Town,Soda,drinks,3.0,70.0,Cash,C0229,False,False,False
+R10197,2026-10-02,Kakuma Town,Water,drinks,-1.0,50.0,Cash,,True,False,True
+R10198,2026-10-02,Kakuma Town,Wheat flour,grains,2.0,190.0,Cash,,False,False,True
+R10199,2026-10-02,Kitale,Wheat flour,grains,2.0,190.0,Card,C0138,False,False,False
+R10200,2026-10-02,Lodwar,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R10201,2026-10-02,Kitale,Water,drinks,3.0,50.0,Cash,C0155,False,False,False
+R10202,2026-10-02,Kitale,Butter,dairy,2.0,250.0,M-Pesa,,False,False,True
+R10203,2026-10-02,Kakuma Town,Wheat flour,grains,2.0,190.0,Cash,C0319,False,False,False
+R10204,2026-10-02,Kakuma Town,Juice,drinks,3.0,130.0,Card,,False,False,True
+R10206,2026-10-02,Kakuma Town,Kale,produce,1.0,30.0,Card,,False,False,True
+R10207,2026-10-02,Kakuma Town,Soda,drinks,4.0,70.0,Cash,C0304,False,False,False
+R10208,2026-10-02,Kakuma Town,Soap,household,2.0,85.0,Cash,C0202,False,False,False
+R10209,2026-10-02,Kitale,Maize flour,grains,3.0,180.0,Credit,C0201,False,False,False
+R10210,2026-10-02,Kakuma Town,Water,drinks,2.0,50.0,Cash,,False,False,True
+R10211,2026-10-02,Kakuma Town,Sugar,cooking,4.0,,M-Pesa,,False,False,True
+R10212,2026-10-02,Kakuma Town,Salt,cooking,2.0,40.0,M-Pesa,C0288,False,False,False
+R10213,2026-10-02,Kitale,Sugar,cooking,2.0,165.0,M-Pesa,,False,False,True
+R10214,2026-10-02,Kakuma Town,Sugar,cooking,2.0,165.0,M-Pesa,C0254,False,False,False
+R10215,2026-10-02,Lodwar,Salt,cooking,2.0,40.0,M-Pesa,C0200,False,False,False
+R10216,2026-10-03,Kitale,Juice,drinks,1.0,130.0,unknown,C0296,False,False,False
+R10217,2026-10-03,Lodwar,Sugar,cooking,2.0,165.0,M-Pesa,C0040,False,False,False
+R10218,2026-10-03,Kitale,Wheat flour,grains,5.0,190.0,M-Pesa,,False,False,True
+R10219,2026-10-03,Kakuma Town,Milk,dairy,1.0,65.0,M-Pesa,C0135,False,False,False
+R10220,2026-10-03,Kakuma Town,Water,drinks,1.0,50.0,Cash,,False,False,True
+R10221,2026-10-03,Kitale,Water,drinks,2.0,50.0,Cash,,False,False,True
+R10222,2026-10-03,Kitale,Water,drinks,2.0,50.0,M-Pesa,,False,False,True
+R10223,2026-10-03,Lodwar,Maize flour,grains,1.0,180.0,Cash,,False,False,True
+R10224,2026-10-03,Kitale,Milk,dairy,3.0,65.0,Cash,,False,False,True
+R10225,2026-10-03,Lodwar,Rice,grains,3.0,261.0,Cash,,False,False,True
+R10226,2026-10-03,Kitale,Rice,grains,2.0,290.0,Cash,,False,False,True
+R10227,2026-10-03,Kitale,Soda,drinks,2.0,70.0,M-Pesa,C0081,False,False,False
+R10228,2026-10-03,Kitale,Soda,drinks,3.0,70.0,unknown,C0003,False,False,False
+R10229,2026-10-03,Kitale,Kale,produce,4.0,30.0,unknown,C0073,False,False,False
+R10230,2026-10-03,Kitale,Tea leaves,cooking,2.0,120.0,Cash,C0314,False,False,False
+R10231,2026-10-03,Lodwar,Water,drinks,4.0,50.0,Credit,C0096,False,False,False
+R10232,2026-10-03,Kakuma Town,Sugar,cooking,2.0,148.0,M-Pesa,,False,False,True
+R10233,2026-10-03,Kakuma Town,Tea leaves,cooking,1.0,120.0,M-Pesa,,False,False,True
+R10234,2026-10-03,Kakuma Town,Rice,grains,3.0,290.0,Cash,C0133,False,False,False
+R10235,2026-10-03,Kitale,Soda,drinks,1.0,70.0,M-Pesa,C0044,False,False,False
+R10236,2026-10-03,Lodwar,Water,drinks,2.0,50.0,Cash,C0010,False,False,False
+R10237,2026-10-03,Kakuma Town,Eggs,dairy,3.0,480.0,unknown,,False,False,True
+R10238,2026-10-03,Kakuma Town,Onions,produce,4.0,100.0,Credit,,False,False,True
+R10239,2026-10-03,Kitale,Detergent,household,2.0,270.0,Card,,False,False,True
+R10240,2026-10-03,Lodwar,Milk,dairy,1.0,65.0,Cash,C0208,False,False,False
+R10241,2026-10-03,Kitale,Sugar,cooking,1.0,165.0,M-Pesa,C0219,False,False,False
+R10242,2026-10-03,Lodwar,Tea leaves,cooking,3.0,120.0,M-Pesa,,False,False,True
+R10243,2026-10-03,Lodwar,Water,drinks,2.0,50.0,M-Pesa,C0156,False,False,False
+R10244,2026-10-03,Kitale,Wheat flour,grains,2.0,190.0,M-Pesa,C0188,False,False,False
+R10245,2026-10-03,Lodwar,Sugar,cooking,1.0,165.0,Cash,,False,False,True
+R10246,2026-10-03,Kakuma Town,Wheat flour,grains,2.0,190.0,M-Pesa,C0007,False,False,False
+R10247,2026-10-03,Lodwar,Maize flour,grains,3.0,180.0,M-Pesa,C0186,False,False,False
+R10248,2026-10-03,Kakuma Town,Soap,household,3.0,85.0,M-Pesa,C0112,False,False,False
+R10249,2026-10-03,Kakuma Town,Rice,grains,3.0,290.0,unknown,,False,False,True
+R10250,2026-10-03,Kakuma Town,Cooking oil,cooking,3.0,320.0,Credit,,False,False,True
+R10251,2026-10-03,Kakuma Town,Sugar,cooking,1.0,165.0,Cash,C0223,False,False,False
+R10252,2026-10-03,Kitale,Water,drinks,3.0,50.0,Card,,False,False,True
+R10253,2026-10-03,Kitale,Tomatoes,produce,2.0,90.0,Cash,C0223,False,False,False
+R10254,2026-10-03,Kakuma Town,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R10255,2026-10-03,Kakuma Town,Soda,drinks,2.0,70.0,M-Pesa,C0300,False,False,False
+R10256,2026-10-03,Lodwar,Detergent,household,3.0,270.0,Card,,False,False,True
+R10257,2026-10-03,Kakuma Town,Soap,household,3.0,85.0,Cash,C0221,False,False,False
+R10258,2026-10-03,Kakuma Town,Sugar,cooking,5.0,165.0,Cash,,False,False,True
+R10259,2026-10-03,Kitale,Maize flour,grains,-2.0,180.0,Cash,,True,False,True
+R10260,2026-10-03,Kitale,Cooking oil,cooking,2.0,320.0,Cash,,False,False,True
+R10261,2026-10-03,Lodwar,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R10262,2026-10-03,Kakuma Town,Tomatoes,produce,2.0,90.0,M-Pesa,,False,False,True
+R10263,2026-10-03,Kakuma Town,Rice,grains,2.0,290.0,Credit,,False,False,True
+R10264,2026-10-03,Kakuma Town,Matches,household,3.0,20.0,M-Pesa,C0137,False,False,False
+R10265,2026-10-03,Lodwar,Rice,grains,1.0,261.0,Cash,,False,False,True
+R10266,2026-10-03,Lodwar,Milk,dairy,3.0,65.0,Cash,C0252,False,False,False
+R10267,2026-10-03,Kitale,Soda,drinks,3.0,70.0,Card,,False,False,True
+R10268,2026-10-03,Lodwar,Eggs,dairy,1.0,480.0,Cash,C0008,False,False,False
+R10269,2026-10-03,Lodwar,Wheat flour,grains,3.0,190.0,unknown,,False,False,True
+R10270,2026-10-03,Kakuma Town,Milk,dairy,6.0,65.0,Cash,C0269,False,False,False
+R10271,2026-10-03,Kitale,Kale,produce,2.0,30.0,M-Pesa,,False,False,True
+R10272,2026-10-03,Lodwar,Maize flour,grains,2.0,180.0,Card,,False,False,True
+R10273,2026-10-03,Kakuma Town,Milk,dairy,3.0,65.0,M-Pesa,C0117,False,False,False
+R10274,2026-10-03,Kakuma Town,Sugar,cooking,5.0,165.0,M-Pesa,C0020,False,False,False
+R10275,2026-10-03,Kakuma Town,Cooking oil,cooking,2.0,320.0,Credit,,False,False,True
+R10277,2026-10-03,Kitale,Maize flour,grains,1.0,180.0,Cash,C0183,False,False,False
+R10278,2026-10-03,Kakuma Town,Cooking oil,cooking,3.0,320.0,Card,,False,False,True
+R10279,2026-10-03,Lodwar,Water,drinks,2.0,50.0,Cash,,False,False,True
+R10280,2026-10-03,Lodwar,Onions,produce,3.0,100.0,unknown,,False,False,True
+R10281,2026-10-03,Kakuma Town,Matches,household,1.0,20.0,M-Pesa,,False,False,True
+R10282,2026-10-03,Kakuma Town,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R10283,2026-10-03,Kitale,Sugar,cooking,3.0,165.0,Cash,C0064,False,False,False
+R10284,2026-10-03,Kakuma Town,Soap,household,2.0,76.0,Cash,,False,False,True
+R10285,2026-10-03,Kakuma Town,Wheat flour,grains,4.0,190.0,M-Pesa,C0041,False,False,False
+R10286,2026-10-03,Kitale,Onions,produce,1.0,100.0,Cash,C0318,False,False,False
+R10287,2026-10-03,Kitale,Onions,produce,5.0,100.0,M-Pesa,C0032,False,False,False
+R10288,2026-10-03,Kakuma Town,Soda,drinks,3.0,70.0,Cash,C0186,False,False,False
+R10289,2026-10-03,Kakuma Town,Wheat flour,grains,1.0,190.0,M-Pesa,,False,False,True
+R10290,2026-10-03,Kakuma Town,Milk,dairy,3.0,65.0,M-Pesa,,False,False,True
+R10291,2026-10-03,Lodwar,Wheat flour,grains,4.0,190.0,M-Pesa,C0131,False,False,False
+R10292,2026-10-03,Lodwar,Detergent,household,4.0,270.0,M-Pesa,,False,False,True
+R10293,2026-10-03,Kitale,Sugar,cooking,2.0,165.0,unknown,,False,False,True
+R10294,2026-10-03,Kitale,Matches,household,1.0,20.0,Card,,False,False,True
+R10295,2026-10-03,Lodwar,Tea leaves,cooking,2.0,120.0,Cash,C0049,False,False,False
+R10296,2026-10-03,Kakuma Town,Soda,drinks,5.0,63.0,M-Pesa,,False,False,True
+R10297,2026-10-03,Kitale,Rice,grains,1.0,290.0,M-Pesa,C0242,False,False,False
+R10298,2026-10-03,Kitale,Maize flour,grains,1.0,180.0,M-Pesa,,False,False,True
+R10299,2026-10-03,Kakuma Town,Kale,produce,3.0,30.0,Cash,C0311,False,False,False
+R10300,2026-10-03,Kakuma Town,Soda,drinks,4.0,70.0,Cash,C0198,False,False,False
+R10301,2026-10-03,Kitale,Eggs,dairy,7.0,432.0,M-Pesa,,False,False,True
+R10302,2026-10-03,Kakuma Town,Cooking oil,cooking,2.0,,M-Pesa,C0063,False,False,False
+R10303,2026-10-03,Kitale,Cooking oil,cooking,3.0,320.0,M-Pesa,,False,False,True
+R10304,2026-10-03,Lodwar,Tomatoes,produce,4.0,90.0,Cash,,False,False,True
+R10305,2026-10-03,Lodwar,Salt,cooking,4.0,40.0,Cash,C0170,False,False,False
+R10306,2026-10-03,Kakuma Town,Tomatoes,produce,4.0,90.0,M-Pesa,,False,False,True
+R10307,2026-10-03,Lodwar,Tomatoes,produce,3.0,90.0,M-Pesa,C0110,False,False,False
+R10308,2026-10-03,Kitale,Milk,dairy,3.0,65.0,Cash,C0284,False,False,False
+R10309,2026-10-03,Lodwar,Rice,grains,4.0,290.0,Cash,C0049,False,False,False
+R10310,2026-10-03,Kitale,Juice,drinks,4.0,130.0,Cash,,False,False,True
+R10311,2026-10-03,Kakuma Town,Eggs,dairy,2.0,480.0,Cash,,False,False,True
+R10312,2026-10-03,Kakuma Town,Soap,household,3.0,85.0,M-Pesa,C0034,False,False,False
+R10313,2026-10-03,Kitale,Sugar,cooking,1.0,165.0,Cash,,False,False,True
+R10314,2026-10-03,Kakuma Town,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R10315,2026-10-03,Kakuma Town,Water,drinks,5.0,50.0,M-Pesa,C0267,False,False,False
+R10316,2026-10-03,Kakuma Town,Eggs,dairy,2.0,480.0,Cash,C0175,False,False,False
+R10317,2026-10-03,Kakuma Town,Wheat flour,grains,2.0,190.0,Credit,C0216,False,False,False
+R10318,2026-10-03,Lodwar,Onions,produce,3.0,100.0,Cash,C0277,False,False,False
+R10319,2026-10-03,Kitale,Soda,drinks,3.0,70.0,Cash,,False,False,True
+R10320,2026-10-03,Lodwar,Soda,drinks,1.0,70.0,Cash,,False,False,True
+R10321,2026-10-03,Kitale,Water,drinks,1.0,50.0,Cash,,False,False,True
+R10322,2026-10-03,Lodwar,Milk,dairy,2.0,65.0,Cash,C0239,False,False,False
+R10323,2026-10-03,Kitale,Milk,dairy,3.0,65.0,M-Pesa,,False,False,True
+R10324,2026-10-03,Lodwar,Water,drinks,5.0,50.0,M-Pesa,C0053,False,False,False
+R10325,2026-10-03,Kitale,Butter,dairy,2.0,250.0,Cash,C0120,False,False,False
+R10326,2026-10-03,Lodwar,Soda,drinks,3.0,70.0,Cash,C0298,False,False,False
+R10327,2026-10-03,Lodwar,Wheat flour,grains,5.0,171.0,M-Pesa,C0018,False,False,False
+R10328,2026-10-03,Kakuma Town,Wheat flour,grains,3.0,190.0,M-Pesa,,False,False,True
+R10329,2026-10-03,Kakuma Town,Rice,grains,3.0,261.0,Cash,,False,False,True
+R10330,2026-10-03,Lodwar,Water,drinks,3.0,50.0,Cash,C0093,False,False,False
+R10331,2026-10-03,Kakuma Town,Eggs,dairy,-1.0,480.0,Cash,,True,False,True
+R10332,2026-10-03,Kakuma Town,Rice,grains,2.0,261.0,Cash,C0192,False,False,False
+R10333,2026-10-03,Kakuma Town,Juice,drinks,2.0,130.0,Cash,,False,False,True
+R10334,2026-10-03,Lodwar,Milk,dairy,2.0,65.0,M-Pesa,,False,False,True
+R10335,2026-10-03,Kitale,Eggs,dairy,2.0,480.0,Cash,,False,False,True
+R10336,2026-10-03,Lodwar,Water,drinks,3.0,50.0,Cash,C0163,False,False,False
+R10337,2026-10-03,Lodwar,Eggs,dairy,3.0,480.0,M-Pesa,C0073,False,False,False
+R10338,2026-10-03,Kakuma Town,Water,drinks,4.0,50.0,Cash,,False,False,True
+R10339,2026-10-03,Lodwar,Cooking oil,cooking,3.0,,M-Pesa,,False,False,True
+R10340,2026-10-03,Kakuma Town,Salt,cooking,3.0,40.0,Card,C0197,False,False,False
+R10341,2026-10-03,Kitale,Maize flour,grains,6.0,180.0,Cash,C0238,False,False,False
+R10342,2026-10-03,Kakuma Town,Soap,household,4.0,76.0,Credit,C0012,False,False,False
+R10343,2026-10-03,Lodwar,Eggs,dairy,1.0,480.0,M-Pesa,C0307,False,False,False
+R10344,2026-10-03,Kakuma Town,Cooking oil,cooking,3.0,320.0,Card,,False,False,True
+R10345,2026-10-03,Kakuma Town,Maize flour,grains,1.0,180.0,M-Pesa,,False,False,True
+R10346,2026-10-03,Kakuma Town,Milk,dairy,3.0,65.0,Cash,C0080,False,False,False
+R10347,2026-10-03,Kakuma Town,Detergent,household,1.0,270.0,Cash,C0307,False,False,False
+R10348,2026-10-03,Lodwar,Soda,drinks,4.0,70.0,Cash,,False,False,True
+R10349,2026-10-03,Kakuma Town,Soda,drinks,1.0,70.0,M-Pesa,,False,False,True
+R10350,2026-10-03,Kitale,Salt,cooking,2.0,40.0,Cash,,False,False,True
+R10351,2026-10-03,Kakuma Town,Matches,household,2.0,20.0,Card,C0030,False,False,False
+R10352,2026-10-03,Kitale,Salt,cooking,4.0,40.0,Cash,,False,False,True
+R10353,2026-10-03,Kitale,Soap,household,2.0,85.0,Card,,False,False,True
+R10354,2026-10-03,Kitale,Salt,cooking,3.0,40.0,Cash,C0012,False,False,False
+R10355,2026-10-03,Kakuma Town,Juice,drinks,1.0,130.0,M-Pesa,,False,False,True
+R10356,2026-10-03,Lodwar,Detergent,household,3.0,270.0,Cash,C0140,False,False,False
+R10357,2026-10-03,Kakuma Town,Soap,household,3.0,85.0,Cash,C0180,False,False,False
+R10358,2026-10-03,Kitale,Matches,household,2.0,20.0,Card,C0100,False,False,False
+R10359,2026-10-03,Kakuma Town,Juice,drinks,3.0,130.0,Cash,,False,False,True
+R10360,2026-10-03,Kitale,Salt,cooking,4.0,40.0,Cash,C0299,False,False,False
+R10361,2026-10-03,Kitale,Milk,dairy,2.0,65.0,Cash,,False,False,True
+R10362,2026-10-03,Kakuma Town,Water,drinks,1.0,50.0,Cash,C0313,False,False,False
+R10363,2026-10-03,Kakuma Town,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R10364,2026-10-04,Kakuma Town,Eggs,dairy,4.0,432.0,Cash,C0156,False,False,False
+R10365,2026-10-04,Kakuma Town,Milk,dairy,2.0,65.0,Cash,,False,False,True
+R10366,2026-10-04,Lodwar,Maize flour,grains,1.0,180.0,Cash,,False,False,True
+R10367,2026-10-04,Kitale,Sugar,cooking,3.0,165.0,M-Pesa,C0123,False,False,False
+R10368,2026-10-04,Kakuma Town,Kale,produce,3.0,30.0,Cash,C0017,False,False,False
+R10369,2026-10-04,Kakuma Town,Detergent,household,1.0,270.0,Cash,C0319,False,False,False
+R10370,2026-10-04,Lodwar,Juice,drinks,2.0,130.0,M-Pesa,C0247,False,False,False
+R10371,2026-10-04,Kakuma Town,Tomatoes,produce,4.0,90.0,M-Pesa,,False,False,True
+R10372,2026-10-04,Kitale,Detergent,household,3.0,270.0,M-Pesa,C0185,False,False,False
+R10373,2026-10-04,Lodwar,Salt,cooking,1.0,40.0,M-Pesa,C0131,False,False,False
+R10374,2026-10-04,Lodwar,Soda,drinks,4.0,70.0,Cash,C0073,False,False,False
+R10375,2026-10-04,Kakuma Town,Kale,produce,2.0,30.0,Cash,,False,False,True
+R10376,2026-10-04,Kakuma Town,Eggs,dairy,1.0,480.0,Card,,False,False,True
+R10377,2026-10-04,Lodwar,Wheat flour,grains,6.0,190.0,Credit,C0313,False,False,False
+R10378,2026-10-04,Lodwar,Soda,drinks,3.0,70.0,unknown,C0150,False,False,False
+R10379,2026-10-04,Kakuma Town,Cooking oil,cooking,3.0,320.0,Cash,,False,False,True
+R10380,2026-10-04,Kitale,Salt,cooking,1.0,40.0,Card,,False,False,True
+R10381,2026-10-04,Kakuma Town,Soda,drinks,4.0,70.0,Cash,C0225,False,False,False
+R10382,2026-10-04,Kakuma Town,Tomatoes,produce,2.0,90.0,Cash,C0185,False,False,False
+R10383,2026-10-04,Lodwar,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R10384,2026-10-04,Kakuma Town,Milk,dairy,2.0,65.0,Cash,,False,False,True
+R10385,2026-10-04,Kitale,Matches,household,5.0,20.0,Card,,False,False,True
+R10386,2026-10-04,Kakuma Town,Maize flour,grains,7.0,180.0,Cash,C0268,False,False,False
+R10387,2026-10-04,Kakuma Town,Maize flour,grains,4.0,180.0,Cash,,False,False,True
+R10388,2026-10-04,Kakuma Town,Onions,produce,4.0,100.0,M-Pesa,C0195,False,False,False
+R10389,2026-10-04,Lodwar,Onions,produce,2.0,100.0,Cash,C0279,False,False,False
+R10390,2026-10-04,Lodwar,Milk,dairy,1.0,65.0,Cash,C0307,False,False,False
+R10391,2026-10-04,Kakuma Town,Tomatoes,produce,2.0,90.0,M-Pesa,,False,False,True
+R10392,2026-10-04,Kakuma Town,Soda,drinks,3.0,63.0,M-Pesa,,False,False,True
+R10393,2026-10-04,Kitale,Salt,cooking,1.0,40.0,M-Pesa,,False,False,True
+R10394,2026-10-04,Lodwar,Salt,cooking,3.0,40.0,Cash,C0270,False,False,False
+R10395,2026-10-04,Kakuma Town,Kale,produce,4.0,30.0,M-Pesa,C0260,False,False,False
+R10396,2026-10-04,Kitale,Soap,household,2.0,85.0,M-Pesa,C0125,False,False,False
+R10397,2026-10-04,Kakuma Town,Salt,cooking,2.0,40.0,M-Pesa,C0221,False,False,False
+R10398,2026-10-04,Kakuma Town,Salt,cooking,1.0,40.0,M-Pesa,,False,False,True
+R10399,2026-10-04,Kitale,Soda,drinks,4.0,70.0,Cash,,False,False,True
+R10400,2026-10-04,Lodwar,Cooking oil,cooking,2.0,320.0,Credit,,False,False,True
+R10401,2026-10-04,Lodwar,Salt,cooking,3.0,40.0,M-Pesa,C0315,False,False,False
+R10402,2026-10-04,Kakuma Town,Cooking oil,cooking,3.0,320.0,M-Pesa,,False,False,True
+R10403,2026-10-04,Kakuma Town,Onions,produce,2.0,100.0,M-Pesa,,False,False,True
+R10404,2026-10-04,Kitale,Wheat flour,grains,4.0,190.0,M-Pesa,,False,False,True
+R10405,2026-10-04,Lodwar,Sugar,cooking,1.0,165.0,Card,C0086,False,False,False
+R10406,2026-10-04,Kitale,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R10407,2026-10-04,Kitale,Tea leaves,cooking,3.0,120.0,Cash,,False,False,True
+R10408,2026-10-04,Kakuma Town,Butter,dairy,2.0,250.0,Cash,,False,False,True
+R10409,2026-10-04,Kitale,Soap,household,3.0,85.0,M-Pesa,C0209,False,False,False
+R10410,2026-10-04,Lodwar,Sugar,cooking,4.0,165.0,Card,,False,False,True
+R10411,2026-10-04,Lodwar,Maize flour,grains,3.0,162.0,Cash,C0098,False,False,False
+R10412,2026-10-04,Kakuma Town,Maize flour,grains,3.0,180.0,Cash,C0272,False,False,False
+R10413,2026-10-04,Lodwar,Milk,dairy,3.0,65.0,Credit,C0115,False,False,False
+R10414,2026-10-04,Kitale,Maize flour,grains,3.0,,Cash,,False,False,True
+R10415,2026-10-04,Lodwar,Soda,drinks,2.0,63.0,Cash,,False,False,True
+R10416,2026-10-04,Kitale,Cooking oil,cooking,1.0,320.0,Card,C0205,False,False,False
+R10417,2026-10-04,Lodwar,Detergent,household,3.0,270.0,Cash,C0137,False,False,False
+R10418,2026-10-04,Kakuma Town,Detergent,household,6.0,270.0,Cash,C0219,False,False,False
+R10419,2026-10-04,Kakuma Town,Eggs,dairy,2.0,480.0,Cash,,False,False,True
+R10420,2026-10-04,Kitale,Sugar,cooking,3.0,165.0,M-Pesa,C0018,False,False,False
+R10421,2026-10-04,Kakuma Town,Tea leaves,cooking,4.0,120.0,M-Pesa,C0097,False,False,False
+R10422,2026-10-04,Kakuma Town,Wheat flour,grains,3.0,190.0,M-Pesa,,False,False,True
+R10423,2026-10-04,Kitale,Tea leaves,cooking,3.0,120.0,M-Pesa,C0094,False,False,False
+R10424,2026-10-04,Kitale,Soda,drinks,4.0,70.0,M-Pesa,C0123,False,False,False
+R10425,2026-10-04,Kitale,Soda,drinks,3.0,70.0,M-Pesa,C0238,False,False,False
+R10426,2026-10-04,Lodwar,Tomatoes,produce,2.0,81.0,unknown,,False,False,True
+R10427,2026-10-04,Kakuma Town,Milk,dairy,1.0,65.0,Cash,,False,False,True
+R10428,2026-10-04,Kakuma Town,Maize flour,grains,1.0,180.0,M-Pesa,C0241,False,False,False
+R10429,2026-10-04,Kitale,Eggs,dairy,1.0,480.0,M-Pesa,C0101,False,False,False
+R10430,2026-10-04,Kitale,Sugar,cooking,1.0,165.0,M-Pesa,C0225,False,False,False
+R10431,2026-10-04,Kakuma Town,Onions,produce,4.0,100.0,M-Pesa,C0265,False,False,False
+R10432,2026-10-04,Kitale,Soap,household,3.0,85.0,M-Pesa,C0280,False,False,False
+R10433,2026-10-04,Kakuma Town,Onions,produce,2.0,100.0,M-Pesa,,False,False,True
+R10434,2026-10-04,Kakuma Town,Kale,produce,5.0,30.0,Cash,,False,False,True
+R10435,2026-10-04,Lodwar,Maize flour,grains,2.0,180.0,Cash,C0030,False,False,False
+R10436,2026-10-04,Kakuma Town,Juice,drinks,3.0,130.0,Credit,C0226,False,False,False
+R10437,2026-10-04,Kitale,Water,drinks,3.0,50.0,Cash,,False,False,True
+R10438,2026-10-04,Kakuma Town,Matches,household,2.0,20.0,Cash,C0012,False,False,False
+R10439,2026-10-04,Kakuma Town,Tea leaves,cooking,2.0,120.0,Cash,,False,False,True
+R10440,2026-10-04,Lodwar,Wheat flour,grains,3.0,190.0,Card,C0214,False,False,False
+R10441,2026-10-04,Kakuma Town,Soap,household,2.0,85.0,M-Pesa,,False,False,True
+R10442,2026-10-04,Kakuma Town,Tea leaves,cooking,4.0,120.0,Card,,False,False,True
+R10443,2026-10-04,Lodwar,Soda,drinks,4.0,70.0,Cash,,False,False,True
+R10444,2026-10-04,Lodwar,Water,drinks,2.0,50.0,Cash,C0258,False,False,False
+R10445,2026-10-04,Lodwar,Eggs,dairy,3.0,480.0,Cash,,False,False,True
+R10446,2026-10-04,Kitale,Milk,dairy,2.0,65.0,M-Pesa,C0093,False,False,False
+R10447,2026-10-04,Kakuma Town,Tea leaves,cooking,5.0,120.0,M-Pesa,,False,False,True
+R10448,2026-10-04,Kitale,Sugar,cooking,2.0,165.0,M-Pesa,,False,False,True
+R10449,2026-10-04,Lodwar,Soda,drinks,4.0,70.0,Cash,C0100,False,False,False
+R10450,2026-10-04,Kakuma Town,Juice,drinks,1.0,130.0,M-Pesa,C0116,False,False,False
+R10451,2026-10-04,Kakuma Town,Soap,household,2.0,85.0,M-Pesa,,False,False,True
+R10452,2026-10-04,Kitale,Juice,drinks,3.0,130.0,Credit,C0244,False,False,False
+R10453,2026-10-04,Lodwar,Cooking oil,cooking,1.0,320.0,Cash,,False,False,True
+R10454,2026-10-04,Lodwar,Kale,produce,4.0,30.0,M-Pesa,,False,False,True
+R10455,2026-10-04,Kitale,Sugar,cooking,4.0,165.0,Cash,C0238,False,False,False
+R10456,2026-10-04,Lodwar,Sugar,cooking,2.0,165.0,M-Pesa,C0307,False,False,False
+R10457,2026-10-04,Kitale,Butter,dairy,1.0,250.0,M-Pesa,,False,False,True
+R10458,2026-10-04,Kakuma Town,Maize flour,grains,2.0,180.0,Cash,,False,False,True
+R10459,2026-10-04,Lodwar,Maize flour,grains,7.0,180.0,Cash,,False,False,True
+R10460,2026-10-04,Lodwar,Butter,dairy,3.0,225.0,Cash,,False,False,True
+R10461,2026-10-04,Kitale,Soap,household,-1.0,85.0,Cash,,True,False,True
+R10462,2026-10-04,Kakuma Town,Milk,dairy,1.0,65.0,Card,C0055,False,False,False
+R10463,2026-10-04,Lodwar,Soap,household,1.0,85.0,Cash,,False,False,True
+R10464,2026-10-04,Lodwar,Matches,household,3.0,20.0,M-Pesa,,False,False,True
+R10465,2026-10-04,Kakuma Town,Kale,produce,1.0,30.0,Cash,C0238,False,False,False
+R10466,2026-10-04,Kakuma Town,Onions,produce,2.0,100.0,Cash,,False,False,True
+R10467,2026-10-04,Kakuma Town,Detergent,household,5.0,270.0,Cash,,False,False,True
+R10468,2026-10-04,Kitale,Soap,household,1.0,85.0,Cash,,False,False,True
+R10469,2026-10-04,Kakuma Town,Water,drinks,5.0,50.0,Card,,False,False,True
+R10470,2026-10-04,Kitale,Eggs,dairy,3.0,480.0,Cash,,False,False,True
+R10471,2026-10-04,Lodwar,Butter,dairy,2.0,250.0,M-Pesa,,False,False,True
+R10472,2026-10-04,Lodwar,Soda,drinks,2.0,70.0,Credit,C0161,False,False,False
+R10473,2026-10-04,Kakuma Town,Sugar,cooking,3.0,165.0,Cash,C0249,False,False,False
+R10474,2026-10-04,Kakuma Town,Kale,produce,-1.0,30.0,M-Pesa,C0215,True,False,False
+R10475,2026-10-04,Kitale,Kale,produce,3.0,30.0,M-Pesa,,False,False,True
+R10476,2026-10-04,Kakuma Town,Matches,household,1.0,20.0,Cash,C0174,False,False,False
+R10477,2026-10-04,Kitale,Kale,produce,3.0,30.0,Cash,,False,False,True
+R10478,2026-10-04,Lodwar,Soda,drinks,3.0,70.0,Credit,,False,False,True
+R10479,2026-10-04,Lodwar,Soap,household,2.0,76.0,Card,,False,False,True
+R10480,2026-10-04,Lodwar,Wheat flour,grains,3.0,190.0,Cash,,False,False,True
+R10481,2026-10-04,Kakuma Town,Sugar,cooking,1.0,165.0,M-Pesa,,False,False,True
+R10482,2026-10-04,Lodwar,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R10483,2026-10-04,Kakuma Town,Water,drinks,1.0,50.0,Cash,C0014,False,False,False
+R10484,2026-10-04,Lodwar,Matches,household,2.0,20.0,M-Pesa,C0274,False,False,False
+R10485,2026-10-04,Lodwar,Soap,household,2.0,85.0,M-Pesa,C0253,False,False,False
+R10486,2026-10-04,Kakuma Town,Soda,drinks,3.0,70.0,M-Pesa,,False,False,True
+R10487,2026-10-04,Kakuma Town,Water,drinks,1.0,50.0,M-Pesa,C0057,False,False,False
+R10488,2026-10-04,Kakuma Town,Wheat flour,grains,2.0,190.0,M-Pesa,,False,False,True
+R10489,2026-10-04,Kitale,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R10490,2026-10-04,Lodwar,Tea leaves,cooking,3.0,120.0,M-Pesa,,False,False,True
+R10491,2026-10-04,Kakuma Town,Butter,dairy,1.0,250.0,Cash,,False,False,True
+R10492,2026-10-04,Kitale,Matches,household,3.0,18.0,M-Pesa,C0117,False,False,False
+R10493,2026-10-04,Lodwar,Tea leaves,cooking,1.0,120.0,Cash,C0190,False,False,False
+R10494,2026-10-04,Kitale,Tomatoes,produce,6.0,90.0,Cash,,False,False,True
+R10495,2026-10-04,Kitale,Soap,household,3.0,85.0,M-Pesa,C0135,False,False,False
+R10496,2026-10-04,Kakuma Town,Sugar,cooking,1.0,165.0,Cash,C0283,False,False,False
+R10497,2026-10-04,Kitale,Tomatoes,produce,1.0,90.0,Cash,C0133,False,False,False
+R10498,2026-10-04,Kakuma Town,Sugar,cooking,2.0,165.0,M-Pesa,,False,False,True
+R10499,2026-10-04,Lodwar,Soda,drinks,1.0,70.0,Cash,C0235,False,False,False
+R10500,2026-10-04,Kakuma Town,Milk,dairy,3.0,65.0,Cash,C0059,False,False,False
+R10501,2026-10-04,Kitale,Sugar,cooking,2.0,165.0,M-Pesa,C0187,False,False,False
+R10502,2026-10-04,Kitale,Water,drinks,3.0,,Cash,C0075,False,False,False
+R10503,2026-10-04,Kakuma Town,Juice,drinks,4.0,130.0,Cash,,False,False,True
+R10504,2026-10-04,Lodwar,Sugar,cooking,4.0,165.0,M-Pesa,,False,False,True
+R10505,2026-10-04,Kakuma Town,Water,drinks,3.0,50.0,Cash,,False,False,True
+R10506,2026-10-04,Kitale,Butter,dairy,3.0,250.0,Cash,C0200,False,False,False
+R10507,2026-10-04,Kakuma Town,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R10508,2026-10-04,Kakuma Town,Water,drinks,1.0,50.0,Cash,C0071,False,False,False
+R10509,2026-10-04,Lodwar,Onions,produce,1.0,100.0,Credit,,False,False,True
+R10510,2026-10-04,Kakuma Town,Soda,drinks,2.0,70.0,M-Pesa,,False,False,True
+R10511,2026-10-05,Lodwar,Tea leaves,cooking,2.0,120.0,M-Pesa,,False,False,True
+R10512,2026-10-05,Kakuma Town,Matches,household,2.0,20.0,Credit,C0273,False,False,False
+R10513,2026-10-05,Lodwar,Cooking oil,cooking,3.0,320.0,Cash,C0183,False,False,False
+R10514,2026-10-05,Kakuma Town,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R10515,2026-10-05,Kitale,Juice,drinks,4.0,130.0,Cash,,False,False,True
+R10516,2026-10-05,Lodwar,Sugar,cooking,3.0,165.0,M-Pesa,,False,False,True
+R10517,2026-10-05,Kitale,Soda,drinks,6.0,70.0,Cash,,False,False,True
+R10518,2026-10-05,Kakuma Town,Wheat flour,grains,2.0,190.0,Cash,,False,False,True
+R10519,2026-10-05,Kakuma Town,Kale,produce,4.0,30.0,Cash,,False,False,True
+R10520,2026-10-05,Lodwar,Cooking oil,cooking,3.0,320.0,M-Pesa,,False,False,True
+R10521,2026-10-05,Lodwar,Detergent,household,2.0,270.0,M-Pesa,,False,False,True
+R10522,2026-10-05,Kakuma Town,Tea leaves,cooking,3.0,120.0,M-Pesa,,False,False,True
+R10523,2026-10-05,Kitale,Milk,dairy,3.0,58.0,M-Pesa,C0226,False,False,False
+R10524,2026-10-05,Kakuma Town,Sugar,cooking,2.0,148.0,M-Pesa,,False,False,True
+R10525,2026-10-05,Kitale,Rice,grains,4.0,290.0,Cash,C0247,False,False,False
+R10526,2026-10-05,Kakuma Town,Butter,dairy,3.0,250.0,Cash,C0249,False,False,False
+R10527,2026-10-05,Lodwar,Soda,drinks,1.0,70.0,Cash,,False,False,True
+R10528,2026-10-05,Lodwar,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R10529,2026-10-05,Kitale,Matches,household,4.0,20.0,M-Pesa,,False,False,True
+R10530,2026-10-05,Kakuma Town,Tomatoes,produce,3.0,90.0,M-Pesa,C0274,False,False,False
+R10531,2026-10-05,Lodwar,Rice,grains,2.0,290.0,M-Pesa,C0037,False,False,False
+R10532,2026-10-05,Lodwar,Tomatoes,produce,1.0,81.0,M-Pesa,C0203,False,False,False
+R10533,2026-10-05,Kitale,Maize flour,grains,5.0,180.0,M-Pesa,C0225,False,False,False
+R10534,2026-10-05,Lodwar,Soda,drinks,3.0,70.0,M-Pesa,,False,False,True
+R10535,2026-10-05,Kakuma Town,Tomatoes,produce,2.0,90.0,Cash,,False,False,True
+R10536,2026-10-05,Kakuma Town,Rice,grains,3.0,290.0,M-Pesa,,False,False,True
+R10537,2026-10-05,Kakuma Town,Sugar,cooking,1.0,165.0,Cash,,False,False,True
+R10538,2026-10-05,Lodwar,Milk,dairy,1.0,65.0,M-Pesa,C0045,False,False,False
+R10539,2026-10-05,Kitale,Detergent,household,4.0,270.0,Credit,,False,False,True
+R10540,2026-10-05,Kakuma Town,Rice,grains,3.0,261.0,Credit,C0082,False,False,False
+R10541,2026-10-05,Lodwar,Detergent,household,3.0,270.0,Card,C0201,False,False,False
+R10542,2026-10-05,Kakuma Town,Onions,produce,2.0,100.0,Card,C0229,False,False,False
+R10543,2026-10-05,Lodwar,Wheat flour,grains,2.0,190.0,unknown,,False,False,True
+R10544,2026-10-05,Kakuma Town,Onions,produce,3.0,100.0,M-Pesa,,False,False,True
+R10545,2026-10-05,Lodwar,Cooking oil,cooking,2.0,320.0,Cash,C0100,False,False,False
+R10546,2026-10-05,Kakuma Town,Tomatoes,produce,4.0,90.0,M-Pesa,,False,False,True
+R10547,2026-10-05,Lodwar,Juice,drinks,4.0,130.0,M-Pesa,C0251,False,False,False
+R10548,2026-10-05,Lodwar,Rice,grains,3.0,290.0,M-Pesa,C0186,False,False,False
+R10549,2026-10-05,Lodwar,Rice,grains,4.0,290.0,Card,C0279,False,False,False
+R10550,2026-10-05,Kakuma Town,Juice,drinks,3.0,130.0,M-Pesa,C0311,False,False,False
+R10551,2026-10-05,Kakuma Town,Water,drinks,1.0,50.0,M-Pesa,,False,False,True
+R10552,2026-10-05,Lodwar,Rice,grains,3.0,,Cash,C0034,False,False,False
+R10553,2026-10-05,Kakuma Town,Soda,drinks,4.0,70.0,Cash,C0310,False,False,False
+R10554,2026-10-05,Kitale,Juice,drinks,3.0,130.0,M-Pesa,,False,False,True
+R10555,2026-10-05,Kakuma Town,Water,drinks,1.0,50.0,M-Pesa,C0232,False,False,False
+R10556,2026-10-05,Kitale,Wheat flour,grains,3.0,190.0,Cash,C0197,False,False,False
+R10557,2026-10-05,Kakuma Town,Tomatoes,produce,1.0,90.0,M-Pesa,C0288,False,False,False
+R10558,2026-10-05,Lodwar,Milk,dairy,2.0,65.0,M-Pesa,,False,False,True
+R10559,2026-10-05,Kakuma Town,Rice,grains,5.0,290.0,Cash,C0312,False,False,False
+R10560,2026-10-05,Kitale,Butter,dairy,8.0,250.0,Cash,,False,False,True
+R10561,2026-10-05,Kitale,Water,drinks,4.0,50.0,M-Pesa,,False,False,True
+R10562,2026-10-05,Kitale,Salt,cooking,3.0,40.0,Cash,,False,False,True
+R10563,2026-10-05,Kakuma Town,Soda,drinks,2.0,70.0,M-Pesa,C0115,False,False,False
+R10564,2026-10-05,Lodwar,Soap,household,5.0,85.0,Cash,,False,False,True
+R10565,2026-10-05,Lodwar,Water,drinks,3.0,,M-Pesa,C0042,False,False,False
+R10566,2026-10-05,Kitale,Maize flour,grains,3.0,180.0,Cash,,False,False,True
+R10567,2026-10-05,Lodwar,Soda,drinks,8.0,70.0,M-Pesa,C0133,False,False,False
+R10568,2026-10-05,Kitale,Cooking oil,cooking,1.0,320.0,M-Pesa,,False,False,True
+R10569,2026-10-05,Lodwar,Salt,cooking,2.0,40.0,M-Pesa,,False,False,True
+R10570,2026-10-05,Lodwar,Maize flour,grains,3.0,180.0,M-Pesa,C0071,False,False,False
+R10571,2026-10-05,Kakuma Town,Tomatoes,produce,2.0,90.0,Cash,C0193,False,False,False
+R10572,2026-10-05,Lodwar,Sugar,cooking,4.0,165.0,Cash,,False,False,True
+R10573,2026-10-05,Kakuma Town,Matches,household,4.0,20.0,M-Pesa,C0243,False,False,False
+R10574,2026-10-05,Kitale,Sugar,cooking,4.0,165.0,Cash,C0198,False,False,False
+R10575,2026-10-05,Kitale,Wheat flour,grains,1.0,190.0,M-Pesa,,False,False,True
+R10576,2026-10-05,Kakuma Town,Water,drinks,6.0,50.0,M-Pesa,C0259,False,False,False
+R10577,2026-10-05,Kitale,Milk,dairy,1.0,65.0,Cash,C0138,False,False,False
+R10578,2026-10-05,Kakuma Town,Milk,dairy,2.0,65.0,M-Pesa,C0316,False,False,False
+R10579,2026-10-05,Lodwar,Butter,dairy,1.0,250.0,M-Pesa,C0287,False,False,False
+R10580,2026-10-05,Kitale,Water,drinks,4.0,50.0,Cash,C0078,False,False,False
+R10581,2026-10-05,Lodwar,Matches,household,2.0,20.0,Cash,,False,False,True
+R10582,2026-10-05,Lodwar,Onions,produce,4.0,100.0,M-Pesa,,False,False,True
+R10583,2026-10-05,Lodwar,Tea leaves,cooking,4.0,120.0,M-Pesa,C0181,False,False,False
+R10584,2026-10-05,Lodwar,Milk,dairy,1.0,65.0,M-Pesa,,False,False,True
+R10585,2026-10-05,Kakuma Town,Soap,household,1.0,,Cash,C0266,False,False,False
+R10586,2026-10-05,Kakuma Town,Kale,produce,1.0,27.0,M-Pesa,C0129,False,False,False
+R10587,2026-10-05,Kakuma Town,Maize flour,grains,3.0,180.0,M-Pesa,C0039,False,False,False
+R10588,2026-10-05,Kitale,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R10589,2026-10-05,Lodwar,Milk,dairy,4.0,65.0,M-Pesa,,False,False,True
+R10590,2026-10-05,Kitale,Wheat flour,grains,3.0,190.0,M-Pesa,C0027,False,False,False
+R10591,2026-10-05,Lodwar,Rice,grains,2.0,290.0,Cash,,False,False,True
+R10592,2026-10-05,Kakuma Town,Cooking oil,cooking,3.0,320.0,M-Pesa,C0172,False,False,False
+R10593,2026-10-05,Kakuma Town,Detergent,household,2.0,270.0,M-Pesa,,False,False,True
+R10594,2026-10-05,Kitale,Soap,household,4.0,85.0,Cash,,False,False,True
+R10595,2026-10-05,Lodwar,Maize flour,grains,4.0,180.0,M-Pesa,,False,False,True
+R10596,2026-10-05,Kitale,Kale,produce,2.0,30.0,Credit,C0254,False,False,False
+R10597,2026-10-05,Lodwar,Sugar,cooking,4.0,165.0,M-Pesa,C0041,False,False,False
+R10598,2026-10-05,Kakuma Town,Cooking oil,cooking,3.0,288.0,Cash,C0066,False,False,False
+R10599,2026-10-05,Kakuma Town,Eggs,dairy,1.0,480.0,Cash,,False,False,True
+R10600,2026-10-05,Kitale,Detergent,household,3.0,243.0,Cash,C0226,False,False,False
+R10601,2026-10-05,Kakuma Town,Detergent,household,2.0,270.0,M-Pesa,,False,False,True
+R10602,2026-10-05,Lodwar,Soda,drinks,1.0,70.0,Cash,C0155,False,False,False
+R10603,2026-10-05,Lodwar,Onions,produce,3.0,100.0,M-Pesa,,False,False,True
+R10604,2026-10-05,Kitale,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R10605,2026-10-05,Lodwar,Tomatoes,produce,1.0,,M-Pesa,C0252,False,False,False
+R10606,2026-10-05,Lodwar,Rice,grains,1.0,290.0,Cash,,False,False,True
+R10607,2026-10-05,Kitale,Rice,grains,2.0,261.0,Card,,False,False,True
+R10608,2026-10-05,Lodwar,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R10609,2026-10-05,Kakuma Town,Eggs,dairy,3.0,480.0,M-Pesa,,False,False,True
+R10610,2026-10-05,Kakuma Town,Soap,household,3.0,85.0,Cash,,False,False,True
+R10611,2026-10-05,Kitale,Detergent,household,2.0,270.0,Card,C0064,False,False,False
+R10612,2026-10-06,Kakuma Town,Tomatoes,produce,2.0,90.0,M-Pesa,C0016,False,False,False
+R10613,2026-10-06,Kakuma Town,Tomatoes,produce,2.0,90.0,Credit,,False,False,True
+R10614,2026-10-06,Lodwar,Soda,drinks,6.0,70.0,Card,,False,False,True
+R10615,2026-10-06,Kakuma Town,Butter,dairy,3.0,250.0,M-Pesa,,False,False,True
+R10616,2026-10-06,Kakuma Town,Milk,dairy,3.0,65.0,M-Pesa,,False,False,True
+R10617,2026-10-06,Kitale,Detergent,household,2.0,270.0,M-Pesa,,False,False,True
+R10618,2026-10-06,Kitale,Cooking oil,cooking,4.0,320.0,M-Pesa,C0096,False,False,False
+R10619,2026-10-06,Kakuma Town,Milk,dairy,3.0,65.0,Cash,,False,False,True
+R10620,2026-10-06,Lodwar,Soap,household,3.0,85.0,Cash,C0140,False,False,False
+R10621,2026-10-06,Lodwar,Water,drinks,2.0,50.0,unknown,,False,False,True
+R10622,2026-10-06,Kakuma Town,Sugar,cooking,4.0,165.0,Cash,,False,False,True
+R10623,2026-10-06,Kitale,Onions,produce,2.0,100.0,Cash,,False,False,True
+R10624,2026-10-06,Kakuma Town,Juice,drinks,2.0,130.0,Cash,,False,False,True
+R10625,2026-10-06,Kakuma Town,Cooking oil,cooking,3.0,320.0,Cash,C0280,False,False,False
+R10626,2026-10-06,Kakuma Town,Tea leaves,cooking,6.0,120.0,Card,,False,False,True
+R10627,2026-10-06,Kakuma Town,Soda,drinks,1.0,70.0,Cash,,False,False,True
+R10628,2026-10-06,Kakuma Town,Eggs,dairy,6.0,480.0,M-Pesa,C0191,False,False,False
+R10629,2026-10-06,Kitale,Milk,dairy,1.0,65.0,M-Pesa,C0006,False,False,False
+R10630,2026-10-06,Kakuma Town,Matches,household,4.0,20.0,unknown,,False,False,True
+R10631,2026-10-06,Lodwar,Water,drinks,2.0,50.0,Cash,,False,False,True
+R10632,2026-10-06,Kitale,Eggs,dairy,2.0,480.0,M-Pesa,,False,False,True
+R10633,2026-10-06,Lodwar,Juice,drinks,1.0,130.0,M-Pesa,,False,False,True
+R10634,2026-10-06,Kakuma Town,Wheat flour,grains,2.0,190.0,M-Pesa,,False,False,True
+R10635,2026-10-06,Lodwar,Tea leaves,cooking,1.0,120.0,Cash,C0104,False,False,False
+R10636,2026-10-06,Kakuma Town,Milk,dairy,1.0,65.0,Cash,,False,False,True
+R10637,2026-10-06,Kakuma Town,Detergent,household,3.0,270.0,M-Pesa,C0069,False,False,False
+R10638,2026-10-06,Kitale,Maize flour,grains,3.0,180.0,Cash,,False,False,True
+R10639,2026-10-06,Kitale,Wheat flour,grains,3.0,190.0,M-Pesa,,False,False,True
+R10640,2026-10-06,Kakuma Town,Rice,grains,2.0,290.0,M-Pesa,C0187,False,False,False
+R10641,2026-10-06,Kitale,Sugar,cooking,3.0,148.0,Cash,C0295,False,False,False
+R10642,2026-10-06,Kakuma Town,Tomatoes,produce,3.0,90.0,Cash,C0029,False,False,False
+R10643,2026-10-06,Lodwar,Wheat flour,grains,2.0,190.0,M-Pesa,,False,False,True
+R10644,2026-10-06,Kakuma Town,Water,drinks,2.0,45.0,Cash,,False,False,True
+R10645,2026-10-06,Lodwar,Detergent,household,4.0,270.0,Card,C0031,False,False,False
+R10646,2026-10-06,Kitale,Milk,dairy,1.0,65.0,Cash,C0202,False,False,False
+R10647,2026-10-06,Kitale,Juice,drinks,4.0,117.0,Cash,C0240,False,False,False
+R10648,2026-10-06,Lodwar,Maize flour,grains,4.0,180.0,M-Pesa,C0179,False,False,False
+R10649,2026-10-06,Kitale,Soap,household,3.0,85.0,Cash,,False,False,True
+R10650,2026-10-06,Kakuma Town,Butter,dairy,2.0,225.0,Cash,,False,False,True
+R10651,2026-10-06,Kakuma Town,Eggs,dairy,4.0,480.0,Cash,,False,False,True
+R10652,2026-10-06,Kitale,Wheat flour,grains,3.0,190.0,Cash,,False,False,True
+R10653,2026-10-06,Lodwar,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R10654,2026-10-06,Kakuma Town,Maize flour,grains,2.0,180.0,Card,,False,False,True
+R10655,2026-10-06,Kakuma Town,Tomatoes,produce,3.0,90.0,M-Pesa,,False,False,True
+R10656,2026-10-06,Lodwar,Soda,drinks,5.0,70.0,M-Pesa,,False,False,True
+R10657,2026-10-06,Kitale,Milk,dairy,2.0,65.0,Cash,,False,False,True
+R10658,2026-10-06,Kitale,Water,drinks,4.0,45.0,M-Pesa,C0081,False,False,False
+R10659,2026-10-06,Kitale,Tea leaves,cooking,2.0,120.0,Credit,,False,False,True
+R10660,2026-10-06,Kitale,Tea leaves,cooking,1.0,120.0,Cash,,False,False,True
+R10661,2026-10-06,Lodwar,Cooking oil,cooking,3.0,320.0,Cash,,False,False,True
+R10663,2026-10-06,Kitale,Onions,produce,2.0,100.0,Cash,,False,False,True
+R10664,2026-10-06,Lodwar,Matches,household,3.0,20.0,Cash,,False,False,True
+R10665,2026-10-06,Lodwar,Eggs,dairy,4.0,480.0,M-Pesa,,False,False,True
+R10666,2026-10-06,Kitale,Juice,drinks,3.0,130.0,unknown,,False,False,True
+R10667,2026-10-06,Kakuma Town,Salt,cooking,2.0,40.0,M-Pesa,,False,False,True
+R10668,2026-10-06,Kakuma Town,Maize flour,grains,2.0,180.0,Cash,C0012,False,False,False
+R10669,2026-10-06,Lodwar,Eggs,dairy,2.0,432.0,M-Pesa,,False,False,True
+R10670,2026-10-06,Lodwar,Soda,drinks,7.0,70.0,M-Pesa,,False,False,True
+R10671,2026-10-06,Kitale,Milk,dairy,1.0,65.0,Cash,,False,False,True
+R10672,2026-10-06,Lodwar,Tomatoes,produce,1.0,90.0,M-Pesa,C0101,False,False,False
+R10673,2026-10-06,Lodwar,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R10674,2026-10-06,Lodwar,Kale,produce,4.0,30.0,Cash,,False,False,True
+R10675,2026-10-06,Lodwar,Onions,produce,3.0,100.0,M-Pesa,C0283,False,False,False
+R10676,2026-10-06,Kitale,Soap,household,2.0,85.0,Cash,C0094,False,False,False
+R10677,2026-10-06,Lodwar,Soap,household,1.0,85.0,Cash,C0162,False,False,False
+R10678,2026-10-06,Kakuma Town,Water,drinks,2.0,50.0,M-Pesa,,False,False,True
+R10679,2026-10-06,Kitale,Sugar,cooking,5.0,165.0,Card,,False,False,True
+R10680,2026-10-06,Kitale,Tea leaves,cooking,2.0,108.0,M-Pesa,,False,False,True
+R10681,2026-10-06,Kakuma Town,Tomatoes,produce,1.0,90.0,M-Pesa,,False,False,True
+R10682,2026-10-06,Kitale,Milk,dairy,2.0,,M-Pesa,,False,False,True
+R10683,2026-10-06,Kakuma Town,Sugar,cooking,1.0,165.0,Credit,,False,False,True
+R10684,2026-10-06,Kakuma Town,Sugar,cooking,4.0,165.0,Cash,,False,False,True
+R10685,2026-10-06,Kitale,Tea leaves,cooking,-1.0,108.0,Card,,True,False,True
+R10686,2026-10-06,Kakuma Town,Matches,household,1.0,20.0,M-Pesa,C0208,False,False,False
+R10687,2026-10-06,Kitale,Onions,produce,3.0,100.0,Cash,,False,False,True
+R10688,2026-10-06,Kakuma Town,Cooking oil,cooking,4.0,320.0,Cash,,False,False,True
+R10689,2026-10-06,Kitale,Maize flour,grains,2.0,180.0,Cash,C0280,False,False,False
+R10690,2026-10-06,Lodwar,Soda,drinks,1.0,70.0,M-Pesa,C0249,False,False,False
+R10691,2026-10-06,Kitale,Kale,produce,3.0,30.0,M-Pesa,,False,False,True
+R10692,2026-10-06,Lodwar,Water,drinks,5.0,45.0,Card,,False,False,True
+R10693,2026-10-06,Kakuma Town,Wheat flour,grains,2.0,190.0,M-Pesa,C0232,False,False,False
+R10694,2026-10-06,Kakuma Town,Juice,drinks,2.0,130.0,Cash,,False,False,True
+R10695,2026-10-06,Kitale,Cooking oil,cooking,1.0,320.0,Credit,C0125,False,False,False
+R10696,2026-10-06,Kakuma Town,Eggs,dairy,3.0,480.0,Cash,,False,False,True
+R10697,2026-10-06,Kakuma Town,Soap,household,3.0,85.0,M-Pesa,,False,False,True
+R10698,2026-10-06,Kitale,Water,drinks,1.0,50.0,Cash,,False,False,True
+R10699,2026-10-06,Kakuma Town,Kale,produce,2.0,30.0,M-Pesa,C0192,False,False,False
+R10700,2026-10-06,Lodwar,Onions,produce,1.0,100.0,M-Pesa,,False,False,True
+R10701,2026-10-06,Kitale,Rice,grains,3.0,290.0,Credit,,False,False,True
+R10702,2026-10-06,Lodwar,Cooking oil,cooking,3.0,320.0,Cash,,False,False,True
+R10703,2026-10-06,Kitale,Rice,grains,3.0,290.0,Cash,C0178,False,False,False
+R10704,2026-10-06,Kitale,Soap,household,1.0,85.0,M-Pesa,,False,False,True
+R10705,2026-10-06,Kakuma Town,Tea leaves,cooking,2.0,120.0,M-Pesa,C0319,False,False,False
+R10706,2026-10-06,Kitale,Juice,drinks,2.0,130.0,M-Pesa,,False,False,True
+R10707,2026-10-06,Lodwar,Onions,produce,2.0,100.0,M-Pesa,C0278,False,False,False
+R10708,2026-10-06,Lodwar,Rice,grains,2.0,290.0,M-Pesa,,False,False,True
+R10709,2026-10-06,Kitale,Cooking oil,cooking,4.0,320.0,Cash,C0202,False,False,False
+R10710,2026-10-06,Kitale,Detergent,household,2.0,270.0,M-Pesa,,False,False,True
+R10711,2026-10-06,Kakuma Town,Water,drinks,1.0,50.0,Cash,,False,False,True
+R10712,2026-10-06,Kitale,Water,drinks,1.0,50.0,Cash,,False,False,True
+R10713,2026-10-06,Kakuma Town,Maize flour,grains,4.0,180.0,M-Pesa,C0043,False,False,False
+R10714,2026-10-06,Kakuma Town,Water,drinks,4.0,50.0,M-Pesa,,False,False,True
+R10715,2026-10-06,Kitale,Tomatoes,produce,1.0,90.0,Card,C0178,False,False,False
+R10716,2026-10-06,Kakuma Town,Rice,grains,3.0,261.0,Cash,C0084,False,False,False
+R10717,2026-10-06,Lodwar,Eggs,dairy,4.0,480.0,Cash,C0078,False,False,False
+R10718,2026-10-06,Lodwar,Wheat flour,grains,3.0,190.0,M-Pesa,,False,False,True
+R10719,2026-10-06,Kakuma Town,Matches,household,1.0,20.0,Card,C0112,False,False,False
+R10720,2026-10-06,Lodwar,Soda,drinks,3.0,70.0,Card,,False,False,True
+R10721,2026-10-07,Kitale,Onions,produce,4.0,100.0,Cash,,False,False,True
+R10722,2026-10-07,Kakuma Town,Milk,dairy,4.0,65.0,M-Pesa,,False,False,True
+R10723,2026-10-07,Lodwar,Butter,dairy,4.0,250.0,M-Pesa,C0166,False,False,False
+R10724,2026-10-07,Kakuma Town,Butter,dairy,3.0,250.0,Card,C0278,False,False,False
+R10725,2026-10-07,Kitale,Wheat flour,grains,2.0,190.0,M-Pesa,C0182,False,False,False
+R10726,2026-10-07,Kakuma Town,Milk,dairy,4.0,65.0,unknown,,False,False,True
+R10727,2026-10-07,Lodwar,Butter,dairy,4.0,250.0,Card,,False,False,True
+R10728,2026-10-07,Kakuma Town,Onions,produce,2.0,100.0,M-Pesa,,False,False,True
+R10729,2026-10-07,Kakuma Town,Water,drinks,2.0,50.0,Cash,,False,False,True
+R10730,2026-10-07,Kakuma Town,Wheat flour,grains,-1.0,190.0,Cash,,True,False,True
+R10731,2026-10-07,Kitale,Soda,drinks,2.0,70.0,Cash,C0271,False,False,False
+R10732,2026-10-07,Kakuma Town,Kale,produce,1.0,30.0,Cash,C0077,False,False,False
+R10733,2026-10-07,Lodwar,Wheat flour,grains,5.0,190.0,Cash,,False,False,True
+R10734,2026-10-07,Kitale,Eggs,dairy,2.0,480.0,M-Pesa,,False,False,True
+R10735,2026-10-07,Kakuma Town,Matches,household,3.0,20.0,Cash,C0030,False,False,False
+R10736,2026-10-07,Kakuma Town,Kale,produce,2.0,30.0,Cash,C0282,False,False,False
+R10737,2026-10-07,Kakuma Town,Maize flour,grains,3.0,180.0,Cash,,False,False,True
+R10738,2026-10-07,Kakuma Town,Juice,drinks,2.0,130.0,Cash,C0206,False,False,False
+R10739,2026-10-07,Lodwar,Rice,grains,3.0,290.0,M-Pesa,C0202,False,False,False
+R10740,2026-10-07,Kakuma Town,Sugar,cooking,1.0,165.0,M-Pesa,C0140,False,False,False
+R10741,2026-10-07,Lodwar,Soda,drinks,4.0,70.0,M-Pesa,C0147,False,False,False
+R10742,2026-10-07,Kakuma Town,Maize flour,grains,3.0,180.0,M-Pesa,C0025,False,False,False
+R10743,2026-10-07,Kitale,Salt,cooking,1.0,36.0,Credit,,False,False,True
+R10744,2026-10-07,Kitale,Water,drinks,2.0,50.0,Cash,C0240,False,False,False
+R10745,2026-10-07,Kitale,Matches,household,2.0,20.0,Cash,,False,False,True
+R10746,2026-10-07,Kitale,Milk,dairy,1.0,65.0,M-Pesa,,False,False,True
+R10747,2026-10-07,Kitale,Soap,household,1.0,85.0,Cash,,False,False,True
+R10748,2026-10-07,Kakuma Town,Wheat flour,grains,2.0,190.0,M-Pesa,,False,False,True
+R10749,2026-10-07,Kitale,Soda,drinks,4.0,70.0,M-Pesa,,False,False,True
+R10750,2026-10-07,Kakuma Town,Water,drinks,2.0,50.0,Cash,C0123,False,False,False
+R10751,2026-10-07,Kitale,Milk,dairy,2.0,65.0,Cash,,False,False,True
+R10752,2026-10-07,Kakuma Town,Wheat flour,grains,5.0,171.0,M-Pesa,C0227,False,False,False
+R10753,2026-10-07,Kakuma Town,Soap,household,1.0,85.0,Cash,C0312,False,False,False
+R10754,2026-10-07,Kitale,Milk,dairy,3.0,65.0,M-Pesa,,False,False,True
+R10755,2026-10-07,Kitale,Soap,household,4.0,85.0,Cash,C0169,False,False,False
+R10756,2026-10-07,Kakuma Town,Eggs,dairy,1.0,480.0,M-Pesa,,False,False,True
+R10757,2026-10-07,Kakuma Town,Tea leaves,cooking,2.0,120.0,unknown,,False,False,True
+R10758,2026-10-07,Lodwar,Salt,cooking,4.0,40.0,M-Pesa,,False,False,True
+R10759,2026-10-07,Lodwar,Water,drinks,6.0,50.0,M-Pesa,C0002,False,False,False
+R10760,2026-10-07,Kitale,Maize flour,grains,2.0,180.0,Cash,C0005,False,False,False
+R10761,2026-10-07,Lodwar,Detergent,household,2.0,243.0,unknown,,False,False,True
+R10762,2026-10-07,Kitale,Water,drinks,5.0,45.0,M-Pesa,,False,False,True
+R10763,2026-10-07,Kakuma Town,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R10764,2026-10-07,Kitale,Soap,household,2.0,85.0,Cash,C0256,False,False,False
+R10765,2026-10-07,Kakuma Town,Soap,household,2.0,76.0,unknown,,False,False,True
+R10766,2026-10-07,Kitale,Rice,grains,8.0,261.0,M-Pesa,,False,False,True
+R10767,2026-10-07,Kitale,Cooking oil,cooking,3.0,320.0,M-Pesa,,False,False,True
+R10768,2026-10-07,Kitale,Salt,cooking,5.0,40.0,M-Pesa,C0035,False,False,False
+R10769,2026-10-07,Lodwar,Wheat flour,grains,7.0,190.0,Card,,False,False,True
+R10770,2026-10-07,Kakuma Town,Soda,drinks,3.0,,M-Pesa,C0146,False,False,False
+R10771,2026-10-07,Lodwar,Wheat flour,grains,3.0,190.0,M-Pesa,,False,False,True
+R10772,2026-10-07,Lodwar,Cooking oil,cooking,4.0,320.0,M-Pesa,C0234,False,False,False
+R10773,2026-10-07,Lodwar,Milk,dairy,2.0,65.0,M-Pesa,,False,False,True
+R10774,2026-10-07,Lodwar,Tomatoes,produce,2.0,90.0,Cash,C0155,False,False,False
+R10775,2026-10-07,Kakuma Town,Kale,produce,5.0,30.0,M-Pesa,C0124,False,False,False
+R10776,2026-10-07,Kitale,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R10777,2026-10-07,Lodwar,Soap,household,4.0,85.0,M-Pesa,,False,False,True
+R10778,2026-10-07,Kitale,Milk,dairy,5.0,,Cash,,False,False,True
+R10779,2026-10-07,Kitale,Soda,drinks,2.0,70.0,M-Pesa,,False,False,True
+R10780,2026-10-07,Kakuma Town,Maize flour,grains,1.0,180.0,M-Pesa,C0258,False,False,False
+R10781,2026-10-07,Lodwar,Soda,drinks,1.0,70.0,M-Pesa,C0123,False,False,False
+R10782,2026-10-07,Kitale,Cooking oil,cooking,2.0,320.0,Cash,C0016,False,False,False
+R10783,2026-10-07,Kakuma Town,Rice,grains,5.0,290.0,Cash,,False,False,True
+R10784,2026-10-07,Kakuma Town,Onions,produce,4.0,100.0,Cash,,False,False,True
+R10785,2026-10-07,Lodwar,Maize flour,grains,2.0,180.0,Cash,C0275,False,False,False
+R10786,2026-10-07,Kitale,Wheat flour,grains,3.0,190.0,M-Pesa,,False,False,True
+R10787,2026-10-07,Kakuma Town,Wheat flour,grains,1.0,190.0,M-Pesa,C0283,False,False,False
+R10788,2026-10-07,Lodwar,Maize flour,grains,4.0,180.0,M-Pesa,C0112,False,False,False
+R10789,2026-10-07,Lodwar,Onions,produce,5.0,100.0,M-Pesa,,False,False,True
+R10790,2026-10-07,Kakuma Town,Soda,drinks,2.0,70.0,M-Pesa,,False,False,True
+R10791,2026-10-07,Lodwar,Detergent,household,1.0,270.0,M-Pesa,,False,False,True
+R10792,2026-10-07,Lodwar,Rice,grains,3.0,290.0,Cash,C0128,False,False,False
+R10793,2026-10-07,Kitale,Eggs,dairy,3.0,480.0,Cash,,False,False,True
+R10794,2026-10-07,Kakuma Town,Cooking oil,cooking,2.0,320.0,Cash,C0108,False,False,False
+R10795,2026-10-07,Lodwar,Soap,household,3.0,85.0,Cash,,False,False,True
+R10796,2026-10-07,Kakuma Town,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R10797,2026-10-07,Kakuma Town,Milk,dairy,1.0,65.0,Cash,,False,False,True
+R10798,2026-10-07,Kakuma Town,Rice,grains,1.0,290.0,M-Pesa,,False,False,True
+R10799,2026-10-07,Lodwar,Soap,household,1.0,85.0,Cash,,False,False,True
+R10800,2026-10-07,Kakuma Town,Sugar,cooking,4.0,165.0,M-Pesa,C0115,False,False,False
+R10801,2026-10-07,Kitale,Rice,grains,3.0,290.0,Cash,,False,False,True
+R10802,2026-10-07,Kakuma Town,Water,drinks,2.0,50.0,M-Pesa,C0305,False,False,False
+R10803,2026-10-07,Kakuma Town,Butter,dairy,3.0,225.0,Cash,,False,False,True
+R10804,2026-10-07,Kakuma Town,Milk,dairy,4.0,65.0,Cash,,False,False,True
+R10805,2026-10-07,Kakuma Town,Milk,dairy,4.0,65.0,M-Pesa,C0274,False,False,False
+R10806,2026-10-07,Lodwar,Salt,cooking,3.0,40.0,M-Pesa,,False,False,True
+R10807,2026-10-07,Kitale,Detergent,household,1.0,270.0,M-Pesa,C0079,False,False,False
+R10808,2026-10-07,Kitale,Milk,dairy,1.0,65.0,M-Pesa,,False,False,True
+R10809,2026-10-07,Kitale,Rice,grains,1.0,290.0,Cash,,False,False,True
+R10810,2026-10-07,Kakuma Town,Rice,grains,4.0,290.0,Cash,,False,False,True
+R10811,2026-10-07,Lodwar,Rice,grains,1.0,290.0,Cash,,False,False,True
+R10812,2026-10-07,Lodwar,Milk,dairy,2.0,65.0,Cash,C0159,False,False,False
+R10813,2026-10-07,Kakuma Town,Soda,drinks,5.0,63.0,M-Pesa,C0169,False,False,False
+R10814,2026-10-07,Lodwar,Juice,drinks,2.0,130.0,Cash,C0017,False,False,False
+R10815,2026-10-07,Kakuma Town,Milk,dairy,1.0,65.0,Cash,,False,False,True
+R10816,2026-10-07,Kitale,Soda,drinks,1.0,70.0,Cash,,False,False,True
+R10817,2026-10-07,Kakuma Town,Tomatoes,produce,2.0,90.0,Cash,C0046,False,False,False
+R10818,2026-10-07,Kitale,Salt,cooking,3.0,40.0,M-Pesa,C0198,False,False,False
+R10819,2026-10-07,Lodwar,Sugar,cooking,2.0,165.0,Cash,C0249,False,False,False
+R10820,2026-10-07,Lodwar,Soap,household,2.0,85.0,Card,C0287,False,False,False
+R10821,2026-10-07,Kakuma Town,Cooking oil,cooking,2.0,320.0,Cash,,False,False,True
+R10822,2026-10-07,Lodwar,Cooking oil,cooking,1.0,320.0,M-Pesa,,False,False,True
+R10823,2026-10-07,Kakuma Town,Detergent,household,1.0,270.0,Credit,,False,False,True
+R10824,2026-10-07,Kitale,Rice,grains,2.0,290.0,Cash,,False,False,True
+R10825,2026-10-07,Kakuma Town,Onions,produce,2.0,100.0,Cash,C0311,False,False,False
+R10826,2026-10-07,Kakuma Town,Cooking oil,cooking,2.0,320.0,Cash,,False,False,True
+R10827,2026-10-07,Kitale,Eggs,dairy,3.0,480.0,M-Pesa,,False,False,True
+R10828,2026-10-07,Lodwar,Juice,drinks,2.0,130.0,Card,,False,False,True
+R10829,2026-10-07,Kakuma Town,Soda,drinks,3.0,70.0,M-Pesa,,False,False,True
+R10830,2026-10-07,Lodwar,Butter,dairy,3.0,250.0,Cash,,False,False,True
+R10831,2026-10-08,Kakuma Town,Cooking oil,cooking,3.0,320.0,M-Pesa,,False,False,True
+R10832,2026-10-08,Kakuma Town,Soap,household,2.0,85.0,Cash,C0221,False,False,False
+R10833,2026-10-08,Lodwar,Detergent,household,1.0,243.0,M-Pesa,C0226,False,False,False
+R10834,2026-10-08,Kitale,Sugar,cooking,1.0,165.0,M-Pesa,C0218,False,False,False
+R10835,2026-10-08,Kitale,Matches,household,1.0,20.0,M-Pesa,C0115,False,False,False
+R10836,2026-10-08,Kakuma Town,Maize flour,grains,2.0,180.0,M-Pesa,C0142,False,False,False
+R10837,2026-10-08,Lodwar,Tomatoes,produce,1.0,90.0,M-Pesa,,False,False,True
+R10838,2026-10-08,Lodwar,Detergent,household,6.0,270.0,Cash,C0050,False,False,False
+R10839,2026-10-08,Kakuma Town,Cooking oil,cooking,2.0,320.0,Cash,,False,False,True
+R10840,2026-10-08,Kakuma Town,Onions,produce,2.0,100.0,Cash,,False,False,True
+R10841,2026-10-08,Kitale,Tomatoes,produce,1.0,90.0,Cash,C0017,False,False,False
+R10842,2026-10-08,Kitale,Rice,grains,4.0,290.0,M-Pesa,C0225,False,False,False
+R10843,2026-10-08,Kakuma Town,Detergent,household,1.0,270.0,M-Pesa,C0306,False,False,False
+R10844,2026-10-08,Kakuma Town,Cooking oil,cooking,2.0,288.0,Cash,C0029,False,False,False
+R10845,2026-10-08,Kitale,Wheat flour,grains,4.0,190.0,M-Pesa,C0023,False,False,False
+R10846,2026-10-08,Lodwar,Onions,produce,3.0,100.0,Cash,,False,False,True
+R10847,2026-10-08,Kitale,Sugar,cooking,4.0,165.0,Cash,,False,False,True
+R10848,2026-10-08,Kakuma Town,Wheat flour,grains,1.0,190.0,Cash,C0085,False,False,False
+R10849,2026-10-08,Kitale,Salt,cooking,4.0,40.0,unknown,C0179,False,False,False
+R10850,2026-10-08,Kakuma Town,Water,drinks,5.0,50.0,M-Pesa,C0261,False,False,False
+R10851,2026-10-08,Kitale,Milk,dairy,2.0,65.0,M-Pesa,C0096,False,False,False
+R10852,2026-10-08,Kakuma Town,Kale,produce,3.0,30.0,M-Pesa,,False,False,True
+R10853,2026-10-08,Lodwar,Water,drinks,2.0,50.0,Cash,C0141,False,False,False
+R10854,2026-10-08,Lodwar,Butter,dairy,3.0,250.0,M-Pesa,,False,False,True
+R10855,2026-10-08,Kakuma Town,Kale,produce,5.0,30.0,Cash,,False,False,True
+R10856,2026-10-08,Kitale,Tomatoes,produce,3.0,90.0,M-Pesa,,False,False,True
+R10857,2026-10-08,Kakuma Town,Maize flour,grains,3.0,180.0,Cash,C0090,False,False,False
+R10858,2026-10-08,Lodwar,Onions,produce,2.0,100.0,Cash,,False,False,True
+R10859,2026-10-08,Kitale,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R10860,2026-10-08,Kitale,Onions,produce,2.0,100.0,M-Pesa,C0059,False,False,False
+R10861,2026-10-08,Kitale,Water,drinks,2.0,50.0,Cash,C0157,False,False,False
+R10862,2026-10-08,Kakuma Town,Juice,drinks,1.0,130.0,M-Pesa,C0171,False,False,False
+R10863,2026-10-08,Kitale,Milk,dairy,2.0,65.0,Cash,,False,False,True
+R10864,2026-10-08,Lodwar,Soap,household,1.0,,M-Pesa,C0052,False,False,False
+R10865,2026-10-08,Kakuma Town,Soda,drinks,2.0,70.0,Cash,C0132,False,False,False
+R10866,2026-10-08,Kakuma Town,Milk,dairy,2.0,65.0,M-Pesa,,False,False,True
+R10867,2026-10-08,Kakuma Town,Detergent,household,2.0,270.0,Card,,False,False,True
+R10868,2026-10-08,Lodwar,Juice,drinks,2.0,130.0,M-Pesa,,False,False,True
+R10869,2026-10-08,Kakuma Town,Tomatoes,produce,7.0,90.0,M-Pesa,,False,False,True
+R10870,2026-10-08,Kitale,Soap,household,1.0,85.0,Cash,,False,False,True
+R10871,2026-10-08,Kakuma Town,Sugar,cooking,4.0,165.0,M-Pesa,C0246,False,False,False
+R10872,2026-10-08,Kakuma Town,Matches,household,3.0,18.0,M-Pesa,C0105,False,False,False
+R10873,2026-10-08,Kakuma Town,Sugar,cooking,6.0,165.0,Cash,C0033,False,False,False
+R10874,2026-10-08,Kakuma Town,Soda,drinks,5.0,,M-Pesa,,False,False,True
+R10875,2026-10-08,Kitale,Juice,drinks,2.0,130.0,M-Pesa,,False,False,True
+R10876,2026-10-08,Lodwar,Matches,household,1.0,20.0,Cash,,False,False,True
+R10877,2026-10-08,Kitale,Rice,grains,5.0,290.0,Cash,C0209,False,False,False
+R10878,2026-10-08,Lodwar,Onions,produce,4.0,100.0,Cash,,False,False,True
+R10879,2026-10-08,Kakuma Town,Rice,grains,2.0,290.0,Cash,,False,False,True
+R10880,2026-10-08,Kakuma Town,Kale,produce,7.0,27.0,Cash,,False,False,True
+R10881,2026-10-08,Kakuma Town,Maize flour,grains,2.0,180.0,Cash,,False,False,True
+R10882,2026-10-08,Kakuma Town,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R10883,2026-10-08,Kakuma Town,Onions,produce,1.0,100.0,M-Pesa,C0076,False,False,False
+R10884,2026-10-08,Lodwar,Juice,drinks,2.0,130.0,Cash,C0195,False,False,False
+R10885,2026-10-08,Kitale,Tomatoes,produce,2.0,90.0,Cash,,False,False,True
+R10886,2026-10-08,Kakuma Town,Soap,household,3.0,85.0,Cash,,False,False,True
+R10887,2026-10-08,Kakuma Town,Onions,produce,2.0,100.0,M-Pesa,,False,False,True
+R10888,2026-10-08,Kakuma Town,Milk,dairy,4.0,65.0,Cash,,False,False,True
+R10889,2026-10-08,Kakuma Town,Detergent,household,4.0,270.0,Cash,,False,False,True
+R10890,2026-10-08,Kakuma Town,Maize flour,grains,1.0,180.0,Cash,C0054,False,False,False
+R10891,2026-10-08,Kakuma Town,Detergent,household,3.0,270.0,Cash,,False,False,True
+R10892,2026-10-08,Lodwar,Sugar,cooking,3.0,165.0,M-Pesa,,False,False,True
+R10893,2026-10-08,Kitale,Onions,produce,1.0,100.0,Cash,C0211,False,False,False
+R10894,2026-10-08,Kakuma Town,Tea leaves,cooking,3.0,120.0,Cash,,False,False,True
+R10895,2026-10-08,Kitale,Milk,dairy,2.0,65.0,Cash,,False,False,True
+R10896,2026-10-08,Kakuma Town,Kale,produce,1.0,30.0,Cash,,False,False,True
+R10897,2026-10-08,Kakuma Town,Salt,cooking,2.0,40.0,Cash,,False,False,True
+R10898,2026-10-08,Kitale,Wheat flour,grains,-1.0,190.0,M-Pesa,,True,False,True
+R10899,2026-10-08,Lodwar,Wheat flour,grains,2.0,190.0,Cash,C0238,False,False,False
+R10900,2026-10-08,Kakuma Town,Milk,dairy,1.0,65.0,M-Pesa,C0171,False,False,False
+R10901,2026-10-08,Kakuma Town,Wheat flour,grains,2.0,190.0,Cash,,False,False,True
+R10902,2026-10-08,Kakuma Town,Water,drinks,1.0,50.0,Cash,,False,False,True
+R10903,2026-10-08,Kitale,Soda,drinks,2.0,,Card,C0219,False,False,False
+R10904,2026-10-08,Kakuma Town,Soda,drinks,2.0,70.0,M-Pesa,,False,False,True
+R10905,2026-10-08,Lodwar,Rice,grains,1.0,290.0,Card,,False,False,True
+R10906,2026-10-08,Kitale,Tea leaves,cooking,1.0,120.0,Cash,C0290,False,False,False
+R10907,2026-10-08,Kitale,Sugar,cooking,2.0,165.0,Card,,False,False,True
+R10908,2026-10-08,Kitale,Wheat flour,grains,2.0,171.0,Cash,,False,False,True
+R10909,2026-10-08,Kakuma Town,Water,drinks,3.0,50.0,Cash,,False,False,True
+R10910,2026-10-08,Kitale,Sugar,cooking,2.0,165.0,Cash,C0100,False,False,False
+R10911,2026-10-08,Kitale,Soap,household,1.0,85.0,Cash,C0119,False,False,False
+R10912,2026-10-08,Kakuma Town,Soda,drinks,3.0,70.0,Cash,,False,False,True
+R10913,2026-10-08,Kakuma Town,Matches,household,3.0,20.0,M-Pesa,C0222,False,False,False
+R10914,2026-10-08,Kakuma Town,Tomatoes,produce,2.0,90.0,unknown,,False,False,True
+R10915,2026-10-08,Kitale,Detergent,household,1.0,270.0,M-Pesa,C0188,False,False,False
+R10916,2026-10-08,Kitale,Tea leaves,cooking,3.0,120.0,M-Pesa,,False,False,True
+R10917,2026-10-08,Kakuma Town,Tea leaves,cooking,3.0,120.0,M-Pesa,,False,False,True
+R10918,2026-10-08,Kakuma Town,Onions,produce,5.0,100.0,M-Pesa,,False,False,True
+R10919,2026-10-08,Kitale,Matches,household,2.0,20.0,Cash,,False,False,True
+R10920,2026-10-08,Kakuma Town,Sugar,cooking,2.0,165.0,M-Pesa,C0189,False,False,False
+R10921,2026-10-08,Kakuma Town,Milk,dairy,6.0,65.0,M-Pesa,,False,False,True
+R10922,2026-10-08,Kakuma Town,Cooking oil,cooking,3.0,320.0,Credit,,False,False,True
+R10923,2026-10-08,Kitale,Soda,drinks,3.0,70.0,M-Pesa,,False,False,True
+R10924,2026-10-08,Lodwar,Cooking oil,cooking,3.0,320.0,Credit,C0264,False,False,False
+R10925,2026-10-08,Kakuma Town,Cooking oil,cooking,3.0,320.0,Cash,,False,False,True
+R10926,2026-10-08,Lodwar,Matches,household,5.0,20.0,Cash,C0016,False,False,False
+R10927,2026-10-08,Kitale,Cooking oil,cooking,1.0,320.0,Cash,C0084,False,False,False
+R10928,2026-10-08,Lodwar,Cooking oil,cooking,5.0,320.0,Cash,C0303,False,False,False
+R10929,2026-10-08,Kitale,Cooking oil,cooking,3.0,320.0,Cash,C0153,False,False,False
+R10930,2026-10-08,Kakuma Town,Soap,household,1.0,85.0,M-Pesa,,False,False,True
+R10931,2026-10-08,Lodwar,Soda,drinks,2.0,70.0,Card,,False,False,True
+R10932,2026-10-08,Kakuma Town,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R10933,2026-10-08,Kitale,Detergent,household,2.0,270.0,Cash,C0013,False,False,False
+R10934,2026-10-08,Lodwar,Salt,cooking,2.0,40.0,M-Pesa,,False,False,True
+R10935,2026-10-08,Kitale,Milk,dairy,1.0,65.0,Cash,C0246,False,False,False
+R10936,2026-10-08,Kakuma Town,Tomatoes,produce,3.0,90.0,Cash,C0129,False,False,False
+R10937,2026-10-08,Kakuma Town,Water,drinks,2.0,50.0,Cash,,False,False,True
+R10938,2026-10-08,Kakuma Town,Milk,dairy,2.0,65.0,M-Pesa,C0251,False,False,False
+R10939,2026-10-09,Kitale,Milk,dairy,2.0,65.0,M-Pesa,C0132,False,False,False
+R10940,2026-10-09,Kitale,Wheat flour,grains,1.0,190.0,M-Pesa,C0016,False,False,False
+R10941,2026-10-09,Kitale,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R10942,2026-10-09,Kakuma Town,Kale,produce,2.0,30.0,Cash,C0183,False,False,False
+R10943,2026-10-09,Lodwar,Maize flour,grains,1.0,162.0,Cash,C0270,False,False,False
+R10944,2026-10-09,Lodwar,Maize flour,grains,4.0,180.0,M-Pesa,,False,False,True
+R10945,2026-10-09,Kakuma Town,Salt,cooking,5.0,40.0,Cash,C0213,False,False,False
+R10946,2026-10-09,Kakuma Town,Wheat flour,grains,3.0,190.0,Cash,C0289,False,False,False
+R10947,2026-10-09,Lodwar,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R10948,2026-10-09,Kakuma Town,Eggs,dairy,2.0,480.0,M-Pesa,,False,False,True
+R10949,2026-10-09,Kitale,Kale,produce,2.0,30.0,Credit,C0091,False,False,False
+R10950,2026-10-09,Lodwar,Cooking oil,cooking,3.0,320.0,Cash,C0077,False,False,False
+R10951,2026-10-09,Kitale,Cooking oil,cooking,2.0,320.0,Cash,,False,False,True
+R10952,2026-10-09,Kakuma Town,Wheat flour,grains,3.0,190.0,Cash,,False,False,True
+R10953,2026-10-09,Lodwar,Eggs,dairy,1.0,480.0,Cash,C0224,False,False,False
+R10954,2026-10-09,Kakuma Town,Butter,dairy,2.0,250.0,M-Pesa,,False,False,True
+R10955,2026-10-09,Kakuma Town,Tea leaves,cooking,3.0,120.0,Cash,C0131,False,False,False
+R10956,2026-10-09,Kitale,Onions,produce,2.0,100.0,M-Pesa,,False,False,True
+R10957,2026-10-09,Kakuma Town,Detergent,household,3.0,270.0,M-Pesa,C0220,False,False,False
+R10958,2026-10-09,Kitale,Kale,produce,2.0,27.0,M-Pesa,C0098,False,False,False
+R10959,2026-10-09,Lodwar,Soap,household,3.0,85.0,M-Pesa,,False,False,True
+R10960,2026-10-09,Lodwar,Tea leaves,cooking,4.0,120.0,Cash,C0174,False,False,False
+R10961,2026-10-09,Kakuma Town,Rice,grains,3.0,290.0,Cash,,False,False,True
+R10962,2026-10-09,Lodwar,Soap,household,1.0,85.0,M-Pesa,C0192,False,False,False
+R10963,2026-10-09,Lodwar,Sugar,cooking,3.0,165.0,M-Pesa,,False,False,True
+R10964,2026-10-09,Kitale,Kale,produce,4.0,30.0,M-Pesa,,False,False,True
+R10965,2026-10-09,Kakuma Town,Kale,produce,3.0,30.0,Card,,False,False,True
+R10966,2026-10-09,Lodwar,Cooking oil,cooking,2.0,320.0,Cash,C0267,False,False,False
+R10967,2026-10-09,Lodwar,Tea leaves,cooking,1.0,120.0,Cash,C0128,False,False,False
+R10968,2026-10-09,Lodwar,Soap,household,1.0,,M-Pesa,,False,False,True
+R10969,2026-10-09,Kakuma Town,Water,drinks,2.0,50.0,M-Pesa,C0030,False,False,False
+R10970,2026-10-09,Kitale,Eggs,dairy,3.0,480.0,Cash,C0054,False,False,False
+R10971,2026-10-09,Kakuma Town,Detergent,household,1.0,270.0,Cash,C0317,False,False,False
+R10972,2026-10-09,Kakuma Town,Water,drinks,4.0,50.0,Cash,,False,False,True
+R10973,2026-10-09,Kakuma Town,Matches,household,5.0,20.0,Cash,,False,False,True
+R10974,2026-10-09,Kakuma Town,Salt,cooking,1.0,40.0,Credit,,False,False,True
+R10975,2026-10-09,Lodwar,Soda,drinks,2.0,70.0,M-Pesa,C0106,False,False,False
+R10976,2026-10-09,Kitale,Salt,cooking,3.0,40.0,M-Pesa,C0240,False,False,False
+R10977,2026-10-09,Lodwar,Cooking oil,cooking,3.0,320.0,M-Pesa,,False,False,True
+R10978,2026-10-09,Kitale,Juice,drinks,1.0,130.0,Cash,C0278,False,False,False
+R10979,2026-10-09,Kitale,Rice,grains,2.0,290.0,M-Pesa,,False,False,True
+R10980,2026-10-09,Kakuma Town,Tomatoes,produce,1.0,90.0,M-Pesa,,False,False,True
+R10981,2026-10-09,Kakuma Town,Milk,dairy,3.0,65.0,Card,C0002,False,False,False
+R10982,2026-10-09,Kakuma Town,Wheat flour,grains,1.0,190.0,M-Pesa,,False,False,True
+R10983,2026-10-09,Kakuma Town,Rice,grains,2.0,290.0,Cash,,False,False,True
+R10984,2026-10-09,Kakuma Town,Wheat flour,grains,2.0,190.0,Cash,,False,False,True
+R10985,2026-10-09,Kakuma Town,Butter,dairy,3.0,250.0,M-Pesa,,False,False,True
+R10986,2026-10-09,Kakuma Town,Water,drinks,4.0,50.0,Cash,,False,False,True
+R10987,2026-10-09,Kakuma Town,Onions,produce,2.0,100.0,M-Pesa,C0227,False,False,False
+R10988,2026-10-09,Kitale,Onions,produce,3.0,100.0,M-Pesa,C0152,False,False,False
+R10989,2026-10-09,Kakuma Town,Salt,cooking,3.0,40.0,Card,,False,False,True
+R10990,2026-10-09,Kitale,Sugar,cooking,3.0,165.0,Cash,C0155,False,False,False
+R10991,2026-10-09,Kakuma Town,Sugar,cooking,2.0,165.0,Card,,False,False,True
+R10992,2026-10-09,Kakuma Town,Water,drinks,1.0,50.0,Cash,C0126,False,False,False
+R10993,2026-10-09,Kakuma Town,Onions,produce,3.0,100.0,M-Pesa,,False,False,True
+R10994,2026-10-09,Kakuma Town,Water,drinks,1.0,50.0,M-Pesa,C0312,False,False,False
+R10995,2026-10-09,Lodwar,Soap,household,4.0,76.0,M-Pesa,C0284,False,False,False
+R10996,2026-10-09,Kitale,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R10997,2026-10-09,Kakuma Town,Tea leaves,cooking,3.0,120.0,Cash,C0003,False,False,False
+R10998,2026-10-09,Kakuma Town,Salt,cooking,2.0,40.0,unknown,,False,False,True
+R10999,2026-10-09,Kitale,Juice,drinks,2.0,130.0,Cash,,False,False,True
+R11000,2026-10-09,Kakuma Town,Matches,household,2.0,20.0,M-Pesa,C0174,False,False,False
+R11001,2026-10-09,Kitale,Wheat flour,grains,2.0,190.0,Cash,C0029,False,False,False
+R11002,2026-10-09,Kitale,Onions,produce,2.0,100.0,M-Pesa,,False,False,True
+R11003,2026-10-09,Kitale,Milk,dairy,3.0,65.0,Cash,,False,False,True
+R11004,2026-10-09,Lodwar,Eggs,dairy,2.0,480.0,Cash,C0012,False,False,False
+R11005,2026-10-09,Kitale,Milk,dairy,1.0,65.0,M-Pesa,,False,False,True
+R11006,2026-10-09,Kakuma Town,Butter,dairy,3.0,250.0,Card,,False,False,True
+R11007,2026-10-09,Kakuma Town,Wheat flour,grains,2.0,190.0,Cash,,False,False,True
+R11008,2026-10-09,Lodwar,Water,drinks,999.0,50.0,Cash,C0287,False,True,False
+R11009,2026-10-09,Kitale,Kale,produce,3.0,30.0,Credit,,False,False,True
+R11010,2026-10-09,Kakuma Town,Tea leaves,cooking,2.0,120.0,Cash,C0287,False,False,False
+R11011,2026-10-09,Lodwar,Tea leaves,cooking,1.0,120.0,M-Pesa,,False,False,True
+R11012,2026-10-09,Lodwar,Juice,drinks,2.0,130.0,M-Pesa,,False,False,True
+R11013,2026-10-09,Kakuma Town,Wheat flour,grains,2.0,190.0,Cash,C0201,False,False,False
+R11014,2026-10-09,Kakuma Town,Tea leaves,cooking,2.0,120.0,M-Pesa,C0308,False,False,False
+R11015,2026-10-09,Kitale,Water,drinks,2.0,45.0,M-Pesa,C0071,False,False,False
+R11016,2026-10-09,Kakuma Town,Rice,grains,2.0,290.0,Cash,,False,False,True
+R11017,2026-10-09,Kakuma Town,Wheat flour,grains,3.0,190.0,Cash,C0305,False,False,False
+R11018,2026-10-09,Lodwar,Salt,cooking,2.0,40.0,Cash,C0189,False,False,False
+R11019,2026-10-09,Kakuma Town,Soap,household,2.0,76.0,Cash,C0033,False,False,False
+R11020,2026-10-09,Kitale,Detergent,household,2.0,270.0,M-Pesa,,False,False,True
+R11021,2026-10-09,Kakuma Town,Wheat flour,grains,4.0,190.0,Cash,,False,False,True
+R11022,2026-10-09,Kitale,Tea leaves,cooking,5.0,120.0,M-Pesa,C0121,False,False,False
+R11023,2026-10-09,Kakuma Town,Tomatoes,produce,2.0,90.0,M-Pesa,C0096,False,False,False
+R11024,2026-10-09,Kakuma Town,Matches,household,2.0,20.0,M-Pesa,,False,False,True
+R11025,2026-10-09,Kakuma Town,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R11026,2026-10-09,Kakuma Town,Kale,produce,3.0,30.0,Cash,,False,False,True
+R11027,2026-10-09,Kitale,Tea leaves,cooking,3.0,120.0,Cash,,False,False,True
+R11028,2026-10-09,Kitale,Water,drinks,2.0,50.0,Cash,C0201,False,False,False
+R11029,2026-10-09,Kakuma Town,Soda,drinks,6.0,70.0,Card,C0139,False,False,False
+R11030,2026-10-09,Lodwar,Maize flour,grains,1.0,180.0,Cash,,False,False,True
+R11031,2026-10-09,Kakuma Town,Tea leaves,cooking,3.0,120.0,Cash,C0044,False,False,False
+R11032,2026-10-09,Lodwar,Salt,cooking,4.0,40.0,unknown,,False,False,True
+R11033,2026-10-09,Kakuma Town,Cooking oil,cooking,2.0,320.0,Cash,,False,False,True
+R11034,2026-10-09,Lodwar,Soap,household,3.0,85.0,Cash,,False,False,True
+R11035,2026-10-09,Kakuma Town,Kale,produce,1.0,30.0,Cash,C0247,False,False,False
+R11036,2026-10-09,Lodwar,Rice,grains,2.0,261.0,M-Pesa,,False,False,True
+R11037,2026-10-09,Kakuma Town,Tomatoes,produce,2.0,90.0,Cash,C0091,False,False,False
+R11038,2026-10-09,Kitale,Wheat flour,grains,2.0,190.0,M-Pesa,,False,False,True
+R11039,2026-10-09,Kakuma Town,Wheat flour,grains,2.0,190.0,Cash,,False,False,True
+R11040,2026-10-09,Lodwar,Kale,produce,3.0,30.0,Credit,,False,False,True
+R11041,2026-10-09,Lodwar,Onions,produce,2.0,100.0,M-Pesa,,False,False,True
+R11042,2026-10-09,Kakuma Town,Kale,produce,4.0,30.0,M-Pesa,C0126,False,False,False
+R11043,2026-10-09,Kakuma Town,Eggs,dairy,6.0,,M-Pesa,C0015,False,False,False
+R11044,2026-10-09,Kitale,Soda,drinks,4.0,63.0,M-Pesa,,False,False,True
+R11045,2026-10-09,Lodwar,Water,drinks,2.0,50.0,Cash,C0215,False,False,False
+R11046,2026-10-09,Kitale,Soap,household,5.0,85.0,M-Pesa,,False,False,True
+R11047,2026-10-09,Kitale,Sugar,cooking,2.0,165.0,M-Pesa,,False,False,True
+R11048,2026-10-09,Kakuma Town,Maize flour,grains,4.0,180.0,M-Pesa,,False,False,True
+R11049,2026-10-09,Kakuma Town,Salt,cooking,3.0,40.0,M-Pesa,,False,False,True
+R11050,2026-10-10,Kitale,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R11051,2026-10-10,Kitale,Milk,dairy,1.0,65.0,Card,C0249,False,False,False
+R11052,2026-10-10,Kitale,Rice,grains,3.0,290.0,M-Pesa,,False,False,True
+R11053,2026-10-10,Kakuma Town,Milk,dairy,1.0,65.0,Cash,,False,False,True
+R11054,2026-10-10,Kakuma Town,Soap,household,4.0,85.0,Cash,C0119,False,False,False
+R11055,2026-10-10,Kakuma Town,Soda,drinks,2.0,70.0,M-Pesa,C0155,False,False,False
+R11056,2026-10-10,Lodwar,Onions,produce,3.0,100.0,Cash,C0051,False,False,False
+R11057,2026-10-10,Lodwar,Cooking oil,cooking,3.0,320.0,M-Pesa,,False,False,True
+R11058,2026-10-10,Kakuma Town,Onions,produce,1.0,100.0,M-Pesa,,False,False,True
+R11059,2026-10-10,Kitale,Wheat flour,grains,3.0,190.0,M-Pesa,,False,False,True
+R11060,2026-10-10,Kakuma Town,Kale,produce,5.0,30.0,M-Pesa,,False,False,True
+R11061,2026-10-10,Kakuma Town,Soap,household,5.0,85.0,Cash,C0211,False,False,False
+R11062,2026-10-10,Kakuma Town,Maize flour,grains,3.0,180.0,Cash,,False,False,True
+R11063,2026-10-10,Kitale,Soda,drinks,5.0,70.0,Credit,C0028,False,False,False
+R11064,2026-10-10,Lodwar,Maize flour,grains,2.0,180.0,Cash,C0263,False,False,False
+R11065,2026-10-10,Kitale,Soda,drinks,3.0,70.0,unknown,,False,False,True
+R11066,2026-10-10,Lodwar,Onions,produce,4.0,90.0,M-Pesa,C0003,False,False,False
+R11067,2026-10-10,Kitale,Cooking oil,cooking,1.0,320.0,M-Pesa,,False,False,True
+R11068,2026-10-10,Lodwar,Soda,drinks,4.0,70.0,M-Pesa,,False,False,True
+R11069,2026-10-10,Lodwar,Kale,produce,2.0,30.0,Cash,C0063,False,False,False
+R11070,2026-10-10,Kitale,Salt,cooking,5.0,40.0,M-Pesa,C0246,False,False,False
+R11071,2026-10-10,Kitale,Detergent,household,4.0,270.0,unknown,,False,False,True
+R11072,2026-10-10,Kitale,Water,drinks,2.0,50.0,Cash,,False,False,True
+R11073,2026-10-10,Lodwar,Water,drinks,6.0,45.0,M-Pesa,,False,False,True
+R11074,2026-10-10,Kakuma Town,Juice,drinks,2.0,117.0,M-Pesa,C0123,False,False,False
+R11075,2026-10-10,Kitale,Tomatoes,produce,4.0,90.0,M-Pesa,C0123,False,False,False
+R11076,2026-10-10,Kakuma Town,Wheat flour,grains,2.0,190.0,M-Pesa,C0035,False,False,False
+R11077,2026-10-10,Kitale,Tea leaves,cooking,2.0,120.0,Card,,False,False,True
+R11078,2026-10-10,Lodwar,Maize flour,grains,2.0,180.0,Credit,C0050,False,False,False
+R11079,2026-10-10,Lodwar,Soda,drinks,1.0,70.0,Card,C0311,False,False,False
+R11080,2026-10-10,Kitale,Tomatoes,produce,2.0,81.0,Card,,False,False,True
+R11081,2026-10-10,Lodwar,Soda,drinks,2.0,70.0,M-Pesa,C0134,False,False,False
+R11082,2026-10-10,Kakuma Town,Maize flour,grains,1.0,162.0,M-Pesa,,False,False,True
+R11083,2026-10-10,Kakuma Town,Matches,household,2.0,20.0,M-Pesa,C0192,False,False,False
+R11084,2026-10-10,Kitale,Wheat flour,grains,3.0,190.0,Cash,,False,False,True
+R11085,2026-10-10,Kakuma Town,Soda,drinks,2.0,70.0,Credit,,False,False,True
+R11086,2026-10-10,Kitale,Rice,grains,2.0,290.0,Cash,,False,False,True
+R11087,2026-10-10,Lodwar,Soap,household,3.0,85.0,Cash,,False,False,True
+R11088,2026-10-10,Kakuma Town,Eggs,dairy,4.0,480.0,Cash,,False,False,True
+R11089,2026-10-10,Kakuma Town,Maize flour,grains,3.0,180.0,Cash,,False,False,True
+R11090,2026-10-10,Kakuma Town,Soda,drinks,1.0,70.0,Credit,C0011,False,False,False
+R11091,2026-10-10,Lodwar,Tomatoes,produce,4.0,90.0,M-Pesa,C0017,False,False,False
+R11092,2026-10-10,Lodwar,Eggs,dairy,3.0,480.0,Cash,,False,False,True
+R11093,2026-10-10,Kitale,Water,drinks,3.0,45.0,Cash,,False,False,True
+R11094,2026-10-10,Kakuma Town,Tea leaves,cooking,2.0,108.0,Cash,C0177,False,False,False
+R11095,2026-10-10,Kakuma Town,Milk,dairy,2.0,65.0,M-Pesa,C0062,False,False,False
+R11096,2026-10-10,Lodwar,Maize flour,grains,3.0,180.0,M-Pesa,C0266,False,False,False
+R11097,2026-10-10,Kakuma Town,Onions,produce,3.0,100.0,M-Pesa,C0240,False,False,False
+R11098,2026-10-10,Kakuma Town,Wheat flour,grains,3.0,190.0,Credit,,False,False,True
+R11099,2026-10-10,Kakuma Town,Maize flour,grains,4.0,180.0,M-Pesa,C0219,False,False,False
+R11100,2026-10-10,Kakuma Town,Onions,produce,2.0,100.0,Cash,C0122,False,False,False
+R11101,2026-10-10,Kakuma Town,Onions,produce,1.0,100.0,Cash,C0150,False,False,False
+R11102,2026-10-10,Kitale,Wheat flour,grains,4.0,190.0,Cash,,False,False,True
+R11103,2026-10-10,Kakuma Town,Wheat flour,grains,3.0,190.0,Cash,C0305,False,False,False
+R11104,2026-10-10,Lodwar,Rice,grains,2.0,290.0,Cash,C0035,False,False,False
+R11105,2026-10-10,Kakuma Town,Tomatoes,produce,3.0,90.0,M-Pesa,C0184,False,False,False
+R11106,2026-10-10,Lodwar,Maize flour,grains,3.0,180.0,Cash,,False,False,True
+R11107,2026-10-10,Lodwar,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R11108,2026-10-10,Kakuma Town,Tomatoes,produce,2.0,90.0,Cash,C0084,False,False,False
+R11109,2026-10-10,Lodwar,Water,drinks,2.0,50.0,Cash,,False,False,True
+R11110,2026-10-10,Kitale,Milk,dairy,3.0,65.0,Cash,C0096,False,False,False
+R11111,2026-10-10,Kitale,Milk,dairy,7.0,65.0,M-Pesa,,False,False,True
+R11112,2026-10-10,Kakuma Town,Water,drinks,3.0,45.0,Card,,False,False,True
+R11113,2026-10-10,Kakuma Town,Maize flour,grains,1.0,180.0,Cash,,False,False,True
+R11114,2026-10-10,Kitale,Sugar,cooking,-1.0,165.0,Cash,C0298,True,False,False
+R11115,2026-10-10,Kitale,Cooking oil,cooking,1.0,320.0,M-Pesa,C0172,False,False,False
+R11116,2026-10-10,Lodwar,Maize flour,grains,5.0,180.0,Credit,C0212,False,False,False
+R11117,2026-10-10,Lodwar,Soap,household,3.0,76.0,M-Pesa,C0037,False,False,False
+R11118,2026-10-10,Lodwar,Milk,dairy,2.0,65.0,M-Pesa,C0073,False,False,False
+R11119,2026-10-10,Kitale,Tomatoes,produce,2.0,90.0,M-Pesa,C0027,False,False,False
+R11120,2026-10-10,Kakuma Town,Juice,drinks,1.0,130.0,M-Pesa,,False,False,True
+R11121,2026-10-10,Kitale,Eggs,dairy,2.0,432.0,M-Pesa,C0191,False,False,False
+R11122,2026-10-10,Lodwar,Wheat flour,grains,1.0,190.0,M-Pesa,,False,False,True
+R11123,2026-10-10,Kakuma Town,Sugar,cooking,3.0,165.0,M-Pesa,C0126,False,False,False
+R11124,2026-10-10,Kitale,Maize flour,grains,1.0,180.0,Cash,,False,False,True
+R11125,2026-10-10,Lodwar,Soap,household,3.0,85.0,M-Pesa,C0203,False,False,False
+R11126,2026-10-10,Kitale,Sugar,cooking,4.0,165.0,M-Pesa,,False,False,True
+R11127,2026-10-10,Lodwar,Cooking oil,cooking,4.0,320.0,M-Pesa,C0058,False,False,False
+R11128,2026-10-10,Kitale,Soap,household,1.0,85.0,M-Pesa,C0224,False,False,False
+R11129,2026-10-10,Kitale,Sugar,cooking,4.0,165.0,M-Pesa,C0204,False,False,False
+R11130,2026-10-10,Kitale,Maize flour,grains,3.0,180.0,M-Pesa,,False,False,True
+R11131,2026-10-10,Kitale,Milk,dairy,3.0,65.0,M-Pesa,,False,False,True
+R11132,2026-10-10,Kakuma Town,Water,drinks,3.0,50.0,Credit,,False,False,True
+R11133,2026-10-10,Kakuma Town,Milk,dairy,3.0,65.0,Cash,C0283,False,False,False
+R11134,2026-10-10,Kakuma Town,Salt,cooking,4.0,40.0,Cash,C0087,False,False,False
+R11135,2026-10-10,Kitale,Wheat flour,grains,3.0,190.0,Cash,,False,False,True
+R11136,2026-10-10,Lodwar,Water,drinks,4.0,50.0,Cash,C0126,False,False,False
+R11137,2026-10-10,Kakuma Town,Maize flour,grains,2.0,180.0,Cash,,False,False,True
+R11138,2026-10-10,Kitale,Matches,household,3.0,20.0,Cash,,False,False,True
+R11139,2026-10-10,Kitale,Milk,dairy,5.0,58.0,M-Pesa,,False,False,True
+R11140,2026-10-10,Kitale,Detergent,household,4.0,270.0,Cash,C0009,False,False,False
+R11141,2026-10-10,Kakuma Town,Detergent,household,6.0,270.0,Cash,,False,False,True
+R11142,2026-10-10,Kakuma Town,Soap,household,3.0,76.0,Cash,,False,False,True
+R11143,2026-10-10,Lodwar,Salt,cooking,2.0,40.0,M-Pesa,,False,False,True
+R11144,2026-10-10,Kakuma Town,Detergent,household,1.0,270.0,Card,C0215,False,False,False
+R11145,2026-10-10,Lodwar,Soda,drinks,2.0,70.0,M-Pesa,,False,False,True
+R11146,2026-10-10,Kakuma Town,Kale,produce,2.0,30.0,Cash,C0205,False,False,False
+R11147,2026-10-10,Lodwar,Juice,drinks,2.0,130.0,Cash,C0096,False,False,False
+R11148,2026-10-10,Kakuma Town,Tea leaves,cooking,1.0,120.0,Cash,,False,False,True
+R11149,2026-10-10,Kitale,Eggs,dairy,5.0,480.0,Card,,False,False,True
+R11150,2026-10-10,Kitale,Juice,drinks,1.0,130.0,Cash,C0305,False,False,False
+R11151,2026-10-10,Kakuma Town,Salt,cooking,1.0,,Cash,C0202,False,False,False
+R11152,2026-10-10,Lodwar,Rice,grains,5.0,290.0,unknown,,False,False,True
+R11153,2026-10-10,Kitale,Rice,grains,1.0,290.0,M-Pesa,,False,False,True
+R11154,2026-10-10,Kakuma Town,Milk,dairy,1.0,65.0,M-Pesa,C0071,False,False,False
+R11155,2026-10-10,Lodwar,Sugar,cooking,2.0,165.0,M-Pesa,C0300,False,False,False
+R11156,2026-10-10,Kakuma Town,Sugar,cooking,1.0,165.0,M-Pesa,,False,False,True
+R11157,2026-10-10,Kakuma Town,Milk,dairy,2.0,65.0,M-Pesa,,False,False,True
+R11158,2026-10-10,Lodwar,Wheat flour,grains,6.0,190.0,M-Pesa,,False,False,True
+R11159,2026-10-10,Kakuma Town,Water,drinks,2.0,,Cash,,False,False,True
+R11160,2026-10-10,Lodwar,Soap,household,2.0,85.0,Cash,,False,False,True
+R11161,2026-10-10,Kitale,Wheat flour,grains,4.0,190.0,Cash,,False,False,True
+R11162,2026-10-10,Kitale,Juice,drinks,2.0,130.0,M-Pesa,,False,False,True
+R11163,2026-10-10,Lodwar,Soap,household,3.0,85.0,Cash,C0046,False,False,False
+R11164,2026-10-10,Lodwar,Water,drinks,4.0,50.0,Cash,C0065,False,False,False
+R11165,2026-10-10,Kitale,Cooking oil,cooking,3.0,320.0,M-Pesa,C0219,False,False,False
+R11166,2026-10-10,Lodwar,Detergent,household,1.0,270.0,Card,C0089,False,False,False
+R11167,2026-10-10,Kitale,Soap,household,1.0,85.0,Card,,False,False,True
+R11168,2026-10-10,Lodwar,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R11169,2026-10-10,Kitale,Wheat flour,grains,3.0,190.0,M-Pesa,C0104,False,False,False
+R11170,2026-10-10,Kakuma Town,Cooking oil,cooking,3.0,320.0,Cash,,False,False,True
+R11171,2026-10-10,Lodwar,Sugar,cooking,4.0,165.0,Cash,C0280,False,False,False
+R11172,2026-10-10,Kitale,Maize flour,grains,6.0,180.0,Cash,C0089,False,False,False
+R11173,2026-10-10,Kakuma Town,Onions,produce,4.0,100.0,Card,,False,False,True
+R11174,2026-10-10,Lodwar,Detergent,household,2.0,270.0,Card,,False,False,True
+R11175,2026-10-10,Kakuma Town,Cooking oil,cooking,3.0,320.0,M-Pesa,C0166,False,False,False
+R11176,2026-10-10,Kakuma Town,Wheat flour,grains,3.0,190.0,M-Pesa,,False,False,True
+R11177,2026-10-10,Lodwar,Soda,drinks,3.0,70.0,Credit,,False,False,True
+R11178,2026-10-10,Kakuma Town,Soda,drinks,6.0,70.0,Card,C0177,False,False,False
+R11179,2026-10-10,Kakuma Town,Butter,dairy,1.0,250.0,Cash,,False,False,True
+R11180,2026-10-10,Kakuma Town,Onions,produce,1.0,100.0,M-Pesa,C0062,False,False,False
+R11181,2026-10-10,Kakuma Town,Water,drinks,2.0,50.0,Cash,C0156,False,False,False
+R11182,2026-10-10,Kakuma Town,Salt,cooking,2.0,40.0,Cash,,False,False,True
+R11183,2026-10-10,Lodwar,Soda,drinks,2.0,70.0,M-Pesa,,False,False,True
+R11184,2026-10-10,Kakuma Town,Cooking oil,cooking,2.0,320.0,Cash,,False,False,True
+R11185,2026-10-10,Kakuma Town,Salt,cooking,4.0,40.0,Cash,C0101,False,False,False
+R11186,2026-10-10,Kitale,Matches,household,2.0,20.0,Cash,,False,False,True
+R11187,2026-10-10,Kitale,Soda,drinks,4.0,63.0,Cash,,False,False,True
+R11188,2026-10-10,Lodwar,Wheat flour,grains,1.0,190.0,Cash,C0316,False,False,False
+R11189,2026-10-10,Lodwar,Cooking oil,cooking,3.0,320.0,Cash,,False,False,True
+R11190,2026-10-10,Kitale,Sugar,cooking,2.0,165.0,Card,C0140,False,False,False
+R11191,2026-10-10,Kakuma Town,Matches,household,2.0,20.0,M-Pesa,,False,False,True
+R11192,2026-10-10,Lodwar,Juice,drinks,2.0,130.0,M-Pesa,,False,False,True
+R11193,2026-10-10,Kitale,Rice,grains,3.0,290.0,Cash,C0032,False,False,False
+R11194,2026-10-10,Kitale,Onions,produce,3.0,100.0,Cash,,False,False,True
+R11195,2026-10-10,Lodwar,Sugar,cooking,5.0,165.0,M-Pesa,,False,False,True
+R11196,2026-10-10,Kitale,Rice,grains,2.0,290.0,Cash,C0099,False,False,False
+R11197,2026-10-10,Kakuma Town,Rice,grains,4.0,290.0,M-Pesa,,False,False,True
+R11198,2026-10-10,Kakuma Town,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R11199,2026-10-10,Kakuma Town,Butter,dairy,3.0,250.0,M-Pesa,C0262,False,False,False
+R11200,2026-10-11,Lodwar,Kale,produce,4.0,30.0,M-Pesa,C0039,False,False,False
+R11201,2026-10-11,Kakuma Town,Milk,dairy,2.0,65.0,M-Pesa,,False,False,True
+R11202,2026-10-11,Kitale,Cooking oil,cooking,5.0,288.0,M-Pesa,C0030,False,False,False
+R11203,2026-10-11,Lodwar,Tomatoes,produce,5.0,81.0,M-Pesa,C0008,False,False,False
+R11204,2026-10-11,Kitale,Water,drinks,3.0,50.0,M-Pesa,C0131,False,False,False
+R11205,2026-10-11,Lodwar,Tea leaves,cooking,1.0,120.0,M-Pesa,C0196,False,False,False
+R11206,2026-10-11,Lodwar,Water,drinks,1.0,50.0,M-Pesa,C0206,False,False,False
+R11207,2026-10-11,Kakuma Town,Water,drinks,1.0,50.0,Credit,,False,False,True
+R11208,2026-10-11,Lodwar,Juice,drinks,3.0,130.0,Card,C0231,False,False,False
+R11209,2026-10-11,Kitale,Sugar,cooking,5.0,165.0,M-Pesa,,False,False,True
+R11210,2026-10-11,Lodwar,Eggs,dairy,3.0,480.0,M-Pesa,,False,False,True
+R11211,2026-10-11,Lodwar,Cooking oil,cooking,6.0,320.0,Card,C0157,False,False,False
+R11212,2026-10-11,Kitale,Tomatoes,produce,3.0,90.0,M-Pesa,C0241,False,False,False
+R11213,2026-10-11,Kakuma Town,Maize flour,grains,4.0,180.0,M-Pesa,,False,False,True
+R11214,2026-10-11,Lodwar,Milk,dairy,3.0,65.0,M-Pesa,C0165,False,False,False
+R11215,2026-10-11,Lodwar,Wheat flour,grains,3.0,190.0,Cash,,False,False,True
+R11216,2026-10-11,Kitale,Maize flour,grains,4.0,180.0,Cash,,False,False,True
+R11217,2026-10-11,Kakuma Town,Rice,grains,3.0,290.0,Cash,,False,False,True
+R11218,2026-10-11,Kakuma Town,Kale,produce,5.0,30.0,Cash,,False,False,True
+R11219,2026-10-11,Kakuma Town,Milk,dairy,2.0,65.0,M-Pesa,,False,False,True
+R11220,2026-10-11,Kitale,Water,drinks,4.0,45.0,M-Pesa,C0132,False,False,False
+R11221,2026-10-11,Kakuma Town,Wheat flour,grains,3.0,171.0,M-Pesa,C0006,False,False,False
+R11222,2026-10-11,Kitale,Maize flour,grains,4.0,180.0,Cash,C0112,False,False,False
+R11223,2026-10-11,Kakuma Town,Sugar,cooking,3.0,,M-Pesa,C0013,False,False,False
+R11224,2026-10-11,Kakuma Town,Maize flour,grains,3.0,180.0,Credit,,False,False,True
+R11225,2026-10-11,Kakuma Town,Juice,drinks,-2.0,130.0,M-Pesa,,True,False,True
+R11226,2026-10-11,Kakuma Town,Juice,drinks,6.0,130.0,Cash,C0058,False,False,False
+R11227,2026-10-11,Kakuma Town,Water,drinks,3.0,50.0,Cash,C0034,False,False,False
+R11228,2026-10-11,Kakuma Town,Juice,drinks,3.0,117.0,Cash,,False,False,True
+R11229,2026-10-11,Lodwar,Milk,dairy,3.0,,Cash,C0026,False,False,False
+R11230,2026-10-11,Kakuma Town,Milk,dairy,3.0,65.0,Cash,,False,False,True
+R11231,2026-10-11,Lodwar,Maize flour,grains,3.0,180.0,Cash,C0280,False,False,False
+R11232,2026-10-11,Kitale,Kale,produce,1.0,30.0,Cash,,False,False,True
+R11233,2026-10-11,Kakuma Town,Rice,grains,3.0,,Cash,,False,False,True
+R11234,2026-10-11,Kakuma Town,Tomatoes,produce,2.0,90.0,Cash,C0139,False,False,False
+R11235,2026-10-11,Kakuma Town,Soap,household,2.0,85.0,Cash,C0253,False,False,False
+R11236,2026-10-11,Kakuma Town,Soap,household,4.0,85.0,M-Pesa,,False,False,True
+R11237,2026-10-11,Kitale,Sugar,cooking,4.0,165.0,Cash,,False,False,True
+R11238,2026-10-11,Kitale,Milk,dairy,2.0,65.0,M-Pesa,C0116,False,False,False
+R11239,2026-10-11,Kitale,Wheat flour,grains,2.0,190.0,M-Pesa,C0309,False,False,False
+R11240,2026-10-11,Kakuma Town,Maize flour,grains,3.0,180.0,M-Pesa,,False,False,True
+R11241,2026-10-11,Kitale,Juice,drinks,3.0,130.0,Cash,,False,False,True
+R11242,2026-10-11,Kitale,Rice,grains,2.0,290.0,Cash,C0306,False,False,False
+R11243,2026-10-11,Kitale,Wheat flour,grains,5.0,190.0,Cash,C0299,False,False,False
+R11244,2026-10-11,Lodwar,Kale,produce,1.0,30.0,Cash,,False,False,True
+R11245,2026-10-11,Kakuma Town,Eggs,dairy,1.0,480.0,Cash,,False,False,True
+R11246,2026-10-11,Kakuma Town,Milk,dairy,1.0,65.0,M-Pesa,,False,False,True
+R11247,2026-10-11,Lodwar,Sugar,cooking,4.0,165.0,Cash,C0207,False,False,False
+R11248,2026-10-11,Kakuma Town,Soda,drinks,2.0,,M-Pesa,,False,False,True
+R11249,2026-10-11,Kakuma Town,Eggs,dairy,6.0,480.0,Cash,C0253,False,False,False
+R11250,2026-10-11,Kitale,Tomatoes,produce,6.0,90.0,M-Pesa,,False,False,True
+R11251,2026-10-11,Lodwar,Kale,produce,2.0,30.0,Cash,C0167,False,False,False
+R11252,2026-10-11,Kitale,Milk,dairy,3.0,65.0,Cash,C0195,False,False,False
+R11253,2026-10-11,Kitale,Milk,dairy,2.0,65.0,Cash,,False,False,True
+R11254,2026-10-11,Lodwar,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R11255,2026-10-11,Kitale,Rice,grains,2.0,290.0,Card,,False,False,True
+R11256,2026-10-11,Kitale,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R11257,2026-10-11,Lodwar,Water,drinks,3.0,50.0,Cash,,False,False,True
+R11258,2026-10-11,Kitale,Eggs,dairy,3.0,480.0,Cash,,False,False,True
+R11259,2026-10-11,Kakuma Town,Wheat flour,grains,2.0,190.0,Cash,C0172,False,False,False
+R11260,2026-10-11,Kitale,Cooking oil,cooking,1.0,320.0,Cash,,False,False,True
+R11261,2026-10-11,Kitale,Tomatoes,produce,3.0,90.0,Cash,,False,False,True
+R11262,2026-10-11,Lodwar,Maize flour,grains,4.0,162.0,M-Pesa,C0180,False,False,False
+R11263,2026-10-11,Kakuma Town,Sugar,cooking,3.0,165.0,Cash,C0288,False,False,False
+R11264,2026-10-11,Kitale,Cooking oil,cooking,2.0,320.0,Cash,C0064,False,False,False
+R11265,2026-10-11,Kakuma Town,Eggs,dairy,3.0,480.0,Cash,,False,False,True
+R11266,2026-10-11,Lodwar,Detergent,household,2.0,270.0,Card,,False,False,True
+R11267,2026-10-11,Lodwar,Cooking oil,cooking,5.0,320.0,M-Pesa,C0301,False,False,False
+R11268,2026-10-11,Kakuma Town,Kale,produce,6.0,30.0,M-Pesa,,False,False,True
+R11269,2026-10-11,Kakuma Town,Sugar,cooking,2.0,148.0,Credit,C0249,False,False,False
+R11270,2026-10-11,Lodwar,Rice,grains,2.0,261.0,M-Pesa,,False,False,True
+R11271,2026-10-11,Lodwar,Milk,dairy,1.0,65.0,Card,,False,False,True
+R11272,2026-10-11,Kitale,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R11273,2026-10-11,Kitale,Wheat flour,grains,1.0,190.0,M-Pesa,,False,False,True
+R11274,2026-10-11,Lodwar,Milk,dairy,2.0,65.0,M-Pesa,,False,False,True
+R11275,2026-10-11,Kakuma Town,Salt,cooking,1.0,40.0,Cash,C0169,False,False,False
+R11276,2026-10-11,Kakuma Town,Butter,dairy,1.0,250.0,Card,,False,False,True
+R11277,2026-10-11,Lodwar,Tomatoes,produce,1.0,90.0,M-Pesa,C0253,False,False,False
+R11278,2026-10-11,Kitale,Sugar,cooking,3.0,165.0,Cash,,False,False,True
+R11279,2026-10-11,Kakuma Town,Salt,cooking,3.0,40.0,M-Pesa,C0064,False,False,False
+R11280,2026-10-11,Lodwar,Salt,cooking,2.0,,M-Pesa,C0108,False,False,False
+R11281,2026-10-11,Kitale,Juice,drinks,-1.0,130.0,Card,,True,False,True
+R11282,2026-10-11,Kitale,Butter,dairy,3.0,250.0,M-Pesa,C0205,False,False,False
+R11283,2026-10-11,Kakuma Town,Maize flour,grains,3.0,180.0,M-Pesa,C0168,False,False,False
+R11284,2026-10-11,Kitale,Maize flour,grains,3.0,180.0,Cash,C0167,False,False,False
+R11285,2026-10-11,Kakuma Town,Soap,household,2.0,76.0,Cash,,False,False,True
+R11286,2026-10-11,Lodwar,Tea leaves,cooking,1.0,120.0,M-Pesa,C0225,False,False,False
+R11287,2026-10-11,Lodwar,Water,drinks,2.0,50.0,M-Pesa,C0083,False,False,False
+R11288,2026-10-11,Kakuma Town,Rice,grains,1.0,290.0,M-Pesa,C0226,False,False,False
+R11289,2026-10-11,Kakuma Town,Water,drinks,1.0,50.0,M-Pesa,,False,False,True
+R11290,2026-10-11,Kakuma Town,Milk,dairy,1.0,65.0,Credit,C0003,False,False,False
+R11291,2026-10-11,Kakuma Town,Maize flour,grains,2.0,180.0,Cash,,False,False,True
+R11292,2026-10-11,Lodwar,Wheat flour,grains,5.0,190.0,M-Pesa,C0180,False,False,False
+R11293,2026-10-11,Kakuma Town,Milk,dairy,1.0,65.0,M-Pesa,C0254,False,False,False
+R11294,2026-10-11,Kakuma Town,Eggs,dairy,2.0,480.0,M-Pesa,,False,False,True
+R11295,2026-10-11,Kakuma Town,Salt,cooking,2.0,,Cash,,False,False,True
+R11297,2026-10-11,Lodwar,Soap,household,2.0,85.0,Cash,,False,False,True
+R11298,2026-10-11,Lodwar,Juice,drinks,4.0,130.0,Cash,,False,False,True
+R11299,2026-10-11,Kakuma Town,Rice,grains,1.0,290.0,Cash,C0277,False,False,False
+R11300,2026-10-11,Lodwar,Detergent,household,3.0,270.0,Cash,,False,False,True
+R11301,2026-10-11,Kakuma Town,Eggs,dairy,3.0,480.0,M-Pesa,,False,False,True
+R11302,2026-10-11,Kitale,Sugar,cooking,1.0,165.0,M-Pesa,C0028,False,False,False
+R11303,2026-10-11,Kitale,Sugar,cooking,2.0,165.0,M-Pesa,,False,False,True
+R11304,2026-10-11,Lodwar,Water,drinks,5.0,50.0,Card,C0313,False,False,False
+R11305,2026-10-11,Kitale,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R11306,2026-10-11,Kakuma Town,Sugar,cooking,4.0,165.0,Cash,,False,False,True
+R11307,2026-10-11,Lodwar,Sugar,cooking,2.0,165.0,M-Pesa,,False,False,True
+R11308,2026-10-11,Kakuma Town,Detergent,household,4.0,270.0,M-Pesa,C0201,False,False,False
+R11309,2026-10-11,Lodwar,Rice,grains,3.0,290.0,Cash,,False,False,True
+R11310,2026-10-11,Kitale,Sugar,cooking,5.0,165.0,M-Pesa,,False,False,True
+R11311,2026-10-11,Kakuma Town,Detergent,household,3.0,270.0,Card,,False,False,True
+R11312,2026-10-11,Kakuma Town,Juice,drinks,3.0,130.0,Card,,False,False,True
+R11313,2026-10-11,Kakuma Town,Salt,cooking,3.0,40.0,M-Pesa,,False,False,True
+R11314,2026-10-11,Kakuma Town,Kale,produce,3.0,30.0,M-Pesa,C0013,False,False,False
+R11315,2026-10-11,Kakuma Town,Milk,dairy,3.0,65.0,Cash,,False,False,True
+R11316,2026-10-11,Lodwar,Onions,produce,4.0,100.0,M-Pesa,C0213,False,False,False
+R11317,2026-10-11,Kakuma Town,Sugar,cooking,3.0,165.0,M-Pesa,,False,False,True
+R11318,2026-10-11,Kitale,Milk,dairy,2.0,65.0,Card,,False,False,True
+R11319,2026-10-11,Kitale,Detergent,household,3.0,270.0,M-Pesa,C0117,False,False,False
+R11320,2026-10-11,Kakuma Town,Cooking oil,cooking,4.0,320.0,Cash,,False,False,True
+R11321,2026-10-11,Lodwar,Tomatoes,produce,1.0,90.0,Cash,,False,False,True
+R11322,2026-10-11,Kakuma Town,Tomatoes,produce,4.0,90.0,Cash,C0309,False,False,False
+R11323,2026-10-11,Kakuma Town,Cooking oil,cooking,3.0,320.0,M-Pesa,,False,False,True
+R11324,2026-10-11,Lodwar,Kale,produce,4.0,27.0,unknown,C0218,False,False,False
+R11325,2026-10-11,Kakuma Town,Tomatoes,produce,5.0,90.0,Cash,C0283,False,False,False
+R11326,2026-10-11,Lodwar,Tea leaves,cooking,3.0,120.0,M-Pesa,C0098,False,False,False
+R11327,2026-10-11,Kakuma Town,Soap,household,3.0,85.0,unknown,C0136,False,False,False
+R11328,2026-10-11,Lodwar,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R11329,2026-10-11,Kitale,Juice,drinks,3.0,130.0,M-Pesa,C0086,False,False,False
+R11330,2026-10-11,Kitale,Juice,drinks,1.0,130.0,Credit,,False,False,True
+R11331,2026-10-11,Kakuma Town,Rice,grains,2.0,290.0,Cash,,False,False,True
+R11332,2026-10-11,Kitale,Cooking oil,cooking,2.0,320.0,M-Pesa,C0245,False,False,False
+R11333,2026-10-11,Lodwar,Water,drinks,2.0,50.0,M-Pesa,,False,False,True
+R11334,2026-10-11,Kitale,Milk,dairy,2.0,65.0,M-Pesa,,False,False,True
+R11335,2026-10-11,Lodwar,Cooking oil,cooking,2.0,320.0,M-Pesa,C0105,False,False,False
+R11336,2026-10-11,Kitale,Sugar,cooking,2.0,165.0,M-Pesa,C0191,False,False,False
+R11337,2026-10-11,Lodwar,Milk,dairy,3.0,65.0,Cash,,False,False,True
+R11338,2026-10-11,Kitale,Matches,household,1.0,20.0,M-Pesa,,False,False,True
+R11339,2026-10-11,Kakuma Town,Salt,cooking,2.0,36.0,Credit,C0227,False,False,False
+R11340,2026-10-11,Kitale,Cooking oil,cooking,2.0,320.0,M-Pesa,C0282,False,False,False
+R11341,2026-10-11,Kakuma Town,Soap,household,2.0,85.0,M-Pesa,C0271,False,False,False
+R11342,2026-10-11,Kakuma Town,Kale,produce,1.0,30.0,M-Pesa,C0095,False,False,False
+R11343,2026-10-11,Lodwar,Kale,produce,2.0,30.0,Cash,C0289,False,False,False
+R11344,2026-10-11,Kitale,Kale,produce,2.0,30.0,M-Pesa,,False,False,True
+R11345,2026-10-12,Lodwar,Water,drinks,2.0,50.0,Card,C0211,False,False,False
+R11346,2026-10-12,Kakuma Town,Milk,dairy,2.0,65.0,Card,C0314,False,False,False
+R11347,2026-10-12,Kitale,Detergent,household,1.0,270.0,M-Pesa,,False,False,True
+R11348,2026-10-12,Lodwar,Juice,drinks,3.0,130.0,Cash,,False,False,True
+R11349,2026-10-12,Kakuma Town,Rice,grains,4.0,290.0,Cash,C0069,False,False,False
+R11350,2026-10-12,Kakuma Town,Tomatoes,produce,2.0,90.0,M-Pesa,C0183,False,False,False
+R11351,2026-10-12,Kakuma Town,Milk,dairy,4.0,65.0,Cash,,False,False,True
+R11352,2026-10-12,Kitale,Salt,cooking,2.0,40.0,Cash,,False,False,True
+R11353,2026-10-12,Kakuma Town,Soda,drinks,2.0,70.0,M-Pesa,,False,False,True
+R11354,2026-10-12,Kakuma Town,Cooking oil,cooking,3.0,320.0,Cash,,False,False,True
+R11355,2026-10-12,Kitale,Tomatoes,produce,1.0,90.0,M-Pesa,,False,False,True
+R11356,2026-10-12,Kitale,Juice,drinks,2.0,130.0,Cash,,False,False,True
+R11357,2026-10-12,Kakuma Town,Sugar,cooking,2.0,165.0,M-Pesa,,False,False,True
+R11358,2026-10-12,Kitale,Wheat flour,grains,2.0,190.0,Cash,,False,False,True
+R11359,2026-10-12,Lodwar,Tea leaves,cooking,2.0,120.0,Credit,C0307,False,False,False
+R11360,2026-10-12,Lodwar,Rice,grains,5.0,290.0,Cash,C0028,False,False,False
+R11361,2026-10-12,Lodwar,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R11362,2026-10-12,Kitale,Milk,dairy,2.0,65.0,Cash,,False,False,True
+R11363,2026-10-12,Kakuma Town,Water,drinks,2.0,50.0,unknown,,False,False,True
+R11364,2026-10-12,Kitale,Wheat flour,grains,2.0,190.0,unknown,,False,False,True
+R11365,2026-10-12,Kakuma Town,Water,drinks,3.0,50.0,Cash,,False,False,True
+R11366,2026-10-12,Lodwar,Milk,dairy,2.0,65.0,Cash,C0206,False,False,False
+R11367,2026-10-12,Kitale,Soda,drinks,3.0,70.0,Cash,C0223,False,False,False
+R11368,2026-10-12,Kakuma Town,Soap,household,2.0,85.0,Cash,C0113,False,False,False
+R11369,2026-10-12,Kakuma Town,Maize flour,grains,2.0,180.0,Cash,C0268,False,False,False
+R11370,2026-10-12,Kakuma Town,Wheat flour,grains,2.0,171.0,M-Pesa,C0158,False,False,False
+R11371,2026-10-12,Kitale,Water,drinks,5.0,50.0,M-Pesa,C0026,False,False,False
+R11372,2026-10-12,Kakuma Town,Milk,dairy,3.0,65.0,M-Pesa,,False,False,True
+R11373,2026-10-12,Lodwar,Onions,produce,2.0,100.0,M-Pesa,,False,False,True
+R11374,2026-10-12,Kakuma Town,Maize flour,grains,2.0,180.0,M-Pesa,,False,False,True
+R11375,2026-10-12,Kakuma Town,Milk,dairy,1.0,65.0,Cash,C0195,False,False,False
+R11376,2026-10-12,Kakuma Town,Water,drinks,1.0,50.0,M-Pesa,,False,False,True
+R11377,2026-10-12,Lodwar,Juice,drinks,6.0,130.0,Card,,False,False,True
+R11378,2026-10-12,Kakuma Town,Juice,drinks,3.0,130.0,Cash,,False,False,True
+R11379,2026-10-12,Lodwar,Kale,produce,1.0,30.0,unknown,,False,False,True
+R11380,2026-10-12,Lodwar,Eggs,dairy,5.0,480.0,M-Pesa,,False,False,True
+R11381,2026-10-12,Kitale,Salt,cooking,1.0,40.0,Cash,C0218,False,False,False
+R11382,2026-10-12,Lodwar,Water,drinks,3.0,50.0,Cash,,False,False,True
+R11383,2026-10-12,Kakuma Town,Tomatoes,produce,2.0,90.0,Cash,,False,False,True
+R11384,2026-10-12,Kakuma Town,Soap,household,2.0,85.0,Cash,C0316,False,False,False
+R11385,2026-10-12,Kakuma Town,Water,drinks,3.0,50.0,Cash,,False,False,True
+R11386,2026-10-12,Kakuma Town,Maize flour,grains,2.0,180.0,Cash,C0204,False,False,False
+R11387,2026-10-12,Lodwar,Milk,dairy,5.0,65.0,Cash,C0149,False,False,False
+R11388,2026-10-12,Lodwar,Water,drinks,1.0,45.0,Cash,C0062,False,False,False
+R11389,2026-10-12,Kitale,Tomatoes,produce,2.0,90.0,Cash,C0021,False,False,False
+R11390,2026-10-12,Kitale,Butter,dairy,4.0,250.0,Cash,C0303,False,False,False
+R11391,2026-10-12,Lodwar,Wheat flour,grains,2.0,190.0,unknown,C0173,False,False,False
+R11392,2026-10-12,Lodwar,Milk,dairy,2.0,65.0,Cash,C0174,False,False,False
+R11393,2026-10-12,Kitale,Tomatoes,produce,3.0,90.0,unknown,,False,False,True
+R11394,2026-10-12,Lodwar,Salt,cooking,2.0,40.0,Cash,,False,False,True
+R11395,2026-10-12,Lodwar,Cooking oil,cooking,3.0,320.0,Cash,C0252,False,False,False
+R11396,2026-10-12,Kakuma Town,Sugar,cooking,4.0,165.0,M-Pesa,,False,False,True
+R11397,2026-10-12,Lodwar,Soda,drinks,3.0,70.0,Cash,,False,False,True
+R11398,2026-10-12,Kakuma Town,Matches,household,1.0,20.0,Cash,,False,False,True
+R11399,2026-10-12,Kakuma Town,Rice,grains,4.0,290.0,M-Pesa,C0185,False,False,False
+R11400,2026-10-12,Kakuma Town,Onions,produce,1.0,100.0,M-Pesa,,False,False,True
+R11401,2026-10-12,Kakuma Town,Kale,produce,2.0,30.0,Cash,C0226,False,False,False
+R11402,2026-10-12,Lodwar,Juice,drinks,2.0,130.0,Cash,C0006,False,False,False
+R11403,2026-10-12,Kitale,Rice,grains,1.0,290.0,M-Pesa,,False,False,True
+R11404,2026-10-12,Kakuma Town,Soda,drinks,1.0,70.0,M-Pesa,C0291,False,False,False
+R11405,2026-10-12,Kakuma Town,Maize flour,grains,3.0,180.0,Cash,,False,False,True
+R11406,2026-10-12,Lodwar,Water,drinks,3.0,50.0,M-Pesa,C0187,False,False,False
+R11407,2026-10-12,Kitale,Matches,household,3.0,18.0,Cash,C0236,False,False,False
+R11408,2026-10-12,Kakuma Town,Water,drinks,2.0,50.0,M-Pesa,C0233,False,False,False
+R11409,2026-10-12,Kitale,Soda,drinks,5.0,70.0,M-Pesa,,False,False,True
+R11410,2026-10-12,Kakuma Town,Juice,drinks,2.0,130.0,Cash,C0010,False,False,False
+R11411,2026-10-12,Lodwar,Soap,household,2.0,85.0,Card,C0015,False,False,False
+R11412,2026-10-12,Kakuma Town,Tea leaves,cooking,1.0,120.0,M-Pesa,,False,False,True
+R11413,2026-10-12,Lodwar,Juice,drinks,3.0,130.0,Cash,,False,False,True
+R11414,2026-10-12,Kitale,Wheat flour,grains,2.0,171.0,M-Pesa,,False,False,True
+R11415,2026-10-12,Kitale,Soap,household,6.0,85.0,M-Pesa,,False,False,True
+R11416,2026-10-12,Lodwar,Salt,cooking,3.0,40.0,Cash,C0109,False,False,False
+R11417,2026-10-12,Kitale,Butter,dairy,4.0,225.0,Card,C0050,False,False,False
+R11418,2026-10-12,Kakuma Town,Detergent,household,5.0,270.0,Cash,,False,False,True
+R11419,2026-10-12,Kitale,Salt,cooking,2.0,40.0,Cash,,False,False,True
+R11420,2026-10-12,Kakuma Town,Eggs,dairy,3.0,,M-Pesa,C0293,False,False,False
+R11421,2026-10-12,Kakuma Town,Wheat flour,grains,2.0,190.0,Cash,C0187,False,False,False
+R11422,2026-10-12,Kitale,Soap,household,2.0,85.0,Card,C0202,False,False,False
+R11423,2026-10-12,Kitale,Rice,grains,4.0,290.0,M-Pesa,C0075,False,False,False
+R11424,2026-10-12,Kakuma Town,Eggs,dairy,3.0,480.0,Cash,C0314,False,False,False
+R11425,2026-10-12,Lodwar,Sugar,cooking,1.0,165.0,Cash,,False,False,True
+R11426,2026-10-12,Lodwar,Soda,drinks,3.0,70.0,Cash,C0045,False,False,False
+R11427,2026-10-12,Lodwar,Kale,produce,1.0,30.0,Credit,C0258,False,False,False
+R11428,2026-10-12,Lodwar,Detergent,household,2.0,270.0,Cash,,False,False,True
+R11429,2026-10-12,Kakuma Town,Rice,grains,4.0,290.0,Cash,,False,False,True
+R11430,2026-10-12,Lodwar,Butter,dairy,2.0,250.0,Cash,,False,False,True
+R11431,2026-10-12,Kakuma Town,Wheat flour,grains,3.0,190.0,Cash,,False,False,True
+R11432,2026-10-12,Lodwar,Wheat flour,grains,3.0,190.0,Cash,,False,False,True
+R11433,2026-10-12,Kakuma Town,Soap,household,3.0,85.0,Cash,,False,False,True
+R11434,2026-10-12,Kakuma Town,Wheat flour,grains,-2.0,190.0,M-Pesa,C0198,True,False,False
+R11435,2026-10-12,Lodwar,Salt,cooking,3.0,40.0,M-Pesa,,False,False,True
+R11436,2026-10-12,Lodwar,Water,drinks,3.0,50.0,M-Pesa,C0042,False,False,False
+R11437,2026-10-12,Lodwar,Soda,drinks,3.0,70.0,Cash,,False,False,True
+R11438,2026-10-12,Lodwar,Onions,produce,4.0,100.0,Cash,,False,False,True
+R11439,2026-10-12,Lodwar,Water,drinks,4.0,50.0,Card,,False,False,True
+R11440,2026-10-12,Lodwar,Salt,cooking,2.0,40.0,Card,,False,False,True
+R11441,2026-10-12,Lodwar,Detergent,household,4.0,270.0,M-Pesa,C0129,False,False,False
+R11442,2026-10-13,Lodwar,Maize flour,grains,2.0,180.0,Cash,,False,False,True
+R11443,2026-10-13,Kitale,Eggs,dairy,4.0,480.0,M-Pesa,,False,False,True
+R11444,2026-10-13,Kakuma Town,Eggs,dairy,1.0,480.0,M-Pesa,,False,False,True
+R11445,2026-10-13,Kitale,Onions,produce,3.0,100.0,M-Pesa,C0049,False,False,False
+R11446,2026-10-13,Kitale,Milk,dairy,4.0,65.0,Cash,C0060,False,False,False
+R11447,2026-10-13,Kakuma Town,Soap,household,4.0,85.0,Card,,False,False,True
+R11448,2026-10-13,Kakuma Town,Salt,cooking,4.0,40.0,M-Pesa,C0029,False,False,False
+R11449,2026-10-13,Kakuma Town,Rice,grains,2.0,290.0,Cash,C0070,False,False,False
+R11450,2026-10-13,Kitale,Eggs,dairy,1.0,480.0,Card,,False,False,True
+R11451,2026-10-13,Kakuma Town,Salt,cooking,2.0,40.0,M-Pesa,C0163,False,False,False
+R11452,2026-10-13,Lodwar,Water,drinks,1.0,50.0,Card,,False,False,True
+R11453,2026-10-13,Kakuma Town,Rice,grains,2.0,290.0,Cash,,False,False,True
+R11454,2026-10-13,Lodwar,Wheat flour,grains,4.0,190.0,Cash,C0121,False,False,False
+R11455,2026-10-13,Lodwar,Milk,dairy,4.0,65.0,Card,,False,False,True
+R11456,2026-10-13,Kitale,Matches,household,2.0,20.0,Cash,C0065,False,False,False
+R11457,2026-10-13,Kakuma Town,Water,drinks,2.0,50.0,Cash,C0218,False,False,False
+R11458,2026-10-13,Kakuma Town,Eggs,dairy,3.0,480.0,unknown,C0224,False,False,False
+R11459,2026-10-13,Lodwar,Sugar,cooking,2.0,165.0,M-Pesa,C0008,False,False,False
+R11460,2026-10-13,Kakuma Town,Cooking oil,cooking,2.0,320.0,Cash,C0133,False,False,False
+R11461,2026-10-13,Lodwar,Detergent,household,1.0,270.0,Cash,C0090,False,False,False
+R11462,2026-10-13,Kitale,Wheat flour,grains,1.0,171.0,M-Pesa,C0270,False,False,False
+R11463,2026-10-13,Kitale,Water,drinks,2.0,50.0,Cash,C0194,False,False,False
+R11464,2026-10-13,Kakuma Town,Maize flour,grains,1.0,180.0,M-Pesa,,False,False,True
+R11465,2026-10-13,Kakuma Town,Maize flour,grains,2.0,180.0,Cash,,False,False,True
+R11466,2026-10-13,Kitale,Eggs,dairy,4.0,480.0,unknown,,False,False,True
+R11467,2026-10-13,Kitale,Onions,produce,4.0,100.0,M-Pesa,,False,False,True
+R11468,2026-10-13,Kitale,Soda,drinks,1.0,63.0,M-Pesa,,False,False,True
+R11469,2026-10-13,Kitale,Maize flour,grains,3.0,180.0,M-Pesa,,False,False,True
+R11470,2026-10-13,Kitale,Water,drinks,2.0,50.0,M-Pesa,C0092,False,False,False
+R11471,2026-10-13,Kitale,Eggs,dairy,1.0,480.0,Cash,,False,False,True
+R11472,2026-10-13,Lodwar,Water,drinks,4.0,50.0,Cash,,False,False,True
+R11473,2026-10-13,Lodwar,Milk,dairy,3.0,58.0,Cash,,False,False,True
+R11474,2026-10-13,Lodwar,Matches,household,3.0,20.0,Cash,C0199,False,False,False
+R11475,2026-10-13,Lodwar,Cooking oil,cooking,2.0,320.0,Cash,C0270,False,False,False
+R11476,2026-10-13,Kitale,Eggs,dairy,3.0,480.0,M-Pesa,,False,False,True
+R11477,2026-10-13,Lodwar,Soda,drinks,4.0,70.0,M-Pesa,,False,False,True
+R11478,2026-10-13,Kakuma Town,Soda,drinks,1.0,70.0,M-Pesa,C0249,False,False,False
+R11479,2026-10-13,Kitale,Onions,produce,4.0,100.0,M-Pesa,,False,False,True
+R11480,2026-10-13,Kakuma Town,Eggs,dairy,3.0,480.0,M-Pesa,C0257,False,False,False
+R11481,2026-10-13,Kakuma Town,Milk,dairy,2.0,65.0,M-Pesa,,False,False,True
+R11482,2026-10-13,Kitale,Tomatoes,produce,1.0,90.0,Card,,False,False,True
+R11483,2026-10-13,Lodwar,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R11484,2026-10-13,Kitale,Juice,drinks,1.0,130.0,Cash,,False,False,True
+R11485,2026-10-13,Kitale,Salt,cooking,4.0,40.0,Cash,,False,False,True
+R11486,2026-10-13,Kakuma Town,Milk,dairy,1.0,65.0,Cash,,False,False,True
+R11487,2026-10-13,Lodwar,Matches,household,1.0,20.0,M-Pesa,,False,False,True
+R11488,2026-10-13,Kitale,Water,drinks,2.0,45.0,Cash,,False,False,True
+R11489,2026-10-13,Kitale,Wheat flour,grains,2.0,190.0,M-Pesa,,False,False,True
+R11490,2026-10-13,Lodwar,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R11491,2026-10-13,Lodwar,Salt,cooking,3.0,40.0,M-Pesa,C0293,False,False,False
+R11492,2026-10-13,Kakuma Town,Rice,grains,3.0,290.0,Card,,False,False,True
+R11493,2026-10-13,Lodwar,Butter,dairy,5.0,250.0,M-Pesa,,False,False,True
+R11494,2026-10-13,Kitale,Wheat flour,grains,3.0,190.0,Cash,C0210,False,False,False
+R11495,2026-10-13,Lodwar,Rice,grains,1.0,290.0,Cash,,False,False,True
+R11496,2026-10-13,Kakuma Town,Wheat flour,grains,4.0,190.0,M-Pesa,C0276,False,False,False
+R11497,2026-10-13,Lodwar,Juice,drinks,3.0,130.0,Card,,False,False,True
+R11498,2026-10-13,Lodwar,Water,drinks,2.0,50.0,Cash,C0239,False,False,False
+R11499,2026-10-13,Lodwar,Wheat flour,grains,3.0,190.0,M-Pesa,C0158,False,False,False
+R11500,2026-10-13,Lodwar,Milk,dairy,3.0,65.0,Cash,C0265,False,False,False
+R11501,2026-10-13,Kakuma Town,Kale,produce,2.0,30.0,Cash,,False,False,True
+R11502,2026-10-13,Lodwar,Kale,produce,3.0,30.0,Cash,,False,False,True
+R11503,2026-10-13,Kitale,Sugar,cooking,5.0,165.0,Card,C0187,False,False,False
+R11504,2026-10-13,Kakuma Town,Juice,drinks,3.0,130.0,M-Pesa,,False,False,True
+R11505,2026-10-13,Kakuma Town,Kale,produce,2.0,30.0,Card,C0143,False,False,False
+R11506,2026-10-13,Kakuma Town,Cooking oil,cooking,3.0,320.0,M-Pesa,,False,False,True
+R11507,2026-10-13,Lodwar,Tomatoes,produce,1.0,90.0,Cash,,False,False,True
+R11508,2026-10-13,Kakuma Town,Rice,grains,2.0,290.0,Card,,False,False,True
+R11509,2026-10-13,Lodwar,Onions,produce,4.0,100.0,M-Pesa,C0189,False,False,False
+R11510,2026-10-13,Lodwar,Maize flour,grains,2.0,180.0,Cash,,False,False,True
+R11511,2026-10-13,Kakuma Town,Cooking oil,cooking,1.0,320.0,Cash,C0054,False,False,False
+R11512,2026-10-13,Kitale,Milk,dairy,2.0,65.0,M-Pesa,C0237,False,False,False
+R11513,2026-10-13,Lodwar,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R11514,2026-10-13,Lodwar,Milk,dairy,3.0,65.0,M-Pesa,C0095,False,False,False
+R11515,2026-10-13,Kakuma Town,Wheat flour,grains,3.0,190.0,Card,,False,False,True
+R11516,2026-10-13,Kitale,Cooking oil,cooking,3.0,320.0,M-Pesa,,False,False,True
+R11517,2026-10-13,Kitale,Tomatoes,produce,1.0,90.0,Cash,,False,False,True
+R11518,2026-10-13,Kakuma Town,Maize flour,grains,5.0,180.0,M-Pesa,C0162,False,False,False
+R11519,2026-10-13,Lodwar,Sugar,cooking,2.0,165.0,M-Pesa,,False,False,True
+R11520,2026-10-13,Kitale,Eggs,dairy,-1.0,480.0,Cash,,True,False,True
+R11521,2026-10-13,Kakuma Town,Onions,produce,2.0,100.0,Cash,,False,False,True
+R11522,2026-10-13,Kakuma Town,Juice,drinks,2.0,130.0,M-Pesa,,False,False,True
+R11523,2026-10-13,Lodwar,Milk,dairy,4.0,65.0,M-Pesa,,False,False,True
+R11524,2026-10-13,Lodwar,Maize flour,grains,5.0,180.0,Cash,,False,False,True
+R11525,2026-10-13,Kakuma Town,Juice,drinks,1.0,130.0,unknown,,False,False,True
+R11526,2026-10-13,Kitale,Rice,grains,3.0,290.0,Cash,,False,False,True
+R11527,2026-10-13,Kakuma Town,Soap,household,6.0,85.0,Cash,C0220,False,False,False
+R11528,2026-10-13,Lodwar,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R11529,2026-10-13,Kakuma Town,Detergent,household,2.0,270.0,Cash,,False,False,True
+R11530,2026-10-13,Kakuma Town,Soda,drinks,1.0,70.0,M-Pesa,C0006,False,False,False
+R11531,2026-10-13,Kitale,Water,drinks,5.0,50.0,M-Pesa,,False,False,True
+R11532,2026-10-13,Lodwar,Soda,drinks,2.0,70.0,Cash,C0025,False,False,False
+R11533,2026-10-13,Lodwar,Eggs,dairy,3.0,480.0,Credit,,False,False,True
+R11534,2026-10-13,Lodwar,Maize flour,grains,3.0,180.0,Cash,,False,False,True
+R11535,2026-10-13,Kitale,Kale,produce,-1.0,30.0,Card,,True,False,True
+R11536,2026-10-13,Kitale,Cooking oil,cooking,2.0,,Cash,C0080,False,False,False
+R11537,2026-10-13,Lodwar,Maize flour,grains,1.0,180.0,Cash,C0194,False,False,False
+R11538,2026-10-13,Kakuma Town,Tea leaves,cooking,1.0,120.0,M-Pesa,,False,False,True
+R11539,2026-10-13,Kakuma Town,Tomatoes,produce,2.0,90.0,Cash,C0264,False,False,False
+R11540,2026-10-13,Lodwar,Eggs,dairy,2.0,480.0,Cash,,False,False,True
+R11541,2026-10-13,Lodwar,Tea leaves,cooking,1.0,120.0,Cash,,False,False,True
+R11542,2026-10-13,Kitale,Tea leaves,cooking,3.0,120.0,Cash,,False,False,True
+R11543,2026-10-13,Kitale,Eggs,dairy,3.0,480.0,M-Pesa,,False,False,True
+R11544,2026-10-13,Lodwar,Juice,drinks,4.0,130.0,M-Pesa,,False,False,True
+R11545,2026-10-13,Kakuma Town,Wheat flour,grains,4.0,171.0,Cash,,False,False,True
+R11547,2026-10-14,Kakuma Town,Onions,produce,1.0,100.0,Cash,C0191,False,False,False
+R11548,2026-10-14,Kitale,Sugar,cooking,1.0,165.0,Cash,,False,False,True
+R11549,2026-10-14,Kakuma Town,Wheat flour,grains,1.0,190.0,Cash,C0183,False,False,False
+R11550,2026-10-14,Kakuma Town,Wheat flour,grains,3.0,190.0,M-Pesa,,False,False,True
+R11551,2026-10-14,Kitale,Salt,cooking,5.0,40.0,unknown,,False,False,True
+R11552,2026-10-14,Kitale,Sugar,cooking,3.0,165.0,M-Pesa,,False,False,True
+R11553,2026-10-14,Kakuma Town,Eggs,dairy,2.0,480.0,Credit,,False,False,True
+R11554,2026-10-14,Kakuma Town,Milk,dairy,1.0,65.0,M-Pesa,,False,False,True
+R11555,2026-10-14,Lodwar,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R11556,2026-10-14,Kitale,Maize flour,grains,1.0,180.0,Cash,,False,False,True
+R11557,2026-10-14,Kakuma Town,Onions,produce,3.0,100.0,M-Pesa,,False,False,True
+R11558,2026-10-14,Kakuma Town,Matches,household,2.0,20.0,Cash,C0142,False,False,False
+R11559,2026-10-14,Kakuma Town,Eggs,dairy,1.0,480.0,Cash,C0249,False,False,False
+R11560,2026-10-14,Kakuma Town,Salt,cooking,4.0,,M-Pesa,,False,False,True
+R11561,2026-10-14,Kakuma Town,Juice,drinks,3.0,130.0,M-Pesa,C0102,False,False,False
+R11562,2026-10-14,Kitale,Maize flour,grains,1.0,180.0,Cash,,False,False,True
+R11563,2026-10-14,Kakuma Town,Rice,grains,1.0,290.0,M-Pesa,,False,False,True
+R11564,2026-10-14,Kakuma Town,Sugar,cooking,2.0,148.0,Cash,,False,False,True
+R11565,2026-10-14,Lodwar,Soap,household,2.0,85.0,M-Pesa,C0086,False,False,False
+R11566,2026-10-14,Kakuma Town,Soda,drinks,3.0,70.0,Cash,,False,False,True
+R11567,2026-10-14,Lodwar,Kale,produce,2.0,30.0,Card,C0314,False,False,False
+R11568,2026-10-14,Lodwar,Milk,dairy,1.0,65.0,M-Pesa,,False,False,True
+R11569,2026-10-14,Kakuma Town,Wheat flour,grains,2.0,190.0,M-Pesa,,False,False,True
+R11570,2026-10-14,Kitale,Soda,drinks,3.0,70.0,M-Pesa,,False,False,True
+R11571,2026-10-14,Kitale,Matches,household,2.0,20.0,Cash,,False,False,True
+R11572,2026-10-14,Lodwar,Milk,dairy,1.0,65.0,M-Pesa,,False,False,True
+R11573,2026-10-14,Kakuma Town,Maize flour,grains,2.0,180.0,M-Pesa,,False,False,True
+R11574,2026-10-14,Kitale,Wheat flour,grains,6.0,190.0,M-Pesa,,False,False,True
+R11575,2026-10-14,Kitale,Wheat flour,grains,5.0,190.0,M-Pesa,,False,False,True
+R11576,2026-10-14,Kitale,Juice,drinks,3.0,130.0,M-Pesa,C0084,False,False,False
+R11577,2026-10-14,Kitale,Salt,cooking,2.0,40.0,Card,C0289,False,False,False
+R11578,2026-10-14,Kakuma Town,Soap,household,3.0,85.0,M-Pesa,,False,False,True
+R11579,2026-10-14,Kitale,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R11580,2026-10-14,Kakuma Town,Milk,dairy,5.0,65.0,Cash,,False,False,True
+R11581,2026-10-14,Lodwar,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R11582,2026-10-14,Kakuma Town,Sugar,cooking,2.0,165.0,M-Pesa,,False,False,True
+R11583,2026-10-14,Kitale,Juice,drinks,3.0,130.0,M-Pesa,C0048,False,False,False
+R11584,2026-10-14,Lodwar,Milk,dairy,1.0,65.0,M-Pesa,C0224,False,False,False
+R11585,2026-10-14,Kakuma Town,Detergent,household,2.0,270.0,Cash,C0120,False,False,False
+R11586,2026-10-14,Kakuma Town,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R11587,2026-10-14,Kitale,Tomatoes,produce,3.0,90.0,Cash,C0179,False,False,False
+R11588,2026-10-14,Kakuma Town,Salt,cooking,4.0,40.0,M-Pesa,,False,False,True
+R11589,2026-10-14,Kitale,Onions,produce,3.0,90.0,M-Pesa,C0255,False,False,False
+R11590,2026-10-14,Kakuma Town,Soda,drinks,1.0,70.0,M-Pesa,,False,False,True
+R11591,2026-10-14,Kitale,Matches,household,4.0,20.0,M-Pesa,,False,False,True
+R11592,2026-10-14,Lodwar,Sugar,cooking,4.0,165.0,Cash,,False,False,True
+R11593,2026-10-14,Kakuma Town,Cooking oil,cooking,3.0,320.0,Cash,,False,False,True
+R11594,2026-10-14,Kitale,Kale,produce,3.0,30.0,Cash,,False,False,True
+R11595,2026-10-14,Lodwar,Rice,grains,3.0,290.0,Cash,C0114,False,False,False
+R11596,2026-10-14,Kakuma Town,Maize flour,grains,1.0,180.0,M-Pesa,C0273,False,False,False
+R11597,2026-10-14,Lodwar,Sugar,cooking,1.0,,M-Pesa,C0049,False,False,False
+R11598,2026-10-14,Kakuma Town,Salt,cooking,1.0,40.0,M-Pesa,,False,False,True
+R11599,2026-10-14,Lodwar,Water,drinks,4.0,50.0,Cash,C0291,False,False,False
+R11600,2026-10-14,Kitale,Soap,household,2.0,85.0,M-Pesa,,False,False,True
+R11601,2026-10-14,Kakuma Town,Soda,drinks,4.0,70.0,M-Pesa,C0092,False,False,False
+R11602,2026-10-14,Kakuma Town,Cooking oil,cooking,1.0,320.0,Cash,,False,False,True
+R11603,2026-10-14,Kakuma Town,Eggs,dairy,1.0,480.0,Cash,C0130,False,False,False
+R11604,2026-10-14,Kakuma Town,Soap,household,2.0,85.0,M-Pesa,,False,False,True
+R11605,2026-10-14,Kitale,Salt,cooking,3.0,40.0,Card,C0111,False,False,False
+R11606,2026-10-14,Kakuma Town,Cooking oil,cooking,2.0,320.0,Cash,C0283,False,False,False
+R11607,2026-10-14,Kakuma Town,Soda,drinks,1.0,70.0,M-Pesa,C0208,False,False,False
+R11608,2026-10-14,Kakuma Town,Water,drinks,2.0,50.0,M-Pesa,,False,False,True
+R11609,2026-10-14,Kitale,Sugar,cooking,1.0,165.0,Cash,,False,False,True
+R11610,2026-10-14,Kakuma Town,Soap,household,1.0,85.0,Cash,,False,False,True
+R11611,2026-10-14,Kakuma Town,Milk,dairy,1.0,58.0,Cash,,False,False,True
+R11612,2026-10-14,Kitale,Wheat flour,grains,2.0,190.0,Cash,,False,False,True
+R11614,2026-10-14,Lodwar,Sugar,cooking,1.0,165.0,M-Pesa,,False,False,True
+R11615,2026-10-14,Kitale,Milk,dairy,2.0,65.0,M-Pesa,C0178,False,False,False
+R11616,2026-10-14,Kakuma Town,Soda,drinks,3.0,70.0,Cash,C0007,False,False,False
+R11617,2026-10-14,Kakuma Town,Rice,grains,2.0,290.0,Cash,C0001,False,False,False
+R11618,2026-10-14,Kakuma Town,Cooking oil,cooking,-1.0,320.0,M-Pesa,C0113,True,False,False
+R11619,2026-10-14,Lodwar,Onions,produce,8.0,90.0,Cash,C0016,False,False,False
+R11620,2026-10-14,Kakuma Town,Soda,drinks,3.0,70.0,unknown,C0137,False,False,False
+R11621,2026-10-14,Kitale,Wheat flour,grains,3.0,190.0,unknown,,False,False,True
+R11622,2026-10-14,Kakuma Town,Tea leaves,cooking,1.0,120.0,M-Pesa,C0053,False,False,False
+R11623,2026-10-14,Kitale,Milk,dairy,-2.0,65.0,Cash,C0056,True,False,False
+R11624,2026-10-14,Kitale,Soda,drinks,5.0,70.0,M-Pesa,C0116,False,False,False
+R11625,2026-10-14,Kitale,Juice,drinks,2.0,130.0,M-Pesa,C0158,False,False,False
+R11626,2026-10-14,Lodwar,Kale,produce,1.0,30.0,Cash,,False,False,True
+R11627,2026-10-14,Kakuma Town,Milk,dairy,1.0,65.0,Cash,C0276,False,False,False
+R11628,2026-10-14,Kakuma Town,Juice,drinks,4.0,130.0,M-Pesa,,False,False,True
+R11629,2026-10-14,Kakuma Town,Soda,drinks,3.0,70.0,M-Pesa,C0272,False,False,False
+R11630,2026-10-14,Kakuma Town,Detergent,household,2.0,270.0,M-Pesa,C0186,False,False,False
+R11631,2026-10-14,Lodwar,Milk,dairy,2.0,65.0,Cash,,False,False,True
+R11632,2026-10-14,Kakuma Town,Wheat flour,grains,2.0,190.0,Cash,,False,False,True
+R11633,2026-10-14,Kitale,Detergent,household,1.0,270.0,M-Pesa,C0312,False,False,False
+R11634,2026-10-14,Lodwar,Kale,produce,4.0,30.0,M-Pesa,C0152,False,False,False
+R11635,2026-10-14,Kitale,Soap,household,1.0,85.0,Cash,,False,False,True
+R11636,2026-10-14,Kitale,Tomatoes,produce,2.0,90.0,Cash,C0003,False,False,False
+R11637,2026-10-14,Kitale,Butter,dairy,2.0,250.0,M-Pesa,,False,False,True
+R11638,2026-10-14,Kitale,Soda,drinks,1.0,70.0,Cash,,False,False,True
+R11639,2026-10-14,Lodwar,Juice,drinks,4.0,130.0,unknown,,False,False,True
+R11640,2026-10-14,Kitale,Milk,dairy,2.0,65.0,unknown,C0066,False,False,False
+R11641,2026-10-14,Kakuma Town,Detergent,household,3.0,270.0,Cash,,False,False,True
+R11642,2026-10-14,Kakuma Town,Soda,drinks,1.0,70.0,M-Pesa,,False,False,True
+R11643,2026-10-14,Kitale,Eggs,dairy,2.0,480.0,Cash,,False,False,True
+R11644,2026-10-14,Lodwar,Milk,dairy,1.0,65.0,Cash,,False,False,True
+R11645,2026-10-14,Kitale,Tea leaves,cooking,2.0,120.0,Cash,,False,False,True
+R11646,2026-10-14,Lodwar,Sugar,cooking,1.0,165.0,Cash,,False,False,True
+R11647,2026-10-14,Lodwar,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R11648,2026-10-14,Lodwar,Water,drinks,2.0,50.0,Card,C0147,False,False,False
+R11649,2026-10-14,Kitale,Maize flour,grains,2.0,162.0,Credit,,False,False,True
+R11650,2026-10-14,Kakuma Town,Matches,household,2.0,20.0,M-Pesa,,False,False,True
+R11651,2026-10-14,Lodwar,Maize flour,grains,3.0,180.0,M-Pesa,,False,False,True
+R11652,2026-10-14,Lodwar,Milk,dairy,3.0,65.0,Cash,,False,False,True
+R11653,2026-10-14,Kakuma Town,Soda,drinks,3.0,70.0,M-Pesa,C0196,False,False,False
+R11654,2026-10-14,Kakuma Town,Water,drinks,1.0,50.0,M-Pesa,C0096,False,False,False
+R11655,2026-10-14,Lodwar,Cooking oil,cooking,1.0,320.0,Card,C0050,False,False,False
+R11656,2026-10-14,Kitale,Salt,cooking,2.0,40.0,M-Pesa,,False,False,True
+R11657,2026-10-15,Lodwar,Detergent,household,3.0,270.0,Cash,C0204,False,False,False
+R11658,2026-10-15,Lodwar,Milk,dairy,5.0,65.0,M-Pesa,,False,False,True
+R11659,2026-10-15,Lodwar,Cooking oil,cooking,3.0,320.0,M-Pesa,,False,False,True
+R11660,2026-10-15,Lodwar,Tea leaves,cooking,4.0,120.0,M-Pesa,,False,False,True
+R11661,2026-10-15,Kitale,Matches,household,2.0,20.0,Cash,C0207,False,False,False
+R11662,2026-10-15,Kakuma Town,Soda,drinks,2.0,70.0,M-Pesa,C0299,False,False,False
+R11663,2026-10-15,Kitale,Juice,drinks,3.0,130.0,Cash,C0196,False,False,False
+R11664,2026-10-15,Kakuma Town,Onions,produce,2.0,100.0,Cash,,False,False,True
+R11665,2026-10-15,Lodwar,Salt,cooking,1.0,40.0,Credit,C0069,False,False,False
+R11666,2026-10-15,Kakuma Town,Juice,drinks,1.0,130.0,unknown,,False,False,True
+R11667,2026-10-15,Kakuma Town,Salt,cooking,5.0,40.0,Credit,,False,False,True
+R11668,2026-10-15,Lodwar,Juice,drinks,4.0,130.0,Cash,C0150,False,False,False
+R11669,2026-10-15,Kakuma Town,Milk,dairy,1.0,65.0,M-Pesa,C0201,False,False,False
+R11670,2026-10-15,Kakuma Town,Soda,drinks,3.0,70.0,Cash,C0218,False,False,False
+R11671,2026-10-15,Kitale,Tomatoes,produce,5.0,90.0,M-Pesa,,False,False,True
+R11672,2026-10-15,Lodwar,Juice,drinks,3.0,130.0,Cash,,False,False,True
+R11673,2026-10-15,Kitale,Cooking oil,cooking,3.0,320.0,Cash,C0234,False,False,False
+R11674,2026-10-15,Kakuma Town,Milk,dairy,1.0,58.0,M-Pesa,,False,False,True
+R11675,2026-10-15,Kakuma Town,Cooking oil,cooking,1.0,320.0,Cash,,False,False,True
+R11676,2026-10-15,Kakuma Town,Water,drinks,1.0,50.0,Cash,C0222,False,False,False
+R11677,2026-10-15,Kakuma Town,Milk,dairy,3.0,65.0,M-Pesa,,False,False,True
+R11678,2026-10-15,Kakuma Town,Water,drinks,2.0,50.0,Card,C0264,False,False,False
+R11679,2026-10-15,Kitale,Wheat flour,grains,1.0,190.0,Cash,,False,False,True
+R11680,2026-10-15,Kitale,Juice,drinks,2.0,130.0,Cash,,False,False,True
+R11681,2026-10-15,Lodwar,Eggs,dairy,3.0,480.0,M-Pesa,,False,False,True
+R11682,2026-10-15,Lodwar,Sugar,cooking,2.0,148.0,M-Pesa,,False,False,True
+R11683,2026-10-15,Kitale,Tea leaves,cooking,1.0,120.0,M-Pesa,,False,False,True
+R11684,2026-10-15,Kakuma Town,Water,drinks,1.0,45.0,Credit,,False,False,True
+R11685,2026-10-15,Lodwar,Water,drinks,1.0,50.0,Cash,C0249,False,False,False
+R11686,2026-10-15,Kitale,Juice,drinks,3.0,,M-Pesa,,False,False,True
+R11687,2026-10-15,Kakuma Town,Milk,dairy,2.0,65.0,Cash,C0178,False,False,False
+R11688,2026-10-15,Lodwar,Soap,household,3.0,76.0,Card,C0223,False,False,False
+R11689,2026-10-15,Kitale,Soda,drinks,2.0,70.0,M-Pesa,,False,False,True
+R11690,2026-10-15,Kitale,Soap,household,2.0,85.0,Cash,,False,False,True
+R11691,2026-10-15,Kakuma Town,Detergent,household,1.0,270.0,Cash,C0058,False,False,False
+R11692,2026-10-15,Kakuma Town,Wheat flour,grains,2.0,190.0,Cash,,False,False,True
+R11693,2026-10-15,Lodwar,Tomatoes,produce,2.0,90.0,M-Pesa,,False,False,True
+R11694,2026-10-15,Kitale,Tea leaves,cooking,1.0,120.0,M-Pesa,,False,False,True
+R11695,2026-10-15,Lodwar,Butter,dairy,2.0,250.0,M-Pesa,,False,False,True
+R11696,2026-10-15,Kakuma Town,Soda,drinks,3.0,70.0,Card,C0111,False,False,False
+R11697,2026-10-15,Kitale,Milk,dairy,4.0,65.0,Cash,,False,False,True
+R11698,2026-10-15,Kakuma Town,Detergent,household,3.0,270.0,Card,C0285,False,False,False
+R11699,2026-10-15,Kitale,Soap,household,3.0,85.0,M-Pesa,,False,False,True
+R11700,2026-10-15,Lodwar,Tea leaves,cooking,2.0,120.0,M-Pesa,C0220,False,False,False
+R11701,2026-10-15,Kitale,Rice,grains,3.0,290.0,Cash,C0173,False,False,False
+R11702,2026-10-15,Kitale,Sugar,cooking,5.0,165.0,M-Pesa,C0239,False,False,False
+R11703,2026-10-15,Lodwar,Kale,produce,1.0,30.0,M-Pesa,,False,False,True
+R11704,2026-10-15,Kakuma Town,Wheat flour,grains,1.0,190.0,Cash,C0002,False,False,False
+R11705,2026-10-15,Kakuma Town,Salt,cooking,5.0,40.0,M-Pesa,C0048,False,False,False
+R11706,2026-10-15,Kitale,Milk,dairy,2.0,65.0,M-Pesa,,False,False,True
+R11707,2026-10-15,Kakuma Town,Water,drinks,2.0,50.0,M-Pesa,C0216,False,False,False
+R11708,2026-10-15,Kitale,Juice,drinks,3.0,130.0,Cash,C0137,False,False,False
+R11709,2026-10-15,Lodwar,Milk,dairy,4.0,65.0,M-Pesa,,False,False,True
+R11710,2026-10-15,Kitale,Tea leaves,cooking,2.0,120.0,Cash,,False,False,True
+R11711,2026-10-15,Lodwar,Water,drinks,1.0,50.0,Credit,,False,False,True
+R11712,2026-10-15,Kakuma Town,Water,drinks,-2.0,50.0,M-Pesa,,True,False,True
+R11713,2026-10-15,Kitale,Wheat flour,grains,4.0,190.0,Cash,C0302,False,False,False
+R11714,2026-10-15,Lodwar,Salt,cooking,1.0,40.0,Cash,,False,False,True
+R11715,2026-10-15,Kakuma Town,Milk,dairy,2.0,65.0,M-Pesa,C0032,False,False,False
+R11716,2026-10-15,Kitale,Maize flour,grains,3.0,180.0,Cash,,False,False,True
+R11717,2026-10-15,Kakuma Town,Soda,drinks,1.0,63.0,Cash,C0038,False,False,False
+R11718,2026-10-15,Kitale,Milk,dairy,2.0,65.0,M-Pesa,C0212,False,False,False
+R11719,2026-10-15,Kitale,Soda,drinks,2.0,70.0,Card,,False,False,True
+R11720,2026-10-15,Kitale,Juice,drinks,2.0,130.0,M-Pesa,,False,False,True
+R11721,2026-10-15,Kitale,Tomatoes,produce,2.0,90.0,M-Pesa,C0100,False,False,False
+R11722,2026-10-15,Kakuma Town,Eggs,dairy,3.0,480.0,M-Pesa,C0022,False,False,False
+R11723,2026-10-15,Lodwar,Butter,dairy,2.0,250.0,Cash,,False,False,True
+R11724,2026-10-15,Kakuma Town,Wheat flour,grains,2.0,190.0,M-Pesa,C0248,False,False,False
+R11725,2026-10-15,Lodwar,Rice,grains,3.0,290.0,Cash,,False,False,True
+R11726,2026-10-15,Kitale,Eggs,dairy,4.0,480.0,Cash,C0028,False,False,False
+R11727,2026-10-15,Lodwar,Butter,dairy,1.0,250.0,Cash,,False,False,True
+R11728,2026-10-15,Kitale,Water,drinks,1.0,50.0,Cash,C0007,False,False,False
+R11729,2026-10-15,Kakuma Town,Wheat flour,grains,4.0,190.0,M-Pesa,C0257,False,False,False
+R11730,2026-10-15,Kitale,Maize flour,grains,1.0,180.0,M-Pesa,C0164,False,False,False
+R11731,2026-10-15,Lodwar,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R11732,2026-10-15,Lodwar,Kale,produce,2.0,30.0,M-Pesa,,False,False,True
+R11733,2026-10-15,Kitale,Onions,produce,3.0,100.0,Cash,,False,False,True
+R11734,2026-10-15,Kakuma Town,Butter,dairy,2.0,225.0,Cash,C0188,False,False,False
+R11735,2026-10-15,Kakuma Town,Kale,produce,1.0,30.0,M-Pesa,,False,False,True
+R11736,2026-10-15,Kakuma Town,Sugar,cooking,2.0,165.0,M-Pesa,,False,False,True
+R11737,2026-10-15,Kakuma Town,Detergent,household,3.0,,Cash,C0096,False,False,False
+R11738,2026-10-15,Kitale,Cooking oil,cooking,2.0,320.0,Cash,,False,False,True
+R11739,2026-10-15,Kakuma Town,Butter,dairy,3.0,250.0,M-Pesa,C0219,False,False,False
+R11740,2026-10-15,Kakuma Town,Water,drinks,3.0,50.0,Cash,C0014,False,False,False
+R11741,2026-10-15,Lodwar,Cooking oil,cooking,3.0,320.0,M-Pesa,,False,False,True
+R11742,2026-10-15,Lodwar,Kale,produce,3.0,30.0,M-Pesa,C0236,False,False,False
+R11743,2026-10-15,Kitale,Soda,drinks,3.0,70.0,Cash,,False,False,True
+R11744,2026-10-15,Lodwar,Milk,dairy,3.0,65.0,M-Pesa,C0130,False,False,False
+R11745,2026-10-15,Kitale,Detergent,household,3.0,270.0,M-Pesa,,False,False,True
+R11746,2026-10-15,Lodwar,Water,drinks,3.0,50.0,M-Pesa,C0091,False,False,False
+R11747,2026-10-15,Lodwar,Onions,produce,2.0,100.0,M-Pesa,,False,False,True
+R11748,2026-10-15,Kitale,Onions,produce,6.0,100.0,Cash,,False,False,True
+R11749,2026-10-15,Kitale,Sugar,cooking,1.0,165.0,M-Pesa,C0100,False,False,False
+R11750,2026-10-15,Kitale,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R11751,2026-10-15,Kakuma Town,Juice,drinks,3.0,130.0,Cash,C0203,False,False,False
+R11752,2026-10-15,Kakuma Town,Milk,dairy,3.0,65.0,Credit,,False,False,True
+R11753,2026-10-16,Lodwar,Salt,cooking,3.0,40.0,Credit,C0185,False,False,False
+R11754,2026-10-16,Kitale,Kale,produce,1.0,30.0,M-Pesa,,False,False,True
+R11755,2026-10-16,Kakuma Town,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R11756,2026-10-16,Kakuma Town,Tea leaves,cooking,2.0,120.0,Cash,C0116,False,False,False
+R11757,2026-10-16,Kitale,Water,drinks,1.0,50.0,M-Pesa,C0138,False,False,False
+R11758,2026-10-16,Kitale,Detergent,household,5.0,270.0,Cash,C0282,False,False,False
+R11759,2026-10-16,Kakuma Town,Onions,produce,2.0,100.0,Cash,,False,False,True
+R11760,2026-10-16,Kitale,Juice,drinks,1.0,130.0,Card,C0234,False,False,False
+R11761,2026-10-16,Lodwar,Salt,cooking,4.0,40.0,M-Pesa,C0106,False,False,False
+R11762,2026-10-16,Kitale,Wheat flour,grains,3.0,190.0,M-Pesa,C0090,False,False,False
+R11763,2026-10-16,Lodwar,Tomatoes,produce,1.0,81.0,Cash,,False,False,True
+R11764,2026-10-16,Kitale,Soap,household,2.0,85.0,Cash,,False,False,True
+R11765,2026-10-16,Lodwar,Soda,drinks,3.0,70.0,Cash,C0190,False,False,False
+R11766,2026-10-16,Kakuma Town,Soda,drinks,3.0,70.0,Cash,C0035,False,False,False
+R11767,2026-10-16,Kakuma Town,Milk,dairy,3.0,65.0,M-Pesa,,False,False,True
+R11768,2026-10-16,Lodwar,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R11769,2026-10-16,Kakuma Town,Milk,dairy,2.0,65.0,M-Pesa,,False,False,True
+R11770,2026-10-16,Kakuma Town,Salt,cooking,1.0,40.0,Cash,,False,False,True
+R11771,2026-10-16,Kitale,Soap,household,5.0,85.0,Cash,,False,False,True
+R11772,2026-10-16,Kakuma Town,Tomatoes,produce,1.0,90.0,Cash,C0232,False,False,False
+R11773,2026-10-16,Kakuma Town,Rice,grains,3.0,261.0,M-Pesa,,False,False,True
+R11774,2026-10-16,Kitale,Onions,produce,4.0,100.0,unknown,,False,False,True
+R11775,2026-10-16,Kitale,Tomatoes,produce,5.0,90.0,M-Pesa,,False,False,True
+R11776,2026-10-16,Kakuma Town,Soap,household,2.0,85.0,M-Pesa,,False,False,True
+R11777,2026-10-16,Lodwar,Milk,dairy,5.0,65.0,Cash,,False,False,True
+R11778,2026-10-16,Lodwar,Rice,grains,4.0,290.0,unknown,,False,False,True
+R11779,2026-10-16,Kakuma Town,Onions,produce,3.0,100.0,Cash,C0282,False,False,False
+R11780,2026-10-16,Kitale,Salt,cooking,2.0,40.0,Cash,,False,False,True
+R11781,2026-10-16,Lodwar,Rice,grains,1.0,290.0,M-Pesa,C0223,False,False,False
+R11782,2026-10-16,Kitale,Rice,grains,3.0,290.0,Card,,False,False,True
+R11783,2026-10-16,Kakuma Town,Cooking oil,cooking,2.0,320.0,Cash,,False,False,True
+R11784,2026-10-16,Kitale,Water,drinks,4.0,50.0,M-Pesa,,False,False,True
+R11785,2026-10-16,Kitale,Water,drinks,2.0,50.0,Cash,C0078,False,False,False
+R11786,2026-10-16,Lodwar,Cooking oil,cooking,3.0,,M-Pesa,C0184,False,False,False
+R11787,2026-10-16,Lodwar,Eggs,dairy,6.0,480.0,M-Pesa,C0310,False,False,False
+R11788,2026-10-16,Kitale,Soda,drinks,2.0,70.0,M-Pesa,C0144,False,False,False
+R11789,2026-10-16,Kitale,Cooking oil,cooking,2.0,320.0,Cash,C0174,False,False,False
+R11790,2026-10-16,Kitale,Wheat flour,grains,1.0,190.0,Cash,,False,False,True
+R11791,2026-10-16,Kakuma Town,Sugar,cooking,1.0,165.0,M-Pesa,C0030,False,False,False
+R11792,2026-10-16,Kakuma Town,Salt,cooking,2.0,40.0,Cash,C0011,False,False,False
+R11793,2026-10-16,Kakuma Town,Detergent,household,5.0,270.0,M-Pesa,,False,False,True
+R11794,2026-10-16,Kitale,Soda,drinks,1.0,70.0,Cash,,False,False,True
+R11795,2026-10-16,Lodwar,Maize flour,grains,1.0,180.0,Cash,,False,False,True
+R11796,2026-10-16,Lodwar,Kale,produce,1.0,30.0,Card,,False,False,True
+R11798,2026-10-16,Kitale,Milk,dairy,2.0,65.0,Cash,,False,False,True
+R11799,2026-10-16,Kitale,Water,drinks,2.0,50.0,M-Pesa,,False,False,True
+R11800,2026-10-16,Lodwar,Juice,drinks,1.0,117.0,M-Pesa,C0001,False,False,False
+R11801,2026-10-16,Kitale,Water,drinks,1.0,50.0,Cash,,False,False,True
+R11802,2026-10-16,Kakuma Town,Matches,household,3.0,20.0,M-Pesa,,False,False,True
+R11803,2026-10-16,Lodwar,Water,drinks,1.0,50.0,M-Pesa,C0097,False,False,False
+R11804,2026-10-16,Kakuma Town,Milk,dairy,4.0,65.0,Cash,C0015,False,False,False
+R11805,2026-10-16,Kitale,Wheat flour,grains,5.0,190.0,M-Pesa,,False,False,True
+R11806,2026-10-16,Kitale,Water,drinks,2.0,50.0,Cash,,False,False,True
+R11807,2026-10-16,Kitale,Milk,dairy,3.0,65.0,Cash,C0029,False,False,False
+R11808,2026-10-16,Kakuma Town,Cooking oil,cooking,4.0,320.0,M-Pesa,,False,False,True
+R11809,2026-10-16,Lodwar,Water,drinks,2.0,50.0,M-Pesa,,False,False,True
+R11810,2026-10-16,Kakuma Town,Wheat flour,grains,2.0,190.0,M-Pesa,,False,False,True
+R11811,2026-10-16,Lodwar,Milk,dairy,2.0,65.0,M-Pesa,C0006,False,False,False
+R11812,2026-10-16,Lodwar,Kale,produce,1.0,27.0,Cash,C0093,False,False,False
+R11813,2026-10-16,Kitale,Onions,produce,2.0,100.0,Cash,C0020,False,False,False
+R11814,2026-10-16,Kakuma Town,Onions,produce,2.0,100.0,Cash,,False,False,True
+R11815,2026-10-16,Lodwar,Cooking oil,cooking,2.0,320.0,Cash,,False,False,True
+R11816,2026-10-16,Kakuma Town,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R11817,2026-10-16,Lodwar,Soda,drinks,2.0,70.0,M-Pesa,C0021,False,False,False
+R11818,2026-10-16,Kakuma Town,Sugar,cooking,2.0,165.0,M-Pesa,,False,False,True
+R11819,2026-10-16,Kakuma Town,Salt,cooking,3.0,36.0,M-Pesa,,False,False,True
+R11820,2026-10-16,Kakuma Town,Cooking oil,cooking,1.0,288.0,M-Pesa,,False,False,True
+R11821,2026-10-16,Lodwar,Juice,drinks,1.0,130.0,Cash,,False,False,True
+R11822,2026-10-16,Kitale,Soap,household,3.0,85.0,Cash,,False,False,True
+R11823,2026-10-16,Kitale,Tea leaves,cooking,3.0,120.0,M-Pesa,,False,False,True
+R11824,2026-10-16,Lodwar,Salt,cooking,-2.0,40.0,Cash,C0204,True,False,False
+R11825,2026-10-16,Kakuma Town,Kale,produce,1.0,27.0,Cash,,False,False,True
+R11826,2026-10-16,Kitale,Soap,household,2.0,85.0,M-Pesa,C0120,False,False,False
+R11827,2026-10-16,Lodwar,Milk,dairy,2.0,65.0,Cash,C0234,False,False,False
+R11828,2026-10-16,Kakuma Town,Maize flour,grains,2.0,162.0,M-Pesa,,False,False,True
+R11829,2026-10-16,Kitale,Water,drinks,4.0,50.0,M-Pesa,C0289,False,False,False
+R11830,2026-10-16,Lodwar,Wheat flour,grains,4.0,190.0,Cash,C0160,False,False,False
+R11831,2026-10-16,Lodwar,Maize flour,grains,1.0,180.0,Cash,C0085,False,False,False
+R11832,2026-10-16,Kitale,Sugar,cooking,4.0,165.0,Cash,C0224,False,False,False
+R11833,2026-10-16,Kakuma Town,Water,drinks,2.0,50.0,Cash,,False,False,True
+R11834,2026-10-16,Kakuma Town,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R11835,2026-10-16,Kakuma Town,Water,drinks,1.0,50.0,Card,,False,False,True
+R11836,2026-10-16,Kakuma Town,Eggs,dairy,3.0,480.0,Cash,C0161,False,False,False
+R11837,2026-10-16,Kakuma Town,Eggs,dairy,4.0,480.0,M-Pesa,C0048,False,False,False
+R11838,2026-10-16,Lodwar,Wheat flour,grains,3.0,190.0,Cash,,False,False,True
+R11839,2026-10-16,Kakuma Town,Wheat flour,grains,1.0,190.0,Cash,C0255,False,False,False
+R11840,2026-10-16,Kitale,Water,drinks,4.0,50.0,M-Pesa,C0241,False,False,False
+R11841,2026-10-16,Kitale,Water,drinks,2.0,50.0,Cash,,False,False,True
+R11842,2026-10-16,Kitale,Milk,dairy,2.0,65.0,M-Pesa,,False,False,True
+R11843,2026-10-16,Lodwar,Kale,produce,1.0,30.0,M-Pesa,,False,False,True
+R11844,2026-10-16,Kakuma Town,Detergent,household,1.0,270.0,M-Pesa,C0052,False,False,False
+R11845,2026-10-16,Kakuma Town,Tea leaves,cooking,3.0,120.0,M-Pesa,,False,False,True
+R11846,2026-10-16,Kakuma Town,Soap,household,2.0,85.0,Cash,C0070,False,False,False
+R11847,2026-10-16,Kitale,Sugar,cooking,1.0,148.0,M-Pesa,,False,False,True
+R11848,2026-10-16,Lodwar,Water,drinks,1.0,50.0,Cash,C0066,False,False,False
+R11849,2026-10-16,Lodwar,Maize flour,grains,5.0,180.0,M-Pesa,,False,False,True
+R11850,2026-10-16,Kakuma Town,Cooking oil,cooking,3.0,320.0,Credit,,False,False,True
+R11851,2026-10-16,Lodwar,Maize flour,grains,3.0,,Cash,C0139,False,False,False
+R11852,2026-10-16,Kakuma Town,Onions,produce,3.0,100.0,Cash,C0193,False,False,False
+R11853,2026-10-16,Kakuma Town,Kale,produce,2.0,,Card,,False,False,True
+R11854,2026-10-16,Lodwar,Matches,household,2.0,20.0,Card,C0094,False,False,False
+R11855,2026-10-16,Kakuma Town,Water,drinks,5.0,50.0,M-Pesa,,False,False,True
+R11856,2026-10-16,Kakuma Town,Tea leaves,cooking,2.0,120.0,Cash,C0014,False,False,False
+R11857,2026-10-16,Lodwar,Maize flour,grains,1.0,180.0,Cash,,False,False,True
+R11858,2026-10-16,Kakuma Town,Maize flour,grains,2.0,180.0,Cash,C0070,False,False,False
+R11859,2026-10-17,Lodwar,Water,drinks,3.0,50.0,Cash,C0162,False,False,False
+R11860,2026-10-17,Kakuma Town,Juice,drinks,1.0,130.0,Cash,C0207,False,False,False
+R11861,2026-10-17,Lodwar,Eggs,dairy,3.0,480.0,M-Pesa,C0132,False,False,False
+R11862,2026-10-17,Lodwar,Wheat flour,grains,2.0,190.0,Cash,C0303,False,False,False
+R11863,2026-10-17,Kitale,Soda,drinks,1.0,70.0,Cash,C0008,False,False,False
+R11864,2026-10-17,Lodwar,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R11865,2026-10-17,Kitale,Cooking oil,cooking,4.0,320.0,Card,C0031,False,False,False
+R11866,2026-10-17,Kitale,Eggs,dairy,6.0,480.0,Cash,C0318,False,False,False
+R11867,2026-10-17,Lodwar,Tea leaves,cooking,1.0,120.0,M-Pesa,,False,False,True
+R11868,2026-10-17,Kitale,Salt,cooking,1.0,40.0,M-Pesa,,False,False,True
+R11869,2026-10-17,Kakuma Town,Soda,drinks,2.0,70.0,Card,C0266,False,False,False
+R11870,2026-10-17,Kakuma Town,Juice,drinks,4.0,130.0,M-Pesa,C0285,False,False,False
+R11871,2026-10-17,Kakuma Town,Eggs,dairy,3.0,480.0,M-Pesa,,False,False,True
+R11872,2026-10-17,Lodwar,Eggs,dairy,1.0,480.0,Cash,,False,False,True
+R11873,2026-10-17,Kakuma Town,Rice,grains,2.0,290.0,M-Pesa,,False,False,True
+R11874,2026-10-17,Kakuma Town,Rice,grains,3.0,290.0,M-Pesa,,False,False,True
+R11875,2026-10-17,Kakuma Town,Milk,dairy,3.0,65.0,M-Pesa,C0058,False,False,False
+R11876,2026-10-17,Lodwar,Salt,cooking,1.0,40.0,Card,C0244,False,False,False
+R11877,2026-10-17,Kakuma Town,Eggs,dairy,1.0,480.0,M-Pesa,C0221,False,False,False
+R11878,2026-10-17,Kakuma Town,Matches,household,4.0,20.0,Cash,,False,False,True
+R11879,2026-10-17,Lodwar,Kale,produce,7.0,30.0,Cash,,False,False,True
+R11880,2026-10-17,Kakuma Town,Maize flour,grains,-2.0,162.0,M-Pesa,C0314,True,False,False
+R11881,2026-10-17,Kitale,Tea leaves,cooking,3.0,108.0,M-Pesa,C0052,False,False,False
+R11882,2026-10-17,Kakuma Town,Wheat flour,grains,2.0,190.0,Credit,C0207,False,False,False
+R11883,2026-10-17,Kakuma Town,Soda,drinks,1.0,70.0,M-Pesa,,False,False,True
+R11884,2026-10-17,Kakuma Town,Eggs,dairy,3.0,480.0,Credit,C0124,False,False,False
+R11885,2026-10-17,Kitale,Milk,dairy,2.0,65.0,Cash,,False,False,True
+R11886,2026-10-17,Kitale,Rice,grains,3.0,290.0,unknown,C0190,False,False,False
+R11887,2026-10-17,Lodwar,Matches,household,8.0,,M-Pesa,,False,False,True
+R11888,2026-10-17,Kitale,Tomatoes,produce,1.0,90.0,Cash,,False,False,True
+R11889,2026-10-17,Lodwar,Kale,produce,2.0,30.0,Cash,C0051,False,False,False
+R11890,2026-10-17,Kakuma Town,Onions,produce,2.0,100.0,M-Pesa,C0122,False,False,False
+R11891,2026-10-17,Kakuma Town,Tea leaves,cooking,2.0,120.0,Cash,C0152,False,False,False
+R11892,2026-10-17,Lodwar,Wheat flour,grains,1.0,171.0,Cash,,False,False,True
+R11893,2026-10-17,Lodwar,Soda,drinks,1.0,70.0,M-Pesa,,False,False,True
+R11894,2026-10-17,Lodwar,Soap,household,3.0,85.0,Cash,,False,False,True
+R11895,2026-10-17,Kakuma Town,Water,drinks,2.0,50.0,M-Pesa,,False,False,True
+R11896,2026-10-17,Kakuma Town,Kale,produce,2.0,30.0,M-Pesa,,False,False,True
+R11897,2026-10-17,Kakuma Town,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R11898,2026-10-17,Kitale,Soap,household,3.0,,Credit,C0227,False,False,False
+R11899,2026-10-17,Kakuma Town,Maize flour,grains,2.0,180.0,Cash,C0109,False,False,False
+R11900,2026-10-17,Lodwar,Water,drinks,1.0,50.0,M-Pesa,,False,False,True
+R11901,2026-10-17,Kitale,Water,drinks,2.0,50.0,Cash,C0034,False,False,False
+R11902,2026-10-17,Kakuma Town,Juice,drinks,2.0,130.0,Cash,C0155,False,False,False
+R11903,2026-10-17,Kakuma Town,Maize flour,grains,3.0,180.0,M-Pesa,,False,False,True
+R11904,2026-10-17,Kakuma Town,Eggs,dairy,5.0,480.0,Cash,,False,False,True
+R11905,2026-10-17,Kitale,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R11906,2026-10-17,Kitale,Eggs,dairy,2.0,480.0,M-Pesa,,False,False,True
+R11907,2026-10-17,Lodwar,Water,drinks,4.0,50.0,Cash,C0025,False,False,False
+R11908,2026-10-17,Kakuma Town,Butter,dairy,2.0,250.0,Cash,C0059,False,False,False
+R11909,2026-10-17,Kakuma Town,Eggs,dairy,3.0,480.0,Cash,C0055,False,False,False
+R11910,2026-10-17,Kakuma Town,Tea leaves,cooking,3.0,120.0,M-Pesa,C0177,False,False,False
+R11911,2026-10-17,Kitale,Cooking oil,cooking,2.0,320.0,Cash,C0192,False,False,False
+R11912,2026-10-17,Kakuma Town,Wheat flour,grains,4.0,190.0,M-Pesa,,False,False,True
+R11913,2026-10-17,Kakuma Town,Cooking oil,cooking,2.0,320.0,Cash,,False,False,True
+R11914,2026-10-17,Kitale,Onions,produce,3.0,100.0,M-Pesa,C0174,False,False,False
+R11915,2026-10-17,Kitale,Soda,drinks,1.0,70.0,M-Pesa,,False,False,True
+R11916,2026-10-17,Lodwar,Tomatoes,produce,1.0,90.0,M-Pesa,C0097,False,False,False
+R11917,2026-10-17,Kitale,Water,drinks,4.0,50.0,Cash,,False,False,True
+R11918,2026-10-17,Kakuma Town,Soda,drinks,3.0,70.0,M-Pesa,,False,False,True
+R11919,2026-10-17,Kakuma Town,Butter,dairy,2.0,250.0,M-Pesa,C0110,False,False,False
+R11920,2026-10-17,Kakuma Town,Soda,drinks,3.0,70.0,M-Pesa,,False,False,True
+R11921,2026-10-17,Kakuma Town,Water,drinks,5.0,50.0,Cash,C0037,False,False,False
+R11922,2026-10-17,Kitale,Tomatoes,produce,1.0,90.0,M-Pesa,C0212,False,False,False
+R11923,2026-10-17,Kitale,Milk,dairy,3.0,65.0,M-Pesa,,False,False,True
+R11924,2026-10-17,Kakuma Town,Cooking oil,cooking,2.0,320.0,Cash,,False,False,True
+R11925,2026-10-17,Lodwar,Water,drinks,4.0,50.0,M-Pesa,C0006,False,False,False
+R11926,2026-10-17,Kitale,Kale,produce,1.0,30.0,Cash,,False,False,True
+R11927,2026-10-17,Kitale,Eggs,dairy,2.0,480.0,Cash,,False,False,True
+R11928,2026-10-17,Kakuma Town,Maize flour,grains,3.0,180.0,M-Pesa,C0132,False,False,False
+R11929,2026-10-17,Lodwar,Soda,drinks,2.0,70.0,M-Pesa,C0159,False,False,False
+R11930,2026-10-17,Lodwar,Salt,cooking,5.0,40.0,M-Pesa,C0003,False,False,False
+R11931,2026-10-17,Lodwar,Maize flour,grains,1.0,180.0,M-Pesa,,False,False,True
+R11932,2026-10-17,Kakuma Town,Detergent,household,4.0,270.0,Cash,C0182,False,False,False
+R11933,2026-10-17,Kakuma Town,Onions,produce,4.0,100.0,Cash,C0092,False,False,False
+R11934,2026-10-17,Lodwar,Soap,household,2.0,85.0,M-Pesa,,False,False,True
+R11935,2026-10-17,Kakuma Town,Salt,cooking,3.0,40.0,M-Pesa,C0042,False,False,False
+R11936,2026-10-17,Kitale,Tea leaves,cooking,3.0,120.0,Cash,C0252,False,False,False
+R11937,2026-10-17,Lodwar,Maize flour,grains,2.0,180.0,Cash,,False,False,True
+R11938,2026-10-17,Kakuma Town,Cooking oil,cooking,4.0,320.0,unknown,C0203,False,False,False
+R11939,2026-10-17,Kakuma Town,Detergent,household,4.0,270.0,Cash,C0056,False,False,False
+R11940,2026-10-17,Kakuma Town,Soda,drinks,2.0,70.0,M-Pesa,,False,False,True
+R11941,2026-10-17,Lodwar,Tomatoes,produce,4.0,90.0,M-Pesa,C0279,False,False,False
+R11942,2026-10-17,Kitale,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R11943,2026-10-17,Lodwar,Water,drinks,3.0,50.0,Cash,C0009,False,False,False
+R11944,2026-10-17,Kitale,Wheat flour,grains,3.0,190.0,M-Pesa,,False,False,True
+R11945,2026-10-17,Lodwar,Water,drinks,2.0,50.0,M-Pesa,,False,False,True
+R11946,2026-10-17,Lodwar,Sugar,cooking,2.0,165.0,M-Pesa,C0225,False,False,False
+R11947,2026-10-17,Kakuma Town,Salt,cooking,2.0,40.0,M-Pesa,,False,False,True
+R11948,2026-10-17,Kakuma Town,Cooking oil,cooking,4.0,320.0,Cash,,False,False,True
+R11949,2026-10-17,Lodwar,Cooking oil,cooking,2.0,320.0,Cash,,False,False,True
+R11950,2026-10-17,Lodwar,Milk,dairy,2.0,65.0,M-Pesa,C0191,False,False,False
+R11951,2026-10-17,Kitale,Kale,produce,3.0,30.0,Cash,C0136,False,False,False
+R11952,2026-10-17,Lodwar,Maize flour,grains,1.0,180.0,M-Pesa,C0107,False,False,False
+R11953,2026-10-17,Kitale,Milk,dairy,2.0,65.0,Cash,C0008,False,False,False
+R11954,2026-10-17,Kitale,Kale,produce,2.0,30.0,M-Pesa,,False,False,True
+R11955,2026-10-17,Kakuma Town,Rice,grains,3.0,,M-Pesa,C0057,False,False,False
+R11956,2026-10-17,Kakuma Town,Matches,household,2.0,20.0,M-Pesa,C0254,False,False,False
+R11957,2026-10-17,Lodwar,Tomatoes,produce,3.0,90.0,M-Pesa,,False,False,True
+R11958,2026-10-17,Lodwar,Wheat flour,grains,2.0,190.0,Cash,C0044,False,False,False
+R11959,2026-10-17,Kakuma Town,Sugar,cooking,3.0,,Cash,C0141,False,False,False
+R11960,2026-10-17,Kakuma Town,Maize flour,grains,1.0,180.0,Cash,C0238,False,False,False
+R11961,2026-10-17,Kakuma Town,Milk,dairy,2.0,65.0,M-Pesa,C0020,False,False,False
+R11962,2026-10-17,Kitale,Sugar,cooking,2.0,165.0,unknown,C0240,False,False,False
+R11963,2026-10-17,Lodwar,Matches,household,1.0,20.0,Cash,,False,False,True
+R11964,2026-10-17,Kakuma Town,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R11965,2026-10-17,Kakuma Town,Salt,cooking,2.0,40.0,Cash,,False,False,True
+R11966,2026-10-17,Kitale,Matches,household,1.0,20.0,Card,C0296,False,False,False
+R11967,2026-10-17,Kitale,Water,drinks,2.0,50.0,Cash,,False,False,True
+R11968,2026-10-17,Lodwar,Water,drinks,3.0,50.0,Cash,C0202,False,False,False
+R11969,2026-10-17,Kakuma Town,Tomatoes,produce,3.0,90.0,Cash,,False,False,True
+R11970,2026-10-17,Lodwar,Water,drinks,4.0,50.0,M-Pesa,,False,False,True
+R11971,2026-10-17,Lodwar,Soda,drinks,3.0,70.0,M-Pesa,C0155,False,False,False
+R11972,2026-10-17,Lodwar,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R11973,2026-10-17,Kakuma Town,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R11974,2026-10-17,Lodwar,Rice,grains,3.0,290.0,Cash,,False,False,True
+R11975,2026-10-17,Kitale,Milk,dairy,4.0,65.0,Cash,,False,False,True
+R11976,2026-10-17,Kakuma Town,Tea leaves,cooking,3.0,120.0,M-Pesa,,False,False,True
+R11977,2026-10-17,Kitale,Tomatoes,produce,2.0,90.0,Cash,C0179,False,False,False
+R11978,2026-10-17,Kitale,Maize flour,grains,2.0,180.0,M-Pesa,,False,False,True
+R11979,2026-10-17,Lodwar,Matches,household,3.0,20.0,M-Pesa,,False,False,True
+R11980,2026-10-17,Lodwar,Butter,dairy,2.0,250.0,Cash,C0295,False,False,False
+R11981,2026-10-17,Kakuma Town,Sugar,cooking,3.0,165.0,M-Pesa,,False,False,True
+R11982,2026-10-17,Lodwar,Cooking oil,cooking,1.0,320.0,M-Pesa,C0079,False,False,False
+R11983,2026-10-17,Lodwar,Juice,drinks,3.0,130.0,Cash,,False,False,True
+R11984,2026-10-17,Kitale,Salt,cooking,5.0,40.0,M-Pesa,,False,False,True
+R11985,2026-10-17,Kakuma Town,Wheat flour,grains,5.0,190.0,Cash,,False,False,True
+R11986,2026-10-17,Kitale,Rice,grains,2.0,290.0,Cash,,False,False,True
+R11987,2026-10-17,Kitale,Cooking oil,cooking,3.0,320.0,M-Pesa,,False,False,True
+R11988,2026-10-17,Kakuma Town,Onions,produce,1.0,100.0,Cash,,False,False,True
+R11989,2026-10-18,Kakuma Town,Soda,drinks,1.0,70.0,Cash,,False,False,True
+R11990,2026-10-18,Kakuma Town,Maize flour,grains,2.0,180.0,M-Pesa,,False,False,True
+R11991,2026-10-18,Kakuma Town,Soda,drinks,2.0,70.0,M-Pesa,,False,False,True
+R11992,2026-10-18,Lodwar,Soap,household,3.0,85.0,M-Pesa,,False,False,True
+R11993,2026-10-18,Kitale,Wheat flour,grains,4.0,190.0,Cash,C0055,False,False,False
+R11994,2026-10-18,Lodwar,Cooking oil,cooking,3.0,320.0,Cash,C0051,False,False,False
+R11995,2026-10-18,Kitale,Soda,drinks,500.0,70.0,M-Pesa,,False,True,True
+R11996,2026-10-18,Lodwar,Water,drinks,3.0,50.0,Cash,,False,False,True
+R11997,2026-10-18,Kakuma Town,Wheat flour,grains,3.0,190.0,M-Pesa,C0009,False,False,False
+R11998,2026-10-18,Lodwar,Cooking oil,cooking,1.0,320.0,M-Pesa,,False,False,True
+R11999,2026-10-18,Kakuma Town,Butter,dairy,1.0,,M-Pesa,,False,False,True
+R12000,2026-10-18,Kakuma Town,Detergent,household,2.0,270.0,M-Pesa,C0020,False,False,False
+R12001,2026-10-18,Kakuma Town,Milk,dairy,2.0,65.0,M-Pesa,C0148,False,False,False
+R12002,2026-10-18,Kitale,Soda,drinks,1.0,70.0,Card,C0175,False,False,False
+R12003,2026-10-18,Kitale,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R12004,2026-10-18,Lodwar,Maize flour,grains,4.0,180.0,unknown,,False,False,True
+R12005,2026-10-18,Lodwar,Sugar,cooking,1.0,165.0,M-Pesa,C0087,False,False,False
+R12006,2026-10-18,Kakuma Town,Kale,produce,3.0,30.0,M-Pesa,C0198,False,False,False
+R12007,2026-10-18,Kitale,Milk,dairy,2.0,65.0,M-Pesa,C0265,False,False,False
+R12008,2026-10-18,Lodwar,Eggs,dairy,3.0,432.0,Cash,C0232,False,False,False
+R12009,2026-10-18,Lodwar,Detergent,household,1.0,270.0,M-Pesa,C0106,False,False,False
+R12010,2026-10-18,Lodwar,Tomatoes,produce,4.0,81.0,Card,,False,False,True
+R12011,2026-10-18,Lodwar,Rice,grains,5.0,290.0,Cash,C0066,False,False,False
+R12012,2026-10-18,Kakuma Town,Sugar,cooking,2.0,165.0,M-Pesa,,False,False,True
+R12013,2026-10-18,Kitale,Eggs,dairy,3.0,480.0,M-Pesa,,False,False,True
+R12014,2026-10-18,Kitale,Eggs,dairy,1.0,480.0,M-Pesa,,False,False,True
+R12015,2026-10-18,Kakuma Town,Butter,dairy,3.0,250.0,M-Pesa,,False,False,True
+R12016,2026-10-18,Kakuma Town,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R12017,2026-10-18,Lodwar,Butter,dairy,1.0,250.0,M-Pesa,C0023,False,False,False
+R12018,2026-10-18,Kitale,Salt,cooking,2.0,40.0,M-Pesa,,False,False,True
+R12019,2026-10-18,Lodwar,Eggs,dairy,2.0,480.0,Cash,C0149,False,False,False
+R12020,2026-10-18,Lodwar,Soap,household,2.0,85.0,M-Pesa,,False,False,True
+R12021,2026-10-18,Lodwar,Onions,produce,6.0,100.0,Cash,,False,False,True
+R12022,2026-10-18,Lodwar,Soda,drinks,5.0,,M-Pesa,,False,False,True
+R12023,2026-10-18,Lodwar,Detergent,household,3.0,270.0,M-Pesa,,False,False,True
+R12024,2026-10-18,Kakuma Town,Kale,produce,2.0,30.0,Cash,,False,False,True
+R12025,2026-10-18,Kakuma Town,Wheat flour,grains,2.0,190.0,Cash,,False,False,True
+R12026,2026-10-18,Kakuma Town,Butter,dairy,4.0,250.0,Cash,C0176,False,False,False
+R12027,2026-10-18,Kitale,Wheat flour,grains,4.0,190.0,Credit,C0027,False,False,False
+R12028,2026-10-18,Lodwar,Tomatoes,produce,3.0,90.0,M-Pesa,,False,False,True
+R12029,2026-10-18,Kitale,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R12030,2026-10-18,Lodwar,Detergent,household,4.0,270.0,Cash,,False,False,True
+R12031,2026-10-18,Kakuma Town,Maize flour,grains,1.0,180.0,M-Pesa,C0152,False,False,False
+R12032,2026-10-18,Lodwar,Wheat flour,grains,2.0,190.0,Card,,False,False,True
+R12033,2026-10-18,Kakuma Town,Soap,household,3.0,85.0,Card,,False,False,True
+R12034,2026-10-18,Kakuma Town,Water,drinks,4.0,50.0,M-Pesa,,False,False,True
+R12035,2026-10-18,Kitale,Milk,dairy,3.0,65.0,Cash,,False,False,True
+R12036,2026-10-18,Kitale,Milk,dairy,4.0,65.0,M-Pesa,,False,False,True
+R12037,2026-10-18,Lodwar,Onions,produce,4.0,100.0,Cash,C0054,False,False,False
+R12038,2026-10-18,Lodwar,Tomatoes,produce,5.0,90.0,Cash,,False,False,True
+R12039,2026-10-18,Kitale,Soda,drinks,1.0,70.0,M-Pesa,,False,False,True
+R12040,2026-10-18,Lodwar,Water,drinks,2.0,50.0,M-Pesa,C0094,False,False,False
+R12041,2026-10-18,Kakuma Town,Butter,dairy,1.0,250.0,M-Pesa,,False,False,True
+R12042,2026-10-18,Lodwar,Cooking oil,cooking,1.0,320.0,M-Pesa,,False,False,True
+R12043,2026-10-18,Lodwar,Soda,drinks,3.0,70.0,Cash,C0190,False,False,False
+R12044,2026-10-18,Lodwar,Detergent,household,2.0,270.0,Cash,C0265,False,False,False
+R12045,2026-10-18,Lodwar,Soap,household,1.0,76.0,Cash,,False,False,True
+R12046,2026-10-18,Lodwar,Milk,dairy,3.0,58.0,M-Pesa,,False,False,True
+R12047,2026-10-18,Kitale,Detergent,household,3.0,270.0,Card,C0035,False,False,False
+R12048,2026-10-18,Lodwar,Maize flour,grains,2.0,180.0,Cash,,False,False,True
+R12049,2026-10-18,Kitale,Detergent,household,3.0,270.0,M-Pesa,C0245,False,False,False
+R12050,2026-10-18,Lodwar,Sugar,cooking,2.0,165.0,M-Pesa,C0164,False,False,False
+R12051,2026-10-18,Lodwar,Onions,produce,2.0,100.0,Cash,,False,False,True
+R12052,2026-10-18,Kakuma Town,Tomatoes,produce,2.0,90.0,M-Pesa,C0088,False,False,False
+R12053,2026-10-18,Kitale,Tea leaves,cooking,1.0,,Cash,C0049,False,False,False
+R12054,2026-10-18,Lodwar,Tea leaves,cooking,4.0,120.0,Cash,C0212,False,False,False
+R12055,2026-10-18,Kakuma Town,Butter,dairy,3.0,250.0,Cash,,False,False,True
+R12056,2026-10-18,Kitale,Maize flour,grains,3.0,180.0,M-Pesa,,False,False,True
+R12057,2026-10-18,Kitale,Milk,dairy,2.0,65.0,Cash,,False,False,True
+R12058,2026-10-18,Kakuma Town,Salt,cooking,2.0,40.0,M-Pesa,,False,False,True
+R12059,2026-10-18,Kitale,Tomatoes,produce,1.0,90.0,Card,,False,False,True
+R12060,2026-10-18,Lodwar,Rice,grains,3.0,290.0,Cash,C0307,False,False,False
+R12061,2026-10-18,Lodwar,Soap,household,2.0,85.0,M-Pesa,,False,False,True
+R12062,2026-10-18,Kakuma Town,Milk,dairy,1.0,,Card,,False,False,True
+R12063,2026-10-18,Kakuma Town,Onions,produce,3.0,100.0,M-Pesa,C0051,False,False,False
+R12064,2026-10-18,Kitale,Milk,dairy,2.0,65.0,Cash,C0186,False,False,False
+R12065,2026-10-18,Lodwar,Soda,drinks,2.0,70.0,M-Pesa,C0188,False,False,False
+R12066,2026-10-18,Kakuma Town,Juice,drinks,2.0,130.0,Credit,,False,False,True
+R12067,2026-10-18,Lodwar,Detergent,household,1.0,270.0,M-Pesa,C0159,False,False,False
+R12068,2026-10-18,Kakuma Town,Juice,drinks,4.0,130.0,Cash,,False,False,True
+R12069,2026-10-18,Kakuma Town,Water,drinks,2.0,50.0,Cash,C0234,False,False,False
+R12070,2026-10-18,Lodwar,Rice,grains,3.0,290.0,M-Pesa,,False,False,True
+R12071,2026-10-18,Kakuma Town,Cooking oil,cooking,-2.0,288.0,unknown,,True,False,True
+R12072,2026-10-18,Kitale,Wheat flour,grains,2.0,190.0,M-Pesa,C0257,False,False,False
+R12073,2026-10-18,Kitale,Butter,dairy,4.0,250.0,Card,,False,False,True
+R12074,2026-10-18,Kakuma Town,Matches,household,2.0,20.0,Cash,C0092,False,False,False
+R12075,2026-10-18,Kakuma Town,Salt,cooking,2.0,40.0,Cash,,False,False,True
+R12076,2026-10-18,Kitale,Eggs,dairy,2.0,480.0,Cash,,False,False,True
+R12077,2026-10-18,Kakuma Town,Soda,drinks,3.0,70.0,M-Pesa,C0078,False,False,False
+R12078,2026-10-18,Kakuma Town,Maize flour,grains,3.0,180.0,Cash,C0021,False,False,False
+R12079,2026-10-18,Kitale,Rice,grains,2.0,290.0,Card,C0210,False,False,False
+R12080,2026-10-18,Kitale,Water,drinks,4.0,50.0,Cash,C0290,False,False,False
+R12081,2026-10-18,Kakuma Town,Cooking oil,cooking,1.0,320.0,Card,,False,False,True
+R12082,2026-10-18,Kitale,Water,drinks,3.0,50.0,Cash,,False,False,True
+R12083,2026-10-18,Kakuma Town,Juice,drinks,3.0,130.0,Cash,C0074,False,False,False
+R12084,2026-10-18,Kakuma Town,Rice,grains,3.0,261.0,Cash,,False,False,True
+R12085,2026-10-18,Kakuma Town,Kale,produce,1.0,30.0,Credit,,False,False,True
+R12086,2026-10-18,Lodwar,Wheat flour,grains,1.0,190.0,Cash,C0119,False,False,False
+R12087,2026-10-18,Lodwar,Tea leaves,cooking,1.0,120.0,Cash,C0120,False,False,False
+R12088,2026-10-18,Kitale,Cooking oil,cooking,3.0,320.0,M-Pesa,,False,False,True
+R12089,2026-10-18,Kakuma Town,Onions,produce,1.0,100.0,Credit,,False,False,True
+R12090,2026-10-18,Lodwar,Eggs,dairy,1.0,480.0,Cash,C0240,False,False,False
+R12091,2026-10-18,Kitale,Cooking oil,cooking,2.0,320.0,Cash,,False,False,True
+R12092,2026-10-18,Lodwar,Soda,drinks,1.0,70.0,M-Pesa,,False,False,True
+R12093,2026-10-18,Kakuma Town,Juice,drinks,1.0,130.0,M-Pesa,C0268,False,False,False
+R12094,2026-10-18,Kakuma Town,Sugar,cooking,1.0,165.0,Cash,,False,False,True
+R12095,2026-10-18,Kakuma Town,Soda,drinks,4.0,70.0,Card,C0119,False,False,False
+R12096,2026-10-18,Lodwar,Cooking oil,cooking,1.0,320.0,M-Pesa,,False,False,True
+R12097,2026-10-18,Kakuma Town,Tea leaves,cooking,-1.0,120.0,Cash,C0066,True,False,False
+R12098,2026-10-18,Kitale,Juice,drinks,1.0,130.0,Cash,,False,False,True
+R12099,2026-10-18,Kakuma Town,Milk,dairy,2.0,65.0,Cash,C0198,False,False,False
+R12100,2026-10-18,Lodwar,Tomatoes,produce,3.0,90.0,Cash,C0083,False,False,False
+R12101,2026-10-18,Kitale,Maize flour,grains,3.0,180.0,M-Pesa,,False,False,True
+R12102,2026-10-18,Kakuma Town,Tea leaves,cooking,2.0,120.0,M-Pesa,,False,False,True
+R12103,2026-10-18,Kakuma Town,Eggs,dairy,3.0,480.0,Cash,,False,False,True
+R12104,2026-10-18,Lodwar,Soda,drinks,1.0,70.0,Card,,False,False,True
+R12105,2026-10-18,Lodwar,Cooking oil,cooking,4.0,320.0,M-Pesa,C0197,False,False,False
+R12106,2026-10-18,Lodwar,Rice,grains,2.0,290.0,Cash,,False,False,True
+R12107,2026-10-18,Kitale,Tea leaves,cooking,2.0,120.0,M-Pesa,C0054,False,False,False
+R12108,2026-10-18,Lodwar,Cooking oil,cooking,4.0,320.0,M-Pesa,,False,False,True
+R12109,2026-10-18,Kakuma Town,Detergent,household,2.0,270.0,M-Pesa,,False,False,True
+R12110,2026-10-18,Lodwar,Tea leaves,cooking,1.0,120.0,M-Pesa,,False,False,True
+R12111,2026-10-18,Lodwar,Milk,dairy,1.0,65.0,unknown,,False,False,True
+R12112,2026-10-18,Lodwar,Wheat flour,grains,2.0,190.0,Cash,,False,False,True
+R12113,2026-10-18,Kitale,Kale,produce,1.0,30.0,M-Pesa,,False,False,True
+R12114,2026-10-18,Kakuma Town,Wheat flour,grains,3.0,190.0,M-Pesa,,False,False,True
+R12115,2026-10-18,Lodwar,Tomatoes,produce,-2.0,90.0,M-Pesa,,True,False,True
+R12116,2026-10-18,Kakuma Town,Salt,cooking,3.0,40.0,Cash,,False,False,True
+R12117,2026-10-18,Lodwar,Sugar,cooking,2.0,165.0,M-Pesa,C0051,False,False,False
+R12118,2026-10-18,Lodwar,Soap,household,2.0,85.0,Cash,,False,False,True
+R12120,2026-10-18,Kakuma Town,Butter,dairy,2.0,250.0,Cash,C0076,False,False,False
+R12121,2026-10-18,Lodwar,Soap,household,2.0,85.0,Cash,C0277,False,False,False
+R12122,2026-10-18,Kakuma Town,Soap,household,5.0,85.0,M-Pesa,C0008,False,False,False
+R12123,2026-10-18,Lodwar,Maize flour,grains,1.0,162.0,M-Pesa,C0098,False,False,False
+R12124,2026-10-18,Lodwar,Water,drinks,2.0,45.0,M-Pesa,,False,False,True
+R12125,2026-10-18,Kakuma Town,Onions,produce,2.0,100.0,M-Pesa,,False,False,True
+R12126,2026-10-18,Kitale,Milk,dairy,3.0,65.0,Cash,C0187,False,False,False
+R12127,2026-10-18,Lodwar,Milk,dairy,1.0,65.0,Cash,,False,False,True
+R12128,2026-10-18,Lodwar,Sugar,cooking,2.0,,M-Pesa,,False,False,True
+R12129,2026-10-18,Kakuma Town,Tea leaves,cooking,1.0,120.0,Cash,C0155,False,False,False
+R12130,2026-10-18,Kitale,Sugar,cooking,3.0,165.0,Card,C0129,False,False,False
+R12131,2026-10-18,Kitale,Tomatoes,produce,4.0,90.0,Cash,,False,False,True
+R12132,2026-10-18,Lodwar,Wheat flour,grains,2.0,190.0,M-Pesa,,False,False,True
+R12133,2026-10-18,Kitale,Eggs,dairy,3.0,480.0,Cash,,False,False,True
+R12134,2026-10-18,Lodwar,Tea leaves,cooking,2.0,120.0,Cash,,False,False,True
+R12135,2026-10-18,Kitale,Sugar,cooking,4.0,165.0,M-Pesa,C0157,False,False,False
+R12136,2026-10-18,Lodwar,Wheat flour,grains,1.0,171.0,M-Pesa,,False,False,True
+R12137,2026-10-18,Kitale,Eggs,dairy,4.0,432.0,M-Pesa,C0117,False,False,False
+R12138,2026-10-18,Kitale,Tomatoes,produce,2.0,90.0,Cash,C0143,False,False,False
+R12139,2026-10-18,Lodwar,Soap,household,4.0,85.0,Cash,,False,False,True
+R12140,2026-10-18,Kitale,Sugar,cooking,3.0,165.0,M-Pesa,,False,False,True
+R12141,2026-10-18,Kakuma Town,Onions,produce,3.0,100.0,Cash,C0279,False,False,False
+R12142,2026-10-18,Kitale,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R12143,2026-10-18,Kitale,Soda,drinks,3.0,70.0,Cash,,False,False,True
+R12144,2026-10-18,Kitale,Water,drinks,3.0,50.0,Cash,,False,False,True
+R12145,2026-10-18,Lodwar,Butter,dairy,6.0,250.0,Card,,False,False,True
+R12146,2026-10-18,Lodwar,Detergent,household,2.0,270.0,Cash,C0079,False,False,False
+R12147,2026-10-19,Kakuma Town,Wheat flour,grains,3.0,190.0,Card,,False,False,True
+R12148,2026-10-19,Lodwar,Rice,grains,3.0,290.0,Cash,C0233,False,False,False
+R12149,2026-10-19,Kakuma Town,Cooking oil,cooking,2.0,288.0,Cash,,False,False,True
+R12150,2026-10-19,Kitale,Soap,household,4.0,85.0,Cash,,False,False,True
+R12151,2026-10-19,Kakuma Town,Cooking oil,cooking,3.0,320.0,Credit,C0159,False,False,False
+R12152,2026-10-19,Kakuma Town,Rice,grains,3.0,290.0,Cash,C0229,False,False,False
+R12153,2026-10-19,Kakuma Town,Soda,drinks,3.0,70.0,Cash,,False,False,True
+R12154,2026-10-19,Lodwar,Rice,grains,3.0,290.0,M-Pesa,,False,False,True
+R12155,2026-10-19,Lodwar,Salt,cooking,-2.0,40.0,M-Pesa,C0002,True,False,False
+R12156,2026-10-19,Kitale,Juice,drinks,1.0,130.0,Cash,C0302,False,False,False
+R12157,2026-10-19,Kitale,Detergent,household,3.0,270.0,M-Pesa,,False,False,True
+R12158,2026-10-19,Kakuma Town,Butter,dairy,4.0,250.0,M-Pesa,,False,False,True
+R12159,2026-10-19,Kitale,Cooking oil,cooking,4.0,320.0,M-Pesa,,False,False,True
+R12160,2026-10-19,Lodwar,Detergent,household,4.0,270.0,M-Pesa,,False,False,True
+R12161,2026-10-19,Lodwar,Tea leaves,cooking,1.0,120.0,Cash,C0190,False,False,False
+R12162,2026-10-19,Kakuma Town,Maize flour,grains,2.0,180.0,Cash,C0025,False,False,False
+R12163,2026-10-19,Lodwar,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R12164,2026-10-19,Lodwar,Butter,dairy,3.0,250.0,M-Pesa,C0166,False,False,False
+R12165,2026-10-19,Kakuma Town,Rice,grains,3.0,261.0,M-Pesa,C0078,False,False,False
+R12166,2026-10-19,Kakuma Town,Milk,dairy,3.0,65.0,M-Pesa,C0045,False,False,False
+R12167,2026-10-19,Kakuma Town,Salt,cooking,2.0,40.0,M-Pesa,C0172,False,False,False
+R12169,2026-10-19,Kakuma Town,Tea leaves,cooking,1.0,120.0,M-Pesa,,False,False,True
+R12170,2026-10-19,Kakuma Town,Rice,grains,2.0,290.0,M-Pesa,,False,False,True
+R12171,2026-10-19,Lodwar,Soda,drinks,2.0,70.0,M-Pesa,,False,False,True
+R12172,2026-10-19,Kakuma Town,Sugar,cooking,3.0,165.0,Cash,,False,False,True
+R12173,2026-10-19,Kakuma Town,Onions,produce,3.0,100.0,Credit,,False,False,True
+R12174,2026-10-19,Kakuma Town,Soda,drinks,2.0,70.0,Cash,C0109,False,False,False
+R12175,2026-10-19,Kitale,Butter,dairy,4.0,250.0,M-Pesa,,False,False,True
+R12176,2026-10-19,Kitale,Tomatoes,produce,3.0,90.0,Cash,C0068,False,False,False
+R12177,2026-10-19,Kitale,Juice,drinks,4.0,117.0,Cash,,False,False,True
+R12178,2026-10-19,Lodwar,Tomatoes,produce,3.0,90.0,Cash,C0008,False,False,False
+R12179,2026-10-19,Kitale,Rice,grains,1.0,290.0,Cash,,False,False,True
+R12180,2026-10-19,Kitale,Soda,drinks,5.0,70.0,unknown,C0008,False,False,False
+R12181,2026-10-19,Kitale,Butter,dairy,3.0,250.0,Cash,,False,False,True
+R12182,2026-10-19,Kakuma Town,Water,drinks,1.0,45.0,M-Pesa,C0304,False,False,False
+R12183,2026-10-19,Lodwar,Milk,dairy,2.0,58.0,M-Pesa,C0254,False,False,False
+R12184,2026-10-19,Kakuma Town,Eggs,dairy,3.0,480.0,Cash,,False,False,True
+R12185,2026-10-19,Kitale,Tomatoes,produce,2.0,90.0,Card,,False,False,True
+R12186,2026-10-19,Kakuma Town,Soda,drinks,3.0,70.0,M-Pesa,C0131,False,False,False
+R12187,2026-10-19,Lodwar,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R12188,2026-10-19,Lodwar,Soap,household,2.0,85.0,Card,,False,False,True
+R12189,2026-10-19,Kakuma Town,Onions,produce,2.0,100.0,Cash,,False,False,True
+R12190,2026-10-19,Kitale,Kale,produce,1.0,30.0,Cash,,False,False,True
+R12191,2026-10-19,Kakuma Town,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R12192,2026-10-19,Kitale,Sugar,cooking,3.0,148.0,Cash,C0209,False,False,False
+R12193,2026-10-19,Kakuma Town,Cooking oil,cooking,4.0,320.0,Cash,,False,False,True
+R12194,2026-10-19,Kitale,Water,drinks,3.0,50.0,Cash,,False,False,True
+R12195,2026-10-19,Kakuma Town,Water,drinks,3.0,50.0,M-Pesa,C0153,False,False,False
+R12196,2026-10-19,Kakuma Town,Eggs,dairy,3.0,480.0,Cash,C0066,False,False,False
+R12197,2026-10-19,Kakuma Town,Juice,drinks,3.0,130.0,Cash,C0122,False,False,False
+R12198,2026-10-19,Kitale,Rice,grains,5.0,290.0,M-Pesa,,False,False,True
+R12199,2026-10-19,Kitale,Maize flour,grains,5.0,180.0,M-Pesa,,False,False,True
+R12200,2026-10-19,Kitale,Maize flour,grains,2.0,180.0,Cash,C0091,False,False,False
+R12201,2026-10-19,Kakuma Town,Cooking oil,cooking,4.0,320.0,Cash,C0015,False,False,False
+R12202,2026-10-19,Kakuma Town,Detergent,household,1.0,270.0,Cash,,False,False,True
+R12203,2026-10-19,Kitale,Soap,household,5.0,85.0,Credit,C0262,False,False,False
+R12204,2026-10-19,Kakuma Town,Wheat flour,grains,3.0,190.0,Cash,,False,False,True
+R12205,2026-10-19,Kakuma Town,Milk,dairy,5.0,65.0,Cash,,False,False,True
+R12206,2026-10-19,Kakuma Town,Cooking oil,cooking,4.0,320.0,M-Pesa,C0057,False,False,False
+R12207,2026-10-19,Lodwar,Soda,drinks,1.0,70.0,M-Pesa,,False,False,True
+R12208,2026-10-19,Kakuma Town,Water,drinks,3.0,50.0,Cash,,False,False,True
+R12209,2026-10-19,Kakuma Town,Tea leaves,cooking,2.0,120.0,M-Pesa,C0027,False,False,False
+R12210,2026-10-19,Kitale,Wheat flour,grains,4.0,190.0,Cash,C0010,False,False,False
+R12211,2026-10-19,Kakuma Town,Juice,drinks,4.0,130.0,Cash,,False,False,True
+R12212,2026-10-19,Kitale,Maize flour,grains,5.0,180.0,M-Pesa,,False,False,True
+R12213,2026-10-19,Kakuma Town,Milk,dairy,2.0,65.0,Cash,,False,False,True
+R12214,2026-10-19,Kakuma Town,Soap,household,3.0,85.0,Cash,C0064,False,False,False
+R12215,2026-10-19,Kakuma Town,Matches,household,3.0,20.0,Cash,,False,False,True
+R12216,2026-10-19,Kakuma Town,Tomatoes,produce,1.0,90.0,Cash,,False,False,True
+R12217,2026-10-19,Kitale,Water,drinks,2.0,45.0,Cash,,False,False,True
+R12218,2026-10-19,Kakuma Town,Maize flour,grains,2.0,162.0,Cash,,False,False,True
+R12219,2026-10-19,Kitale,Salt,cooking,5.0,40.0,Cash,,False,False,True
+R12220,2026-10-19,Kakuma Town,Onions,produce,-2.0,,Cash,,True,False,True
+R12221,2026-10-19,Lodwar,Soda,drinks,2.0,70.0,M-Pesa,C0313,False,False,False
+R12222,2026-10-19,Kakuma Town,Soap,household,4.0,85.0,Cash,C0168,False,False,False
+R12223,2026-10-19,Kakuma Town,Detergent,household,3.0,270.0,Cash,,False,False,True
+R12224,2026-10-19,Kakuma Town,Milk,dairy,3.0,58.0,Cash,C0261,False,False,False
+R12225,2026-10-19,Kitale,Sugar,cooking,5.0,165.0,Cash,C0178,False,False,False
+R12226,2026-10-19,Kakuma Town,Kale,produce,1.0,30.0,M-Pesa,,False,False,True
+R12227,2026-10-19,Kakuma Town,Rice,grains,2.0,290.0,M-Pesa,,False,False,True
+R12228,2026-10-19,Kakuma Town,Water,drinks,3.0,50.0,Cash,,False,False,True
+R12229,2026-10-19,Kakuma Town,Salt,cooking,3.0,40.0,Cash,,False,False,True
+R12230,2026-10-19,Kitale,Juice,drinks,3.0,130.0,M-Pesa,C0130,False,False,False
+R12231,2026-10-19,Lodwar,Cooking oil,cooking,2.0,320.0,M-Pesa,C0043,False,False,False
+R12232,2026-10-19,Kakuma Town,Cooking oil,cooking,5.0,320.0,M-Pesa,C0130,False,False,False
+R12233,2026-10-19,Kitale,Tea leaves,cooking,2.0,120.0,Cash,,False,False,True
+R12234,2026-10-19,Kakuma Town,Kale,produce,2.0,30.0,Cash,,False,False,True
+R12235,2026-10-19,Kitale,Water,drinks,2.0,50.0,M-Pesa,C0291,False,False,False
+R12236,2026-10-19,Kitale,Milk,dairy,1.0,65.0,M-Pesa,C0059,False,False,False
+R12237,2026-10-19,Kakuma Town,Tomatoes,produce,1.0,90.0,M-Pesa,C0013,False,False,False
+R12238,2026-10-19,Kitale,Onions,produce,3.0,100.0,Cash,C0043,False,False,False
+R12239,2026-10-19,Kakuma Town,Rice,grains,2.0,290.0,M-Pesa,C0196,False,False,False
+R12240,2026-10-19,Lodwar,Wheat flour,grains,2.0,190.0,Cash,,False,False,True
+R12241,2026-10-19,Kitale,Kale,produce,5.0,30.0,Cash,C0099,False,False,False
+R12242,2026-10-19,Kakuma Town,Soda,drinks,3.0,70.0,M-Pesa,,False,False,True
+R12243,2026-10-19,Kitale,Matches,household,3.0,20.0,Cash,,False,False,True
+R12244,2026-10-19,Lodwar,Tea leaves,cooking,1.0,120.0,M-Pesa,C0184,False,False,False
+R12245,2026-10-19,Kitale,Soda,drinks,1.0,63.0,M-Pesa,C0314,False,False,False
+R12246,2026-10-19,Lodwar,Sugar,cooking,2.0,165.0,M-Pesa,C0260,False,False,False
+R12247,2026-10-19,Kitale,Tomatoes,produce,1.0,90.0,Cash,C0073,False,False,False
+R12248,2026-10-19,Kakuma Town,Butter,dairy,2.0,250.0,M-Pesa,,False,False,True
+R12249,2026-10-19,Lodwar,Soap,household,4.0,85.0,M-Pesa,,False,False,True
+R12250,2026-10-19,Kitale,Maize flour,grains,2.0,180.0,M-Pesa,C0282,False,False,False
+R12251,2026-10-19,Kitale,Eggs,dairy,4.0,480.0,Cash,C0294,False,False,False
+R12252,2026-10-19,Lodwar,Maize flour,grains,1.0,180.0,Cash,C0039,False,False,False
+R12253,2026-10-19,Kakuma Town,Juice,drinks,4.0,130.0,M-Pesa,,False,False,True
+R12254,2026-10-19,Kitale,Kale,produce,4.0,30.0,Cash,,False,False,True
+R12255,2026-10-19,Lodwar,Water,drinks,2.0,45.0,Cash,,False,False,True
+R12256,2026-10-19,Lodwar,Tomatoes,produce,3.0,90.0,Cash,,False,False,True
+R12257,2026-10-19,Kakuma Town,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R12258,2026-10-19,Kakuma Town,Soda,drinks,1.0,70.0,M-Pesa,C0293,False,False,False
+R12259,2026-10-19,Lodwar,Rice,grains,4.0,290.0,Cash,,False,False,True
+R12260,2026-10-19,Lodwar,Wheat flour,grains,1.0,171.0,Cash,C0019,False,False,False
+R12261,2026-10-19,Kakuma Town,Rice,grains,3.0,290.0,Cash,C0165,False,False,False
+R12262,2026-10-20,Lodwar,Juice,drinks,2.0,130.0,Cash,,False,False,True
+R12263,2026-10-20,Kitale,Water,drinks,3.0,50.0,Cash,C0032,False,False,False
+R12264,2026-10-20,Kakuma Town,Sugar,cooking,4.0,165.0,M-Pesa,C0235,False,False,False
+R12265,2026-10-20,Kakuma Town,Juice,drinks,2.0,130.0,Cash,,False,False,True
+R12266,2026-10-20,Kakuma Town,Onions,produce,2.0,100.0,M-Pesa,,False,False,True
+R12267,2026-10-20,Kitale,Soda,drinks,1.0,70.0,Credit,C0085,False,False,False
+R12268,2026-10-20,Kakuma Town,Maize flour,grains,3.0,180.0,Cash,C0195,False,False,False
+R12269,2026-10-20,Kakuma Town,Tomatoes,produce,3.0,90.0,Cash,C0023,False,False,False
+R12270,2026-10-20,Kitale,Tea leaves,cooking,4.0,120.0,Cash,C0057,False,False,False
+R12271,2026-10-20,Kitale,Detergent,household,2.0,270.0,Card,,False,False,True
+R12272,2026-10-20,Kitale,Wheat flour,grains,3.0,190.0,M-Pesa,,False,False,True
+R12273,2026-10-20,Kakuma Town,Soda,drinks,3.0,70.0,Cash,,False,False,True
+R12274,2026-10-20,Kitale,Eggs,dairy,4.0,480.0,Cash,,False,False,True
+R12275,2026-10-20,Kitale,Maize flour,grains,3.0,180.0,Cash,,False,False,True
+R12276,2026-10-20,Kitale,Milk,dairy,2.0,65.0,Cash,,False,False,True
+R12277,2026-10-20,Kakuma Town,Rice,grains,2.0,290.0,M-Pesa,,False,False,True
+R12278,2026-10-20,Kakuma Town,Water,drinks,3.0,50.0,M-Pesa,,False,False,True
+R12279,2026-10-20,Kakuma Town,Juice,drinks,250.0,130.0,M-Pesa,C0279,False,True,False
+R12280,2026-10-20,Kakuma Town,Butter,dairy,1.0,225.0,Cash,,False,False,True
+R12281,2026-10-20,Kakuma Town,Water,drinks,2.0,50.0,Cash,C0119,False,False,False
+R12282,2026-10-20,Kitale,Tomatoes,produce,4.0,90.0,M-Pesa,C0161,False,False,False
+R12283,2026-10-20,Kakuma Town,Onions,produce,3.0,100.0,M-Pesa,C0167,False,False,False
+R12284,2026-10-20,Kitale,Detergent,household,6.0,270.0,M-Pesa,,False,False,True
+R12285,2026-10-20,Kitale,Rice,grains,2.0,290.0,Cash,C0183,False,False,False
+R12286,2026-10-20,Lodwar,Juice,drinks,2.0,130.0,Cash,C0220,False,False,False
+R12287,2026-10-20,Kakuma Town,Detergent,household,4.0,270.0,Cash,C0162,False,False,False
+R12288,2026-10-20,Lodwar,Detergent,household,2.0,270.0,M-Pesa,,False,False,True
+R12289,2026-10-20,Lodwar,Juice,drinks,3.0,130.0,unknown,,False,False,True
+R12290,2026-10-20,Kitale,Detergent,household,2.0,270.0,Cash,,False,False,True
+R12291,2026-10-20,Kitale,Water,drinks,1.0,45.0,M-Pesa,,False,False,True
+R12292,2026-10-20,Kitale,Salt,cooking,3.0,40.0,Cash,,False,False,True
+R12293,2026-10-20,Kakuma Town,Sugar,cooking,1.0,165.0,Cash,,False,False,True
+R12294,2026-10-20,Kakuma Town,Water,drinks,2.0,50.0,Cash,C0226,False,False,False
+R12295,2026-10-20,Lodwar,Cooking oil,cooking,1.0,288.0,M-Pesa,,False,False,True
+R12296,2026-10-20,Lodwar,Detergent,household,6.0,270.0,Cash,C0223,False,False,False
+R12297,2026-10-20,Lodwar,Water,drinks,4.0,50.0,Cash,C0021,False,False,False
+R12298,2026-10-20,Kakuma Town,Tea leaves,cooking,3.0,120.0,unknown,,False,False,True
+R12299,2026-10-20,Lodwar,Maize flour,grains,4.0,180.0,M-Pesa,,False,False,True
+R12300,2026-10-20,Lodwar,Tomatoes,produce,2.0,90.0,Cash,,False,False,True
+R12301,2026-10-20,Lodwar,Cooking oil,cooking,2.0,320.0,M-Pesa,,False,False,True
+R12302,2026-10-20,Kakuma Town,Maize flour,grains,2.0,180.0,M-Pesa,C0102,False,False,False
+R12303,2026-10-20,Lodwar,Cooking oil,cooking,4.0,320.0,M-Pesa,C0149,False,False,False
+R12304,2026-10-20,Kitale,Rice,grains,1.0,290.0,Cash,C0028,False,False,False
+R12305,2026-10-20,Lodwar,Soda,drinks,2.0,70.0,Credit,C0020,False,False,False
+R12306,2026-10-20,Kakuma Town,Water,drinks,1.0,,Cash,,False,False,True
+R12307,2026-10-20,Kakuma Town,Onions,produce,2.0,100.0,M-Pesa,,False,False,True
+R12308,2026-10-20,Lodwar,Tomatoes,produce,2.0,90.0,Cash,,False,False,True
+R12309,2026-10-20,Kitale,Matches,household,1.0,20.0,Card,,False,False,True
+R12310,2026-10-20,Kakuma Town,Milk,dairy,4.0,65.0,Cash,,False,False,True
+R12311,2026-10-20,Kakuma Town,Salt,cooking,2.0,40.0,unknown,C0208,False,False,False
+R12312,2026-10-20,Kakuma Town,Tomatoes,produce,2.0,90.0,M-Pesa,,False,False,True
+R12313,2026-10-20,Lodwar,Sugar,cooking,3.0,165.0,M-Pesa,C0170,False,False,False
+R12314,2026-10-20,Kitale,Milk,dairy,4.0,65.0,Cash,C0029,False,False,False
+R12315,2026-10-20,Kitale,Water,drinks,4.0,50.0,Cash,,False,False,True
+R12316,2026-10-20,Lodwar,Soda,drinks,2.0,70.0,M-Pesa,,False,False,True
+R12317,2026-10-20,Lodwar,Eggs,dairy,4.0,480.0,Cash,C0103,False,False,False
+R12318,2026-10-20,Lodwar,Wheat flour,grains,2.0,190.0,Cash,C0179,False,False,False
+R12319,2026-10-20,Kitale,Tomatoes,produce,4.0,90.0,M-Pesa,,False,False,True
+R12320,2026-10-20,Kitale,Onions,produce,4.0,100.0,Cash,C0260,False,False,False
+R12321,2026-10-20,Kitale,Sugar,cooking,5.0,165.0,M-Pesa,C0271,False,False,False
+R12322,2026-10-20,Kakuma Town,Soap,household,3.0,76.0,M-Pesa,,False,False,True
+R12323,2026-10-20,Lodwar,Wheat flour,grains,3.0,190.0,Credit,,False,False,True
+R12324,2026-10-20,Kakuma Town,Sugar,cooking,3.0,165.0,M-Pesa,C0251,False,False,False
+R12325,2026-10-20,Kitale,Rice,grains,2.0,261.0,Cash,,False,False,True
+R12326,2026-10-20,Lodwar,Rice,grains,3.0,,Cash,C0060,False,False,False
+R12327,2026-10-20,Kakuma Town,Cooking oil,cooking,5.0,320.0,Card,,False,False,True
+R12328,2026-10-20,Lodwar,Juice,drinks,6.0,130.0,M-Pesa,,False,False,True
+R12329,2026-10-20,Kakuma Town,Soap,household,1.0,85.0,M-Pesa,,False,False,True
+R12330,2026-10-20,Kakuma Town,Sugar,cooking,2.0,165.0,Cash,,False,False,True
+R12331,2026-10-20,Kakuma Town,Juice,drinks,4.0,130.0,Cash,C0069,False,False,False
+R12332,2026-10-20,Kakuma Town,Eggs,dairy,3.0,480.0,M-Pesa,,False,False,True
+R12333,2026-10-20,Kitale,Sugar,cooking,4.0,165.0,Cash,,False,False,True
+R12334,2026-10-20,Kakuma Town,Water,drinks,3.0,50.0,Cash,C0118,False,False,False
+R12335,2026-10-20,Lodwar,Sugar,cooking,2.0,165.0,Card,,False,False,True
+R12336,2026-10-20,Kakuma Town,Sugar,cooking,3.0,165.0,Cash,,False,False,True
+R12337,2026-10-20,Kakuma Town,Salt,cooking,2.0,40.0,M-Pesa,C0148,False,False,False
+R12338,2026-10-20,Kitale,Salt,cooking,1.0,40.0,Cash,,False,False,True
+R12339,2026-10-20,Lodwar,Soap,household,1.0,85.0,M-Pesa,C0044,False,False,False
+R12340,2026-10-20,Lodwar,Sugar,cooking,2.0,165.0,M-Pesa,,False,False,True
+R12341,2026-10-20,Lodwar,Kale,produce,2.0,30.0,M-Pesa,,False,False,True
+R12342,2026-10-20,Kakuma Town,Maize flour,grains,2.0,180.0,M-Pesa,C0036,False,False,False
+R12343,2026-10-20,Kitale,Water,drinks,1.0,50.0,M-Pesa,C0225,False,False,False
+R12344,2026-10-20,Kitale,Water,drinks,2.0,50.0,unknown,,False,False,True
+R12345,2026-10-20,Kitale,Juice,drinks,2.0,130.0,M-Pesa,C0205,False,False,False
+R12346,2026-10-20,Kakuma Town,Soda,drinks,4.0,70.0,M-Pesa,,False,False,True
+R12347,2026-10-20,Lodwar,Water,drinks,4.0,50.0,M-Pesa,,False,False,True
+R12348,2026-10-20,Lodwar,Matches,household,6.0,,M-Pesa,,False,False,True
+R12349,2026-10-20,Lodwar,Salt,cooking,2.0,,M-Pesa,,False,False,True
+R12350,2026-10-20,Kitale,Tea leaves,cooking,3.0,120.0,Cash,,False,False,True
+R12351,2026-10-20,Lodwar,Milk,dairy,5.0,65.0,M-Pesa,C0288,False,False,False
+R12352,2026-10-20,Lodwar,Eggs,dairy,4.0,480.0,Cash,C0245,False,False,False
+R12353,2026-10-20,Kakuma Town,Wheat flour,grains,2.0,190.0,Card,C0264,False,False,False
+R12354,2026-10-20,Kitale,Maize flour,grains,3.0,180.0,Cash,,False,False,True
+R12355,2026-10-20,Lodwar,Juice,drinks,3.0,130.0,Cash,,False,False,True
+R12356,2026-10-21,Lodwar,Cooking oil,cooking,3.0,320.0,M-Pesa,C0157,False,False,False
+R12357,2026-10-21,Kitale,Water,drinks,5.0,50.0,Cash,,False,False,True
+R12358,2026-10-21,Kitale,Soda,drinks,3.0,70.0,Cash,C0125,False,False,False
+R12359,2026-10-21,Kitale,Milk,dairy,4.0,65.0,Cash,C0021,False,False,False
+R12360,2026-10-21,Lodwar,Tomatoes,produce,2.0,81.0,Cash,C0072,False,False,False
+R12361,2026-10-21,Kitale,Milk,dairy,2.0,65.0,M-Pesa,C0228,False,False,False
+R12362,2026-10-21,Lodwar,Cooking oil,cooking,2.0,320.0,M-Pesa,C0103,False,False,False
+R12363,2026-10-21,Lodwar,Wheat flour,grains,2.0,190.0,M-Pesa,,False,False,True
+R12364,2026-10-21,Kakuma Town,Water,drinks,1.0,50.0,Cash,,False,False,True
+R12365,2026-10-21,Kakuma Town,Cooking oil,cooking,3.0,288.0,Cash,,False,False,True
+R12366,2026-10-21,Lodwar,Maize flour,grains,2.0,180.0,M-Pesa,,False,False,True
+R12367,2026-10-21,Kakuma Town,Soap,household,4.0,85.0,Card,C0267,False,False,False
+R12368,2026-10-21,Kakuma Town,Milk,dairy,6.0,58.0,M-Pesa,,False,False,True
+R12369,2026-10-21,Kakuma Town,Tomatoes,produce,2.0,90.0,Cash,C0202,False,False,False
+R12370,2026-10-21,Lodwar,Soda,drinks,4.0,70.0,M-Pesa,C0137,False,False,False
+R12371,2026-10-21,Kitale,Tomatoes,produce,1.0,81.0,M-Pesa,C0283,False,False,False
+R12372,2026-10-21,Kakuma Town,Sugar,cooking,1.0,148.0,M-Pesa,,False,False,True
+R12373,2026-10-21,Kakuma Town,Wheat flour,grains,4.0,190.0,Card,,False,False,True
+R12374,2026-10-21,Kakuma Town,Soap,household,2.0,85.0,M-Pesa,,False,False,True
+R12375,2026-10-21,Lodwar,Juice,drinks,4.0,130.0,Credit,,False,False,True
+R12376,2026-10-21,Kakuma Town,Detergent,household,4.0,243.0,M-Pesa,,False,False,True
+R12377,2026-10-21,Lodwar,Milk,dairy,2.0,65.0,Card,,False,False,True
+R12378,2026-10-21,Kakuma Town,Kale,produce,4.0,30.0,Cash,,False,False,True
+R12379,2026-10-21,Lodwar,Eggs,dairy,2.0,480.0,Cash,,False,False,True
+R12380,2026-10-21,Lodwar,Sugar,cooking,3.0,165.0,Card,C0310,False,False,False
+R12381,2026-10-21,Lodwar,Milk,dairy,3.0,65.0,Cash,,False,False,True
+R12382,2026-10-21,Kakuma Town,Maize flour,grains,1.0,180.0,Cash,,False,False,True
+R12383,2026-10-21,Kakuma Town,Soda,drinks,3.0,70.0,Cash,C0143,False,False,False
+R12384,2026-10-21,Kitale,Detergent,household,4.0,270.0,Cash,C0311,False,False,False
+R12385,2026-10-21,Kitale,Soda,drinks,3.0,70.0,M-Pesa,,False,False,True
+R12386,2026-10-21,Kitale,Milk,dairy,2.0,58.0,Credit,C0238,False,False,False
+R12387,2026-10-21,Lodwar,Juice,drinks,3.0,130.0,M-Pesa,C0294,False,False,False
+R12388,2026-10-21,Kakuma Town,Kale,produce,3.0,30.0,M-Pesa,C0237,False,False,False
+R12389,2026-10-21,Kitale,Tea leaves,cooking,4.0,120.0,Cash,,False,False,True
+R12390,2026-10-21,Kitale,Butter,dairy,3.0,250.0,Cash,,False,False,True
+R12391,2026-10-21,Kitale,Water,drinks,4.0,50.0,M-Pesa,C0171,False,False,False
+R12392,2026-10-21,Kakuma Town,Tomatoes,produce,2.0,90.0,Cash,C0085,False,False,False
+R12393,2026-10-21,Lodwar,Kale,produce,2.0,30.0,Card,C0092,False,False,False
+R12394,2026-10-21,Kakuma Town,Juice,drinks,3.0,130.0,Cash,,False,False,True
+R12395,2026-10-21,Kakuma Town,Salt,cooking,1.0,40.0,M-Pesa,C0275,False,False,False
+R12396,2026-10-21,Lodwar,Salt,cooking,3.0,40.0,M-Pesa,C0285,False,False,False
+R12397,2026-10-21,Kitale,Soda,drinks,2.0,70.0,M-Pesa,C0065,False,False,False
+R12398,2026-10-21,Lodwar,Kale,produce,1.0,27.0,M-Pesa,,False,False,True
+R12399,2026-10-21,Kakuma Town,Wheat flour,grains,2.0,190.0,Cash,C0319,False,False,False
+R12400,2026-10-21,Kitale,Maize flour,grains,1.0,180.0,Cash,C0064,False,False,False
+R12401,2026-10-21,Lodwar,Matches,household,3.0,20.0,Cash,,False,False,True
+R12402,2026-10-21,Lodwar,Cooking oil,cooking,2.0,320.0,M-Pesa,C0073,False,False,False
+R12403,2026-10-21,Kitale,Cooking oil,cooking,3.0,320.0,M-Pesa,,False,False,True
+R12404,2026-10-21,Kitale,Sugar,cooking,3.0,165.0,Cash,C0024,False,False,False
+R12405,2026-10-21,Lodwar,Tea leaves,cooking,3.0,120.0,Cash,,False,False,True
+R12406,2026-10-21,Kitale,Salt,cooking,4.0,40.0,Card,,False,False,True
+R12407,2026-10-21,Lodwar,Soda,drinks,4.0,70.0,M-Pesa,,False,False,True
+R12408,2026-10-21,Kitale,Sugar,cooking,2.0,165.0,Cash,C0229,False,False,False
+R12409,2026-10-21,Lodwar,Kale,produce,3.0,30.0,Cash,,False,False,True
+R12410,2026-10-21,Lodwar,Rice,grains,1.0,261.0,M-Pesa,C0297,False,False,False
+R12411,2026-10-21,Kakuma Town,Sugar,cooking,3.0,165.0,Cash,,False,False,True
+R12412,2026-10-21,Lodwar,Maize flour,grains,3.0,180.0,M-Pesa,,False,False,True
+R12413,2026-10-21,Kitale,Milk,dairy,4.0,65.0,Cash,C0132,False,False,False
+R12414,2026-10-21,Kitale,Sugar,cooking,3.0,165.0,M-Pesa,,False,False,True
+R12415,2026-10-21,Kakuma Town,Milk,dairy,3.0,65.0,Card,C0308,False,False,False
+R12416,2026-10-21,Kitale,Tomatoes,produce,3.0,90.0,M-Pesa,C0293,False,False,False
+R12417,2026-10-21,Kakuma Town,Milk,dairy,3.0,65.0,Cash,C0250,False,False,False
+R12418,2026-10-21,Kakuma Town,Onions,produce,4.0,100.0,Cash,,False,False,True
+R12419,2026-10-21,Lodwar,Tomatoes,produce,3.0,90.0,M-Pesa,C0096,False,False,False
+R12420,2026-10-21,Kitale,Sugar,cooking,3.0,165.0,M-Pesa,C0036,False,False,False
+R12421,2026-10-21,Lodwar,Sugar,cooking,3.0,165.0,M-Pesa,C0012,False,False,False
+R12422,2026-10-21,Kitale,Sugar,cooking,3.0,165.0,Card,,False,False,True
+R12423,2026-10-21,Kitale,Maize flour,grains,3.0,180.0,Cash,,False,False,True
+R12424,2026-10-21,Kakuma Town,Water,drinks,3.0,50.0,M-Pesa,C0145,False,False,False
+R12425,2026-10-21,Kakuma Town,Soda,drinks,2.0,70.0,Cash,,False,False,True
+R12426,2026-10-21,Kakuma Town,Matches,household,3.0,20.0,Card,C0093,False,False,False
+R12427,2026-10-21,Lodwar,Matches,household,3.0,20.0,Credit,,False,False,True
+R12428,2026-10-21,Kakuma Town,Tomatoes,produce,4.0,90.0,Cash,,False,False,True
+R12429,2026-10-21,Kitale,Juice,drinks,2.0,130.0,M-Pesa,,False,False,True
+R12430,2026-10-21,Kakuma Town,Water,drinks,4.0,50.0,M-Pesa,,False,False,True
+R12431,2026-10-21,Lodwar,Tea leaves,cooking,3.0,120.0,Cash,,False,False,True
+R12432,2026-10-21,Kakuma Town,Salt,cooking,3.0,40.0,M-Pesa,,False,False,True
+R12433,2026-10-21,Kakuma Town,Salt,cooking,2.0,40.0,M-Pesa,,False,False,True
+R12434,2026-10-21,Kakuma Town,Tomatoes,produce,4.0,90.0,Cash,C0086,False,False,False
+R12435,2026-10-21,Kakuma Town,Tomatoes,produce,3.0,90.0,M-Pesa,C0311,False,False,False
+R12436,2026-10-21,Kitale,Soda,drinks,3.0,70.0,M-Pesa,C0017,False,False,False
+R12437,2026-10-21,Kitale,Matches,household,5.0,20.0,M-Pesa,,False,False,True
+R12438,2026-10-21,Lodwar,Soda,drinks,3.0,63.0,M-Pesa,,False,False,True
+R12439,2026-10-21,Kakuma Town,Sugar,cooking,1.0,165.0,M-Pesa,C0018,False,False,False
+R12440,2026-10-21,Lodwar,Maize flour,grains,3.0,180.0,M-Pesa,C0094,False,False,False
+R12441,2026-10-21,Lodwar,Eggs,dairy,3.0,480.0,M-Pesa,,False,False,True
+R12442,2026-10-21,Kitale,Kale,produce,3.0,30.0,Cash,,False,False,True
+R12443,2026-10-21,Lodwar,Milk,dairy,3.0,58.0,Cash,C0104,False,False,False
+R12444,2026-10-21,Lodwar,Kale,produce,3.0,27.0,M-Pesa,C0035,False,False,False
+R12445,2026-10-21,Lodwar,Sugar,cooking,2.0,148.0,Cash,,False,False,True
+R12446,2026-10-21,Kakuma Town,Soap,household,4.0,85.0,M-Pesa,,False,False,True
+R12447,2026-10-21,Kakuma Town,Matches,household,3.0,20.0,Cash,C0185,False,False,False
+R12448,2026-10-21,Kakuma Town,Milk,dairy,3.0,65.0,Cash,C0260,False,False,False
+R12449,2026-10-21,Kitale,Tea leaves,cooking,2.0,120.0,M-Pesa,,False,False,True
+R12450,2026-10-21,Kakuma Town,Rice,grains,5.0,290.0,M-Pesa,C0244,False,False,False
+R12451,2026-10-21,Kakuma Town,Milk,dairy,3.0,65.0,M-Pesa,C0217,False,False,False
+R12452,2026-10-21,Kakuma Town,Milk,dairy,1.0,65.0,Cash,C0209,False,False,False
+R12453,2026-10-21,Kakuma Town,Milk,dairy,1.0,65.0,M-Pesa,,False,False,True
+R12454,2026-10-21,Kakuma Town,Detergent,household,3.0,270.0,Card,,False,False,True
+R12455,2026-10-21,Lodwar,Maize flour,grains,3.0,162.0,Cash,,False,False,True
+R12456,2026-10-21,Kitale,Cooking oil,cooking,4.0,320.0,M-Pesa,,False,False,True
+R12457,2026-10-21,Lodwar,Kale,produce,1.0,30.0,Cash,,False,False,True
+R12458,2026-10-21,Kitale,Cooking oil,cooking,3.0,320.0,Cash,C0268,False,False,False
+R12459,2026-10-21,Kakuma Town,Detergent,household,3.0,243.0,Cash,C0187,False,False,False
+R12460,2026-10-21,Kakuma Town,Soap,household,2.0,85.0,Card,,False,False,True
+R12461,2026-10-21,Kitale,Wheat flour,grains,4.0,190.0,Cash,,False,False,True
+R12462,2026-10-21,Lodwar,Wheat flour,grains,4.0,190.0,M-Pesa,C0200,False,False,False
+R12463,2026-10-21,Lodwar,Salt,cooking,3.0,40.0,Cash,C0140,False,False,False
+R12464,2026-10-21,Lodwar,Wheat flour,grains,1.0,190.0,M-Pesa,C0193,False,False,False
+R12465,2026-10-21,Kakuma Town,Detergent,household,1.0,270.0,M-Pesa,C0118,False,False,False
+R12466,2026-10-21,Kakuma Town,Soap,household,2.0,85.0,M-Pesa,,False,False,True
+R12467,2026-10-21,Lodwar,Soap,household,1.0,85.0,M-Pesa,,False,False,True
+R12468,2026-10-21,Lodwar,Onions,produce,3.0,100.0,Card,,False,False,True
+R12469,2026-10-21,Lodwar,Salt,cooking,3.0,40.0,Cash,C0269,False,False,False
+R12470,2026-10-21,Kakuma Town,Soda,drinks,3.0,70.0,M-Pesa,C0120,False,False,False
+R12471,2026-10-21,Kakuma Town,Soda,drinks,3.0,70.0,Cash,,False,False,True
+R12472,2026-10-21,Kakuma Town,Water,drinks,1.0,50.0,Card,,False,False,True
+R12474,2026-10-21,Kakuma Town,Cooking oil,cooking,2.0,320.0,Cash,C0164,False,False,False
+R12475,2026-10-21,Kakuma Town,Tomatoes,produce,2.0,90.0,Cash,C0095,False,False,False
+R12476,2026-10-21,Kakuma Town,Cooking oil,cooking,4.0,288.0,M-Pesa,C0091,False,False,False
+R12477,2026-10-21,Kakuma Town,Cooking oil,cooking,3.0,320.0,Cash,C0250,False,False,False
+R12478,2026-10-21,Kakuma Town,Wheat flour,grains,4.0,190.0,M-Pesa,,False,False,True
+R12479,2026-10-21,Kitale,Sugar,cooking,1.0,165.0,Cash,C0011,False,False,False
